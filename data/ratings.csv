@@ -1,0 +1,6371 @@
+date	store_name	rating
+2021-11-10	West Avl	5
+2021-11-10	West Avl	5
+2021-11-10	West Avl	4
+2021-11-10	West Avl	5
+2021-11-10	West Avl	4
+2021-11-10	West Avl	4
+2021-11-10	West Avl	4
+2021-11-10	West Avl	4
+2021-11-10	East Avl	4
+2021-11-10	East Avl	5
+2021-11-10	East Avl	3
+2021-11-10	East Avl	5
+2021-11-10	East Avl	5
+2021-11-10	East Avl	5
+2021-11-10	East Avl	4
+2021-11-10	East Avl	4
+2021-11-10	East Avl	4
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	1
+2021-11-10	Blk Mtn	4
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	4
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	3
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	5
+2021-11-10	Blk Mtn	3
+2021-11-10	Blk Mtn	5
+2021-11-10	Lexington	4
+2021-11-10	Lexington	4
+2021-11-10	Lexington	3
+2021-11-10	Lexington	4
+2021-11-10	Lexington	3
+2021-11-10	Lexington	3
+2021-11-10	Lexington	3
+2021-11-10	Lexington	4
+2021-11-10	Lexington	3
+2021-11-10	Lexington	4
+2021-11-10	Lexington	3
+2021-11-10	Lexington	5
+2021-11-10	Lexington	3
+2021-11-10	Lexington	3
+2021-11-10	Lexington	5
+2021-11-10	Lexington	4
+2021-11-10	Lexington	5
+2021-11-10	Lexington	5
+2021-11-10	Lexington	5
+2021-11-10	Lexington	2
+2021-11-10	Lexington	2
+2021-11-10	Lexington	2
+2021-11-10	Lexington	1
+2021-11-10	Lexington	4
+2021-11-10	Lexington	4
+2021-11-10	Lexington	5
+2021-11-10	Lexington	3
+2021-11-10	Lexington	5
+2021-11-10	Lexington	3
+2021-11-10	Lexington	5
+2021-11-09	West Avl	4
+2021-11-09	West Avl	3
+2021-11-09	West Avl	3
+2021-11-09	West Avl	3
+2021-11-09	West Avl	3
+2021-11-09	West Avl	5
+2021-11-09	West Avl	4
+2021-11-09	West Avl	5
+2021-11-09	West Avl	4
+2021-11-09	West Avl	2
+2021-11-09	West Avl	4
+2021-11-09	West Avl	3
+2021-11-09	West Avl	4
+2021-11-09	West Avl	3
+2021-11-09	West Avl	3
+2021-11-09	West Avl	5
+2021-11-09	West Avl	4
+2021-11-09	West Avl	2
+2021-11-09	East Avl	5
+2021-11-09	East Avl	5
+2021-11-09	East Avl	3
+2021-11-09	East Avl	5
+2021-11-09	East Avl	5
+2021-11-09	East Avl	5
+2021-11-09	East Avl	5
+2021-11-09	East Avl	3
+2021-11-09	East Avl	4
+2021-11-09	East Avl	4
+2021-11-09	East Avl	4
+2021-11-09	Blk Mtn	4
+2021-11-09	Blk Mtn	4
+2021-11-09	Blk Mtn	2
+2021-11-09	Blk Mtn	5
+2021-11-09	Blk Mtn	4
+2021-11-09	Blk Mtn	5
+2021-11-09	Blk Mtn	5
+2021-11-09	Blk Mtn	3
+2021-11-09	Blk Mtn	3
+2021-11-09	Blk Mtn	3
+2021-11-09	Blk Mtn	4
+2021-11-09	Blk Mtn	5
+2021-11-09	Blk Mtn	4
+2021-11-09	Blk Mtn	3
+2021-11-09	Blk Mtn	3
+2021-11-09	Blk Mtn	4
+2021-11-09	Lexington	5
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	3
+2021-11-09	Lexington	5
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	5
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	5
+2021-11-09	Lexington	3
+2021-11-09	Lexington	4
+2021-11-09	Lexington	5
+2021-11-09	Lexington	4
+2021-11-09	Lexington	3
+2021-11-09	Lexington	5
+2021-11-09	Lexington	3
+2021-11-09	Lexington	3
+2021-11-09	Lexington	5
+2021-11-09	Lexington	3
+2021-11-09	Lexington	5
+2021-11-09	Lexington	2
+2021-11-09	Lexington	4
+2021-11-09	Lexington	1
+2021-11-09	Lexington	4
+2021-11-09	Lexington	1
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	4
+2021-11-09	Lexington	3
+2021-11-09	Lexington	4
+2021-11-08	West Avl	5
+2021-11-08	West Avl	5
+2021-11-08	West Avl	4
+2021-11-08	West Avl	5
+2021-11-08	West Avl	5
+2021-11-08	West Avl	5
+2021-11-08	West Avl	3
+2021-11-08	West Avl	5
+2021-11-08	West Avl	5
+2021-11-08	West Avl	5
+2021-11-08	West Avl	5
+2021-11-08	West Avl	5
+2021-11-08	West Avl	3
+2021-11-08	West Avl	4
+2021-11-08	West Avl	4
+2021-11-08	West Avl	4
+2021-11-08	West Avl	5
+2021-11-08	East Avl	5
+2021-11-08	East Avl	5
+2021-11-08	East Avl	4
+2021-11-08	East Avl	5
+2021-11-08	East Avl	4
+2021-11-08	Blk Mtn	2
+2021-11-08	Blk Mtn	4
+2021-11-08	Blk Mtn	4
+2021-11-08	Blk Mtn	2
+2021-11-08	Blk Mtn	5
+2021-11-08	Blk Mtn	4
+2021-11-08	Blk Mtn	5
+2021-11-08	Blk Mtn	4
+2021-11-08	Blk Mtn	1
+2021-11-08	Blk Mtn	4
+2021-11-08	Blk Mtn	5
+2021-11-08	Blk Mtn	3
+2021-11-08	Lexington	4
+2021-11-08	Lexington	5
+2021-11-08	Lexington	5
+2021-11-08	Lexington	4
+2021-11-08	Lexington	5
+2021-11-08	Lexington	5
+2021-11-08	Lexington	4
+2021-11-08	Lexington	4
+2021-11-08	Lexington	4
+2021-11-08	Lexington	5
+2021-11-08	Lexington	3
+2021-11-08	Lexington	3
+2021-11-08	Lexington	5
+2021-11-08	Lexington	4
+2021-11-08	Lexington	5
+2021-11-08	Lexington	5
+2021-11-08	Lexington	4
+2021-11-08	Lexington	3
+2021-11-08	Lexington	5
+2021-11-08	Lexington	3
+2021-11-08	Lexington	3
+2021-11-08	Lexington	5
+2021-11-08	Lexington	5
+2021-11-08	Lexington	3
+2021-11-08	Lexington	5
+2021-11-08	Lexington	4
+2021-11-08	Lexington	5
+2021-11-08	Lexington	4
+2021-11-08	Lexington	5
+2021-11-08	Lexington	4
+2021-11-08	Lexington	5
+2021-11-08	Lexington	4
+2021-11-07	West Avl	4
+2021-11-07	West Avl	5
+2021-11-07	West Avl	5
+2021-11-07	West Avl	3
+2021-11-07	West Avl	3
+2021-11-07	West Avl	5
+2021-11-07	West Avl	3
+2021-11-07	West Avl	4
+2021-11-07	West Avl	3
+2021-11-07	West Avl	3
+2021-11-07	West Avl	4
+2021-11-07	West Avl	5
+2021-11-07	West Avl	4
+2021-11-07	West Avl	4
+2021-11-07	West Avl	3
+2021-11-07	East Avl	5
+2021-11-07	East Avl	3
+2021-11-07	East Avl	4
+2021-11-07	East Avl	3
+2021-11-07	East Avl	5
+2021-11-07	East Avl	3
+2021-11-07	Blk Mtn	5
+2021-11-07	Blk Mtn	1
+2021-11-07	Blk Mtn	4
+2021-11-07	Blk Mtn	5
+2021-11-07	Blk Mtn	4
+2021-11-07	Blk Mtn	4
+2021-11-07	Blk Mtn	5
+2021-11-07	Blk Mtn	5
+2021-11-07	Blk Mtn	3
+2021-11-07	Blk Mtn	5
+2021-11-07	Blk Mtn	3
+2021-11-07	Lexington	3
+2021-11-07	Lexington	4
+2021-11-07	Lexington	3
+2021-11-07	Lexington	4
+2021-11-07	Lexington	5
+2021-11-07	Lexington	4
+2021-11-07	Lexington	5
+2021-11-07	Lexington	3
+2021-11-07	Lexington	5
+2021-11-07	Lexington	3
+2021-11-07	Lexington	4
+2021-11-07	Lexington	5
+2021-11-07	Lexington	3
+2021-11-07	Lexington	5
+2021-11-07	Lexington	4
+2021-11-07	Lexington	5
+2021-11-07	Lexington	3
+2021-11-07	Lexington	5
+2021-11-07	Lexington	5
+2021-11-07	Lexington	4
+2021-11-07	Lexington	5
+2021-11-07	Lexington	5
+2021-11-07	Lexington	3
+2021-11-07	Lexington	4
+2021-11-07	Lexington	5
+2021-11-07	Lexington	3
+2021-11-07	Lexington	5
+2021-11-07	Lexington	2
+2021-11-07	Lexington	5
+2021-11-07	Lexington	5
+2021-11-06	West Avl	3
+2021-11-06	West Avl	4
+2021-11-06	West Avl	5
+2021-11-06	West Avl	4
+2021-11-06	West Avl	4
+2021-11-06	West Avl	3
+2021-11-06	West Avl	5
+2021-11-06	West Avl	5
+2021-11-06	West Avl	3
+2021-11-06	West Avl	2
+2021-11-06	West Avl	4
+2021-11-06	West Avl	4
+2021-11-06	West Avl	4
+2021-11-06	West Avl	4
+2021-11-06	West Avl	5
+2021-11-06	West Avl	3
+2021-11-06	West Avl	3
+2021-11-06	West Avl	4
+2021-11-06	West Avl	2
+2021-11-06	West Avl	5
+2021-11-06	East Avl	2
+2021-11-06	East Avl	5
+2021-11-06	East Avl	4
+2021-11-06	East Avl	3
+2021-11-06	East Avl	2
+2021-11-06	East Avl	3
+2021-11-06	East Avl	5
+2021-11-06	East Avl	3
+2021-11-06	East Avl	4
+2021-11-06	East Avl	5
+2021-11-06	East Avl	4
+2021-11-06	Blk Mtn	5
+2021-11-06	Blk Mtn	3
+2021-11-06	Blk Mtn	4
+2021-11-06	Blk Mtn	3
+2021-11-06	Blk Mtn	5
+2021-11-06	Blk Mtn	5
+2021-11-06	Blk Mtn	4
+2021-11-06	Blk Mtn	3
+2021-11-06	Blk Mtn	4
+2021-11-06	Blk Mtn	5
+2021-11-06	Blk Mtn	5
+2021-11-06	Blk Mtn	2
+2021-11-06	Blk Mtn	4
+2021-11-06	Blk Mtn	5
+2021-11-06	Blk Mtn	4
+2021-11-06	Blk Mtn	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	2
+2021-11-06	Lexington	3
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	4
+2021-11-06	Lexington	3
+2021-11-06	Lexington	4
+2021-11-06	Lexington	5
+2021-11-06	Lexington	4
+2021-11-06	Lexington	5
+2021-11-06	Lexington	3
+2021-11-06	Lexington	3
+2021-11-06	Lexington	2
+2021-11-06	Lexington	3
+2021-11-06	Lexington	3
+2021-11-06	Lexington	3
+2021-11-06	Lexington	5
+2021-11-06	Lexington	5
+2021-11-06	Lexington	4
+2021-11-06	Lexington	3
+2021-11-06	Lexington	3
+2021-11-06	Lexington	4
+2021-11-06	Lexington	5
+2021-11-05	West Avl	4
+2021-11-05	West Avl	2
+2021-11-05	West Avl	2
+2021-11-05	West Avl	5
+2021-11-05	West Avl	5
+2021-11-05	West Avl	5
+2021-11-05	West Avl	4
+2021-11-05	West Avl	5
+2021-11-05	West Avl	5
+2021-11-05	West Avl	5
+2021-11-05	West Avl	5
+2021-11-05	West Avl	5
+2021-11-05	West Avl	5
+2021-11-05	West Avl	4
+2021-11-05	East Avl	4
+2021-11-05	East Avl	3
+2021-11-05	East Avl	2
+2021-11-05	East Avl	3
+2021-11-05	East Avl	5
+2021-11-05	East Avl	4
+2021-11-05	East Avl	5
+2021-11-05	East Avl	2
+2021-11-05	East Avl	3
+2021-11-05	East Avl	4
+2021-11-05	East Avl	2
+2021-11-05	Blk Mtn	5
+2021-11-05	Blk Mtn	4
+2021-11-05	Blk Mtn	5
+2021-11-05	Blk Mtn	4
+2021-11-05	Blk Mtn	4
+2021-11-05	Blk Mtn	5
+2021-11-05	Blk Mtn	5
+2021-11-05	Blk Mtn	4
+2021-11-05	Blk Mtn	3
+2021-11-05	Blk Mtn	5
+2021-11-05	Blk Mtn	2
+2021-11-05	Blk Mtn	4
+2021-11-05	Blk Mtn	3
+2021-11-05	Blk Mtn	3
+2021-11-05	Blk Mtn	3
+2021-11-05	Blk Mtn	5
+2021-11-05	Blk Mtn	5
+2021-11-05	Blk Mtn	4
+2021-11-05	Blk Mtn	5
+2021-11-05	Blk Mtn	3
+2021-11-05	Blk Mtn	3
+2021-11-05	Lexington	2
+2021-11-05	Lexington	2
+2021-11-05	Lexington	5
+2021-11-05	Lexington	5
+2021-11-05	Lexington	4
+2021-11-05	Lexington	1
+2021-11-05	Lexington	4
+2021-11-05	Lexington	5
+2021-11-05	Lexington	4
+2021-11-05	Lexington	5
+2021-11-05	Lexington	4
+2021-11-05	Lexington	2
+2021-11-05	Lexington	5
+2021-11-05	Lexington	4
+2021-11-05	Lexington	3
+2021-11-05	Lexington	5
+2021-11-05	Lexington	4
+2021-11-05	Lexington	5
+2021-11-05	Lexington	2
+2021-11-05	Lexington	4
+2021-11-05	Lexington	3
+2021-11-05	Lexington	2
+2021-11-05	Lexington	4
+2021-11-05	Lexington	4
+2021-11-05	Lexington	2
+2021-11-05	Lexington	4
+2021-11-05	Lexington	5
+2021-11-05	Lexington	4
+2021-11-05	Lexington	3
+2021-11-05	Lexington	3
+2021-11-05	Lexington	5
+2021-11-04	West Avl	1
+2021-11-04	West Avl	5
+2021-11-04	West Avl	2
+2021-11-04	West Avl	5
+2021-11-04	West Avl	5
+2021-11-04	West Avl	4
+2021-11-04	West Avl	4
+2021-11-04	West Avl	4
+2021-11-04	West Avl	3
+2021-11-04	West Avl	2
+2021-11-04	West Avl	5
+2021-11-04	West Avl	5
+2021-11-04	West Avl	2
+2021-11-04	West Avl	5
+2021-11-04	West Avl	3
+2021-11-04	East Avl	5
+2021-11-04	East Avl	4
+2021-11-04	East Avl	5
+2021-11-04	East Avl	5
+2021-11-04	East Avl	4
+2021-11-04	East Avl	5
+2021-11-04	East Avl	5
+2021-11-04	Blk Mtn	2
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	4
+2021-11-04	Blk Mtn	4
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	4
+2021-11-04	Blk Mtn	4
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	2
+2021-11-04	Blk Mtn	4
+2021-11-04	Blk Mtn	5
+2021-11-04	Blk Mtn	5
+2021-11-04	Blk Mtn	1
+2021-11-04	Blk Mtn	4
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	5
+2021-11-04	Blk Mtn	2
+2021-11-04	Blk Mtn	5
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	5
+2021-11-04	Blk Mtn	2
+2021-11-04	Blk Mtn	2
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	5
+2021-11-04	Blk Mtn	5
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	3
+2021-11-04	Blk Mtn	4
+2021-11-04	Lexington	3
+2021-11-04	Lexington	2
+2021-11-04	Lexington	5
+2021-11-04	Lexington	5
+2021-11-04	Lexington	5
+2021-11-04	Lexington	5
+2021-11-04	Lexington	4
+2021-11-04	Lexington	1
+2021-11-04	Lexington	5
+2021-11-04	Lexington	4
+2021-11-04	Lexington	4
+2021-11-04	Lexington	5
+2021-11-04	Lexington	2
+2021-11-04	Lexington	4
+2021-11-04	Lexington	2
+2021-11-04	Lexington	5
+2021-11-04	Lexington	3
+2021-11-04	Lexington	4
+2021-11-04	Lexington	5
+2021-11-04	Lexington	5
+2021-11-04	Lexington	5
+2021-11-04	Lexington	5
+2021-11-04	Lexington	3
+2021-11-04	Lexington	4
+2021-11-04	Lexington	3
+2021-11-04	Lexington	5
+2021-11-04	Lexington	5
+2021-11-04	Lexington	4
+2021-11-04	Lexington	1
+2021-11-04	Lexington	2
+2021-11-04	Lexington	3
+2021-11-04	Lexington	4
+2021-11-04	Lexington	3
+2021-11-04	Lexington	4
+2021-11-04	Lexington	4
+2021-11-04	Lexington	2
+2021-11-04	Lexington	5
+2021-11-04	Lexington	3
+2021-11-03	West Avl	4
+2021-11-03	West Avl	3
+2021-11-03	West Avl	4
+2021-11-03	West Avl	3
+2021-11-03	West Avl	4
+2021-11-03	West Avl	3
+2021-11-03	West Avl	2
+2021-11-03	West Avl	4
+2021-11-03	West Avl	3
+2021-11-03	West Avl	3
+2021-11-03	West Avl	5
+2021-11-03	West Avl	5
+2021-11-03	West Avl	5
+2021-11-03	West Avl	3
+2021-11-03	East Avl	5
+2021-11-03	East Avl	5
+2021-11-03	East Avl	5
+2021-11-03	East Avl	5
+2021-11-03	East Avl	4
+2021-11-03	East Avl	4
+2021-11-03	East Avl	5
+2021-11-03	Blk Mtn	4
+2021-11-03	Blk Mtn	5
+2021-11-03	Blk Mtn	5
+2021-11-03	Blk Mtn	3
+2021-11-03	Blk Mtn	4
+2021-11-03	Blk Mtn	5
+2021-11-03	Blk Mtn	4
+2021-11-03	Blk Mtn	3
+2021-11-03	Blk Mtn	4
+2021-11-03	Blk Mtn	4
+2021-11-03	Blk Mtn	4
+2021-11-03	Blk Mtn	4
+2021-11-03	Blk Mtn	5
+2021-11-03	Blk Mtn	3
+2021-11-03	Blk Mtn	5
+2021-11-03	Lexington	3
+2021-11-03	Lexington	3
+2021-11-03	Lexington	4
+2021-11-03	Lexington	2
+2021-11-03	Lexington	3
+2021-11-03	Lexington	4
+2021-11-03	Lexington	3
+2021-11-03	Lexington	4
+2021-11-03	Lexington	4
+2021-11-03	Lexington	3
+2021-11-03	Lexington	3
+2021-11-03	Lexington	5
+2021-11-03	Lexington	4
+2021-11-03	Lexington	4
+2021-11-03	Lexington	4
+2021-11-03	Lexington	3
+2021-11-03	Lexington	5
+2021-11-03	Lexington	3
+2021-11-03	Lexington	4
+2021-11-03	Lexington	5
+2021-11-03	Lexington	4
+2021-11-03	Lexington	4
+2021-11-03	Lexington	2
+2021-11-03	Lexington	3
+2021-11-03	Lexington	5
+2021-11-03	Lexington	4
+2021-11-03	Lexington	5
+2021-11-03	Lexington	5
+2021-11-03	Lexington	2
+2021-11-03	Lexington	2
+2021-11-03	Lexington	4
+2021-11-03	Lexington	5
+2021-11-03	Lexington	2
+2021-11-03	Lexington	4
+2021-11-03	Lexington	5
+2021-11-03	Lexington	3
+2021-11-02	West Avl	5
+2021-11-02	West Avl	3
+2021-11-02	West Avl	5
+2021-11-02	West Avl	4
+2021-11-02	West Avl	3
+2021-11-02	West Avl	4
+2021-11-02	East Avl	4
+2021-11-02	East Avl	3
+2021-11-02	East Avl	4
+2021-11-02	East Avl	3
+2021-11-02	East Avl	5
+2021-11-02	East Avl	3
+2021-11-02	Blk Mtn	4
+2021-11-02	Blk Mtn	1
+2021-11-02	Blk Mtn	3
+2021-11-02	Blk Mtn	5
+2021-11-02	Blk Mtn	5
+2021-11-02	Blk Mtn	3
+2021-11-02	Blk Mtn	3
+2021-11-02	Blk Mtn	2
+2021-11-02	Blk Mtn	4
+2021-11-02	Blk Mtn	5
+2021-11-02	Blk Mtn	4
+2021-11-02	Blk Mtn	4
+2021-11-02	Blk Mtn	2
+2021-11-02	Blk Mtn	2
+2021-11-02	Blk Mtn	4
+2021-11-02	Blk Mtn	2
+2021-11-02	Blk Mtn	4
+2021-11-02	Blk Mtn	5
+2021-11-02	Blk Mtn	3
+2021-11-02	Lexington	3
+2021-11-02	Lexington	3
+2021-11-02	Lexington	5
+2021-11-02	Lexington	3
+2021-11-02	Lexington	3
+2021-11-02	Lexington	4
+2021-11-02	Lexington	4
+2021-11-02	Lexington	4
+2021-11-02	Lexington	3
+2021-11-02	Lexington	3
+2021-11-02	Lexington	4
+2021-11-02	Lexington	4
+2021-11-02	Lexington	3
+2021-11-02	Lexington	1
+2021-11-02	Lexington	4
+2021-11-02	Lexington	4
+2021-11-02	Lexington	3
+2021-11-02	Lexington	4
+2021-11-02	Lexington	5
+2021-11-02	Lexington	4
+2021-11-02	Lexington	1
+2021-11-02	Lexington	5
+2021-11-02	Lexington	2
+2021-11-02	Lexington	5
+2021-11-02	Lexington	4
+2021-11-02	Lexington	5
+2021-11-02	Lexington	2
+2021-11-02	Lexington	4
+2021-11-02	Lexington	4
+2021-11-02	Lexington	5
+2021-11-02	Lexington	4
+2021-11-02	Lexington	5
+2021-11-02	Lexington	3
+2021-11-02	Lexington	4
+2021-11-02	Lexington	3
+2021-11-02	Lexington	3
+2021-11-01	West Avl	4
+2021-11-01	West Avl	4
+2021-11-01	West Avl	5
+2021-11-01	West Avl	3
+2021-11-01	West Avl	3
+2021-11-01	West Avl	5
+2021-11-01	West Avl	5
+2021-11-01	West Avl	5
+2021-11-01	West Avl	5
+2021-11-01	West Avl	2
+2021-11-01	East Avl	4
+2021-11-01	East Avl	4
+2021-11-01	East Avl	3
+2021-11-01	East Avl	5
+2021-11-01	East Avl	2
+2021-11-01	East Avl	4
+2021-11-01	East Avl	2
+2021-11-01	East Avl	4
+2021-11-01	East Avl	3
+2021-11-01	East Avl	5
+2021-11-01	Blk Mtn	2
+2021-11-01	Blk Mtn	3
+2021-11-01	Blk Mtn	2
+2021-11-01	Blk Mtn	3
+2021-11-01	Blk Mtn	4
+2021-11-01	Blk Mtn	4
+2021-11-01	Blk Mtn	5
+2021-11-01	Blk Mtn	3
+2021-11-01	Blk Mtn	2
+2021-11-01	Blk Mtn	5
+2021-11-01	Blk Mtn	2
+2021-11-01	Blk Mtn	5
+2021-11-01	Blk Mtn	3
+2021-11-01	Blk Mtn	5
+2021-11-01	Blk Mtn	3
+2021-11-01	Lexington	4
+2021-11-01	Lexington	3
+2021-11-01	Lexington	3
+2021-11-01	Lexington	3
+2021-11-01	Lexington	4
+2021-11-01	Lexington	2
+2021-11-01	Lexington	4
+2021-11-01	Lexington	4
+2021-11-01	Lexington	2
+2021-11-01	Lexington	4
+2021-11-01	Lexington	5
+2021-11-01	Lexington	4
+2021-11-01	Lexington	4
+2021-11-01	Lexington	3
+2021-11-01	Lexington	4
+2021-11-01	Lexington	3
+2021-11-01	Lexington	4
+2021-11-01	Lexington	5
+2021-11-01	Lexington	3
+2021-11-01	Lexington	3
+2021-11-01	Lexington	3
+2021-11-01	Lexington	4
+2021-11-01	Lexington	4
+2021-11-01	Lexington	5
+2021-11-01	Lexington	5
+2021-11-01	Lexington	3
+2021-11-01	Lexington	5
+2021-11-01	Lexington	3
+2021-11-01	Lexington	4
+2021-10-31	West Avl	4
+2021-10-31	West Avl	5
+2021-10-31	West Avl	5
+2021-10-31	West Avl	4
+2021-10-31	West Avl	2
+2021-10-31	West Avl	3
+2021-10-31	West Avl	3
+2021-10-31	West Avl	2
+2021-10-31	West Avl	3
+2021-10-31	East Avl	5
+2021-10-31	East Avl	5
+2021-10-31	East Avl	3
+2021-10-31	East Avl	5
+2021-10-31	East Avl	3
+2021-10-31	East Avl	5
+2021-10-31	East Avl	5
+2021-10-31	East Avl	5
+2021-10-31	East Avl	4
+2021-10-31	Blk Mtn	4
+2021-10-31	Blk Mtn	2
+2021-10-31	Blk Mtn	3
+2021-10-31	Blk Mtn	1
+2021-10-31	Blk Mtn	3
+2021-10-31	Blk Mtn	5
+2021-10-31	Blk Mtn	4
+2021-10-31	Blk Mtn	3
+2021-10-31	Blk Mtn	4
+2021-10-31	Blk Mtn	3
+2021-10-31	Blk Mtn	5
+2021-10-31	Blk Mtn	3
+2021-10-31	Blk Mtn	5
+2021-10-31	Blk Mtn	4
+2021-10-31	Lexington	4
+2021-10-31	Lexington	4
+2021-10-31	Lexington	2
+2021-10-31	Lexington	3
+2021-10-31	Lexington	5
+2021-10-31	Lexington	4
+2021-10-31	Lexington	5
+2021-10-31	Lexington	3
+2021-10-31	Lexington	4
+2021-10-31	Lexington	4
+2021-10-31	Lexington	5
+2021-10-31	Lexington	5
+2021-10-31	Lexington	2
+2021-10-31	Lexington	4
+2021-10-31	Lexington	5
+2021-10-31	Lexington	4
+2021-10-31	Lexington	4
+2021-10-31	Lexington	5
+2021-10-31	Lexington	5
+2021-10-31	Lexington	4
+2021-10-31	Lexington	5
+2021-10-31	Lexington	3
+2021-10-31	Lexington	5
+2021-10-31	Lexington	5
+2021-10-31	Lexington	5
+2021-10-31	Lexington	3
+2021-10-31	Lexington	5
+2021-10-31	Lexington	4
+2021-10-31	Lexington	4
+2021-10-31	Lexington	2
+2021-10-31	Lexington	4
+2021-10-31	Lexington	2
+2021-10-31	Lexington	2
+2021-10-31	Lexington	2
+2021-10-30	West Avl	3
+2021-10-30	West Avl	2
+2021-10-30	West Avl	4
+2021-10-30	West Avl	4
+2021-10-30	West Avl	5
+2021-10-30	West Avl	4
+2021-10-30	West Avl	5
+2021-10-30	West Avl	5
+2021-10-30	West Avl	5
+2021-10-30	West Avl	5
+2021-10-30	West Avl	4
+2021-10-30	East Avl	4
+2021-10-30	East Avl	5
+2021-10-30	East Avl	3
+2021-10-30	East Avl	1
+2021-10-30	East Avl	5
+2021-10-30	East Avl	2
+2021-10-30	Blk Mtn	1
+2021-10-30	Blk Mtn	4
+2021-10-30	Blk Mtn	4
+2021-10-30	Blk Mtn	4
+2021-10-30	Blk Mtn	3
+2021-10-30	Blk Mtn	3
+2021-10-30	Blk Mtn	2
+2021-10-30	Blk Mtn	4
+2021-10-30	Blk Mtn	4
+2021-10-30	Blk Mtn	4
+2021-10-30	Blk Mtn	4
+2021-10-30	Blk Mtn	5
+2021-10-30	Blk Mtn	5
+2021-10-30	Blk Mtn	4
+2021-10-30	Blk Mtn	5
+2021-10-30	Lexington	5
+2021-10-30	Lexington	5
+2021-10-30	Lexington	5
+2021-10-30	Lexington	4
+2021-10-30	Lexington	3
+2021-10-30	Lexington	3
+2021-10-30	Lexington	3
+2021-10-30	Lexington	2
+2021-10-30	Lexington	5
+2021-10-30	Lexington	4
+2021-10-30	Lexington	3
+2021-10-30	Lexington	4
+2021-10-30	Lexington	5
+2021-10-30	Lexington	4
+2021-10-30	Lexington	5
+2021-10-30	Lexington	2
+2021-10-30	Lexington	3
+2021-10-30	Lexington	2
+2021-10-30	Lexington	5
+2021-10-30	Lexington	3
+2021-10-30	Lexington	2
+2021-10-30	Lexington	4
+2021-10-30	Lexington	3
+2021-10-30	Lexington	4
+2021-10-30	Lexington	5
+2021-10-30	Lexington	4
+2021-10-30	Lexington	3
+2021-10-30	Lexington	5
+2021-10-30	Lexington	5
+2021-10-30	Lexington	3
+2021-10-30	Lexington	3
+2021-10-30	Lexington	2
+2021-10-30	Lexington	3
+2021-10-30	Lexington	3
+2021-10-30	Lexington	2
+2021-10-30	Lexington	4
+2021-10-30	Lexington	4
+2021-10-30	Lexington	5
+2021-10-29	West Avl	3
+2021-10-29	West Avl	3
+2021-10-29	West Avl	5
+2021-10-29	West Avl	4
+2021-10-29	West Avl	2
+2021-10-29	West Avl	4
+2021-10-29	West Avl	5
+2021-10-29	West Avl	3
+2021-10-29	West Avl	4
+2021-10-29	West Avl	3
+2021-10-29	West Avl	5
+2021-10-29	West Avl	4
+2021-10-29	West Avl	3
+2021-10-29	West Avl	4
+2021-10-29	East Avl	4
+2021-10-29	East Avl	4
+2021-10-29	East Avl	3
+2021-10-29	East Avl	2
+2021-10-29	East Avl	3
+2021-10-29	East Avl	4
+2021-10-29	Blk Mtn	5
+2021-10-29	Blk Mtn	5
+2021-10-29	Blk Mtn	3
+2021-10-29	Blk Mtn	4
+2021-10-29	Blk Mtn	5
+2021-10-29	Blk Mtn	3
+2021-10-29	Blk Mtn	5
+2021-10-29	Blk Mtn	3
+2021-10-29	Blk Mtn	2
+2021-10-29	Blk Mtn	4
+2021-10-29	Blk Mtn	3
+2021-10-29	Blk Mtn	5
+2021-10-29	Lexington	4
+2021-10-29	Lexington	4
+2021-10-29	Lexington	5
+2021-10-29	Lexington	4
+2021-10-29	Lexington	4
+2021-10-29	Lexington	5
+2021-10-29	Lexington	4
+2021-10-29	Lexington	5
+2021-10-29	Lexington	5
+2021-10-29	Lexington	3
+2021-10-29	Lexington	5
+2021-10-29	Lexington	5
+2021-10-29	Lexington	3
+2021-10-29	Lexington	4
+2021-10-29	Lexington	3
+2021-10-29	Lexington	5
+2021-10-29	Lexington	5
+2021-10-29	Lexington	5
+2021-10-29	Lexington	4
+2021-10-29	Lexington	3
+2021-10-29	Lexington	3
+2021-10-29	Lexington	3
+2021-10-29	Lexington	3
+2021-10-29	Lexington	4
+2021-10-29	Lexington	5
+2021-10-29	Lexington	3
+2021-10-29	Lexington	4
+2021-10-29	Lexington	5
+2021-10-29	Lexington	5
+2021-10-29	Lexington	5
+2021-10-29	Lexington	3
+2021-10-29	Lexington	4
+2021-10-29	Lexington	3
+2021-10-28	West Avl	3
+2021-10-28	West Avl	5
+2021-10-28	West Avl	4
+2021-10-28	West Avl	5
+2021-10-28	West Avl	5
+2021-10-28	West Avl	4
+2021-10-28	West Avl	5
+2021-10-28	West Avl	5
+2021-10-28	West Avl	4
+2021-10-28	East Avl	2
+2021-10-28	East Avl	3
+2021-10-28	East Avl	3
+2021-10-28	East Avl	4
+2021-10-28	East Avl	3
+2021-10-28	East Avl	4
+2021-10-28	East Avl	4
+2021-10-28	East Avl	5
+2021-10-28	East Avl	3
+2021-10-28	East Avl	2
+2021-10-28	East Avl	5
+2021-10-28	Blk Mtn	4
+2021-10-28	Blk Mtn	5
+2021-10-28	Blk Mtn	5
+2021-10-28	Blk Mtn	4
+2021-10-28	Blk Mtn	5
+2021-10-28	Blk Mtn	5
+2021-10-28	Blk Mtn	5
+2021-10-28	Blk Mtn	5
+2021-10-28	Blk Mtn	4
+2021-10-28	Blk Mtn	3
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	1
+2021-10-28	Lexington	5
+2021-10-28	Lexington	3
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	4
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	5
+2021-10-28	Lexington	5
+2021-10-28	Lexington	3
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	4
+2021-10-28	Lexington	5
+2021-10-28	Lexington	5
+2021-10-28	Lexington	3
+2021-10-28	Lexington	5
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	4
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	5
+2021-10-28	Lexington	2
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	5
+2021-10-28	Lexington	5
+2021-10-28	Lexington	3
+2021-10-28	Lexington	4
+2021-10-28	Lexington	3
+2021-10-28	Lexington	5
+2021-10-28	Lexington	4
+2021-10-28	Lexington	4
+2021-10-28	Lexington	3
+2021-10-28	Lexington	4
+2021-10-27	West Avl	5
+2021-10-27	West Avl	3
+2021-10-27	West Avl	3
+2021-10-27	West Avl	5
+2021-10-27	West Avl	5
+2021-10-27	West Avl	5
+2021-10-27	West Avl	3
+2021-10-27	West Avl	4
+2021-10-27	West Avl	4
+2021-10-27	West Avl	2
+2021-10-27	West Avl	3
+2021-10-27	West Avl	3
+2021-10-27	West Avl	4
+2021-10-27	East Avl	4
+2021-10-27	East Avl	3
+2021-10-27	East Avl	3
+2021-10-27	East Avl	5
+2021-10-27	East Avl	5
+2021-10-27	East Avl	3
+2021-10-27	East Avl	5
+2021-10-27	East Avl	5
+2021-10-27	Blk Mtn	4
+2021-10-27	Blk Mtn	4
+2021-10-27	Blk Mtn	5
+2021-10-27	Blk Mtn	4
+2021-10-27	Blk Mtn	3
+2021-10-27	Blk Mtn	4
+2021-10-27	Blk Mtn	4
+2021-10-27	Blk Mtn	5
+2021-10-27	Blk Mtn	3
+2021-10-27	Blk Mtn	4
+2021-10-27	Lexington	5
+2021-10-27	Lexington	4
+2021-10-27	Lexington	3
+2021-10-27	Lexington	4
+2021-10-27	Lexington	2
+2021-10-27	Lexington	4
+2021-10-27	Lexington	5
+2021-10-27	Lexington	4
+2021-10-27	Lexington	4
+2021-10-27	Lexington	5
+2021-10-27	Lexington	3
+2021-10-27	Lexington	5
+2021-10-27	Lexington	5
+2021-10-27	Lexington	3
+2021-10-27	Lexington	3
+2021-10-27	Lexington	3
+2021-10-27	Lexington	4
+2021-10-27	Lexington	3
+2021-10-27	Lexington	3
+2021-10-27	Lexington	4
+2021-10-27	Lexington	5
+2021-10-27	Lexington	3
+2021-10-26	West Avl	5
+2021-10-26	West Avl	3
+2021-10-26	West Avl	3
+2021-10-26	West Avl	3
+2021-10-26	West Avl	5
+2021-10-26	West Avl	2
+2021-10-26	West Avl	4
+2021-10-26	West Avl	4
+2021-10-26	West Avl	4
+2021-10-26	West Avl	4
+2021-10-26	West Avl	5
+2021-10-26	West Avl	3
+2021-10-26	West Avl	3
+2021-10-26	East Avl	5
+2021-10-26	East Avl	5
+2021-10-26	East Avl	5
+2021-10-26	East Avl	4
+2021-10-26	East Avl	5
+2021-10-26	East Avl	4
+2021-10-26	East Avl	5
+2021-10-26	East Avl	5
+2021-10-26	East Avl	5
+2021-10-26	East Avl	5
+2021-10-26	East Avl	5
+2021-10-26	East Avl	5
+2021-10-26	Blk Mtn	5
+2021-10-26	Blk Mtn	3
+2021-10-26	Blk Mtn	3
+2021-10-26	Blk Mtn	5
+2021-10-26	Blk Mtn	5
+2021-10-26	Blk Mtn	2
+2021-10-26	Blk Mtn	4
+2021-10-26	Blk Mtn	5
+2021-10-26	Blk Mtn	5
+2021-10-26	Blk Mtn	5
+2021-10-26	Blk Mtn	3
+2021-10-26	Blk Mtn	4
+2021-10-26	Blk Mtn	4
+2021-10-26	Blk Mtn	2
+2021-10-26	Blk Mtn	3
+2021-10-26	Lexington	4
+2021-10-26	Lexington	4
+2021-10-26	Lexington	5
+2021-10-26	Lexington	3
+2021-10-26	Lexington	5
+2021-10-26	Lexington	5
+2021-10-26	Lexington	5
+2021-10-26	Lexington	2
+2021-10-26	Lexington	4
+2021-10-26	Lexington	3
+2021-10-26	Lexington	4
+2021-10-26	Lexington	5
+2021-10-26	Lexington	5
+2021-10-26	Lexington	4
+2021-10-26	Lexington	3
+2021-10-26	Lexington	4
+2021-10-26	Lexington	3
+2021-10-26	Lexington	5
+2021-10-26	Lexington	4
+2021-10-26	Lexington	5
+2021-10-26	Lexington	5
+2021-10-26	Lexington	4
+2021-10-26	Lexington	4
+2021-10-26	Lexington	5
+2021-10-26	Lexington	4
+2021-10-26	Lexington	2
+2021-10-26	Lexington	3
+2021-10-26	Lexington	5
+2021-10-26	Lexington	4
+2021-10-26	Lexington	5
+2021-10-26	Lexington	4
+2021-10-26	Lexington	5
+2021-10-26	Lexington	5
+2021-10-26	Lexington	3
+2021-10-26	Lexington	4
+2021-10-26	Lexington	5
+2021-10-25	West Avl	4
+2021-10-25	West Avl	4
+2021-10-25	West Avl	5
+2021-10-25	West Avl	5
+2021-10-25	West Avl	5
+2021-10-25	West Avl	4
+2021-10-25	West Avl	4
+2021-10-25	West Avl	3
+2021-10-25	West Avl	5
+2021-10-25	West Avl	5
+2021-10-25	East Avl	4
+2021-10-25	East Avl	4
+2021-10-25	East Avl	4
+2021-10-25	East Avl	3
+2021-10-25	East Avl	4
+2021-10-25	East Avl	4
+2021-10-25	East Avl	4
+2021-10-25	East Avl	3
+2021-10-25	East Avl	4
+2021-10-25	Blk Mtn	4
+2021-10-25	Blk Mtn	4
+2021-10-25	Blk Mtn	4
+2021-10-25	Blk Mtn	3
+2021-10-25	Blk Mtn	3
+2021-10-25	Blk Mtn	4
+2021-10-25	Blk Mtn	4
+2021-10-25	Blk Mtn	4
+2021-10-25	Blk Mtn	5
+2021-10-25	Blk Mtn	5
+2021-10-25	Blk Mtn	5
+2021-10-25	Blk Mtn	3
+2021-10-25	Blk Mtn	4
+2021-10-25	Blk Mtn	3
+2021-10-25	Blk Mtn	4
+2021-10-25	Blk Mtn	4
+2021-10-25	Lexington	5
+2021-10-25	Lexington	5
+2021-10-25	Lexington	4
+2021-10-25	Lexington	3
+2021-10-25	Lexington	4
+2021-10-25	Lexington	2
+2021-10-25	Lexington	5
+2021-10-25	Lexington	3
+2021-10-25	Lexington	5
+2021-10-25	Lexington	4
+2021-10-25	Lexington	4
+2021-10-25	Lexington	3
+2021-10-25	Lexington	4
+2021-10-25	Lexington	3
+2021-10-25	Lexington	5
+2021-10-25	Lexington	3
+2021-10-25	Lexington	4
+2021-10-25	Lexington	4
+2021-10-25	Lexington	2
+2021-10-25	Lexington	4
+2021-10-25	Lexington	3
+2021-10-25	Lexington	3
+2021-10-25	Lexington	3
+2021-10-25	Lexington	5
+2021-10-25	Lexington	5
+2021-10-25	Lexington	5
+2021-10-25	Lexington	4
+2021-10-25	Lexington	3
+2021-10-25	Lexington	4
+2021-10-25	Lexington	1
+2021-10-25	Lexington	4
+2021-10-25	Lexington	4
+2021-10-24	West Avl	5
+2021-10-24	West Avl	2
+2021-10-24	West Avl	5
+2021-10-24	West Avl	4
+2021-10-24	West Avl	3
+2021-10-24	West Avl	4
+2021-10-24	West Avl	5
+2021-10-24	West Avl	3
+2021-10-24	West Avl	5
+2021-10-24	West Avl	4
+2021-10-24	West Avl	4
+2021-10-24	West Avl	4
+2021-10-24	East Avl	3
+2021-10-24	East Avl	4
+2021-10-24	East Avl	5
+2021-10-24	East Avl	4
+2021-10-24	East Avl	5
+2021-10-24	Blk Mtn	5
+2021-10-24	Blk Mtn	2
+2021-10-24	Blk Mtn	4
+2021-10-24	Blk Mtn	3
+2021-10-24	Blk Mtn	4
+2021-10-24	Blk Mtn	5
+2021-10-24	Blk Mtn	3
+2021-10-24	Blk Mtn	4
+2021-10-24	Blk Mtn	3
+2021-10-24	Blk Mtn	4
+2021-10-24	Blk Mtn	5
+2021-10-24	Blk Mtn	3
+2021-10-24	Blk Mtn	4
+2021-10-24	Blk Mtn	5
+2021-10-24	Blk Mtn	5
+2021-10-24	Blk Mtn	3
+2021-10-24	Blk Mtn	5
+2021-10-24	Blk Mtn	5
+2021-10-24	Blk Mtn	3
+2021-10-24	Lexington	3
+2021-10-24	Lexington	5
+2021-10-24	Lexington	4
+2021-10-24	Lexington	2
+2021-10-24	Lexington	3
+2021-10-24	Lexington	4
+2021-10-24	Lexington	5
+2021-10-24	Lexington	4
+2021-10-24	Lexington	3
+2021-10-24	Lexington	3
+2021-10-24	Lexington	4
+2021-10-24	Lexington	2
+2021-10-24	Lexington	1
+2021-10-24	Lexington	4
+2021-10-24	Lexington	4
+2021-10-24	Lexington	3
+2021-10-24	Lexington	4
+2021-10-24	Lexington	2
+2021-10-24	Lexington	5
+2021-10-24	Lexington	5
+2021-10-24	Lexington	5
+2021-10-24	Lexington	4
+2021-10-24	Lexington	4
+2021-10-24	Lexington	3
+2021-10-24	Lexington	4
+2021-10-24	Lexington	3
+2021-10-24	Lexington	5
+2021-10-24	Lexington	2
+2021-10-24	Lexington	5
+2021-10-24	Lexington	4
+2021-10-24	Lexington	4
+2021-10-23	West Avl	5
+2021-10-23	West Avl	2
+2021-10-23	West Avl	4
+2021-10-23	West Avl	3
+2021-10-23	West Avl	5
+2021-10-23	West Avl	3
+2021-10-23	West Avl	5
+2021-10-23	West Avl	4
+2021-10-23	West Avl	3
+2021-10-23	West Avl	4
+2021-10-23	West Avl	5
+2021-10-23	West Avl	2
+2021-10-23	West Avl	4
+2021-10-23	West Avl	5
+2021-10-23	West Avl	4
+2021-10-23	West Avl	2
+2021-10-23	West Avl	5
+2021-10-23	East Avl	5
+2021-10-23	East Avl	5
+2021-10-23	East Avl	5
+2021-10-23	East Avl	5
+2021-10-23	East Avl	5
+2021-10-23	East Avl	5
+2021-10-23	Blk Mtn	4
+2021-10-23	Blk Mtn	5
+2021-10-23	Blk Mtn	4
+2021-10-23	Blk Mtn	3
+2021-10-23	Blk Mtn	3
+2021-10-23	Blk Mtn	4
+2021-10-23	Blk Mtn	4
+2021-10-23	Blk Mtn	4
+2021-10-23	Blk Mtn	5
+2021-10-23	Blk Mtn	4
+2021-10-23	Blk Mtn	5
+2021-10-23	Blk Mtn	5
+2021-10-23	Blk Mtn	5
+2021-10-23	Blk Mtn	4
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-23	Lexington	4
+2021-10-23	Lexington	3
+2021-10-23	Lexington	3
+2021-10-23	Lexington	5
+2021-10-23	Lexington	4
+2021-10-23	Lexington	4
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-23	Lexington	3
+2021-10-23	Lexington	5
+2021-10-23	Lexington	3
+2021-10-23	Lexington	5
+2021-10-23	Lexington	4
+2021-10-23	Lexington	5
+2021-10-23	Lexington	4
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-23	Lexington	4
+2021-10-23	Lexington	3
+2021-10-23	Lexington	4
+2021-10-23	Lexington	2
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-23	Lexington	4
+2021-10-23	Lexington	5
+2021-10-23	Lexington	4
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-23	Lexington	5
+2021-10-22	West Avl	4
+2021-10-22	West Avl	5
+2021-10-22	West Avl	4
+2021-10-22	West Avl	3
+2021-10-22	West Avl	5
+2021-10-22	West Avl	3
+2021-10-22	West Avl	2
+2021-10-22	West Avl	2
+2021-10-22	West Avl	4
+2021-10-22	West Avl	5
+2021-10-22	West Avl	3
+2021-10-22	West Avl	5
+2021-10-22	West Avl	4
+2021-10-22	East Avl	3
+2021-10-22	East Avl	4
+2021-10-22	East Avl	4
+2021-10-22	East Avl	5
+2021-10-22	Blk Mtn	4
+2021-10-22	Blk Mtn	5
+2021-10-22	Blk Mtn	3
+2021-10-22	Blk Mtn	4
+2021-10-22	Blk Mtn	4
+2021-10-22	Blk Mtn	5
+2021-10-22	Blk Mtn	3
+2021-10-22	Blk Mtn	5
+2021-10-22	Blk Mtn	5
+2021-10-22	Blk Mtn	4
+2021-10-22	Blk Mtn	5
+2021-10-22	Blk Mtn	3
+2021-10-22	Blk Mtn	3
+2021-10-22	Blk Mtn	4
+2021-10-22	Lexington	4
+2021-10-22	Lexington	5
+2021-10-22	Lexington	3
+2021-10-22	Lexington	3
+2021-10-22	Lexington	4
+2021-10-22	Lexington	5
+2021-10-22	Lexington	4
+2021-10-22	Lexington	4
+2021-10-22	Lexington	5
+2021-10-22	Lexington	4
+2021-10-22	Lexington	4
+2021-10-22	Lexington	4
+2021-10-22	Lexington	4
+2021-10-22	Lexington	2
+2021-10-22	Lexington	4
+2021-10-22	Lexington	5
+2021-10-22	Lexington	5
+2021-10-22	Lexington	3
+2021-10-22	Lexington	5
+2021-10-22	Lexington	5
+2021-10-22	Lexington	4
+2021-10-22	Lexington	3
+2021-10-22	Lexington	4
+2021-10-22	Lexington	4
+2021-10-22	Lexington	5
+2021-10-22	Lexington	2
+2021-10-22	Lexington	3
+2021-10-22	Lexington	2
+2021-10-22	Lexington	5
+2021-10-22	Lexington	3
+2021-10-22	Lexington	3
+2021-10-22	Lexington	2
+2021-10-22	Lexington	3
+2021-10-22	Lexington	4
+2021-10-22	Lexington	5
+2021-10-22	Lexington	5
+2021-10-21	West Avl	3
+2021-10-21	West Avl	2
+2021-10-21	West Avl	3
+2021-10-21	West Avl	5
+2021-10-21	West Avl	4
+2021-10-21	West Avl	5
+2021-10-21	West Avl	3
+2021-10-21	West Avl	3
+2021-10-21	West Avl	4
+2021-10-21	West Avl	5
+2021-10-21	East Avl	4
+2021-10-21	East Avl	5
+2021-10-21	East Avl	4
+2021-10-21	East Avl	1
+2021-10-21	East Avl	5
+2021-10-21	East Avl	4
+2021-10-21	East Avl	4
+2021-10-21	East Avl	5
+2021-10-21	East Avl	4
+2021-10-21	East Avl	4
+2021-10-21	East Avl	3
+2021-10-21	East Avl	5
+2021-10-21	Blk Mtn	3
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	3
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	4
+2021-10-21	Blk Mtn	3
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	4
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	5
+2021-10-21	Blk Mtn	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	4
+2021-10-21	Lexington	4
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	4
+2021-10-21	Lexington	5
+2021-10-21	Lexington	4
+2021-10-21	Lexington	4
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	4
+2021-10-21	Lexington	5
+2021-10-21	Lexington	4
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	4
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	5
+2021-10-21	Lexington	4
+2021-10-21	Lexington	5
+2021-10-21	Lexington	4
+2021-10-20	West Avl	5
+2021-10-20	West Avl	5
+2021-10-20	West Avl	4
+2021-10-20	West Avl	4
+2021-10-20	West Avl	5
+2021-10-20	West Avl	4
+2021-10-20	West Avl	3
+2021-10-20	West Avl	3
+2021-10-20	West Avl	3
+2021-10-20	West Avl	5
+2021-10-20	West Avl	3
+2021-10-20	West Avl	3
+2021-10-20	West Avl	5
+2021-10-20	West Avl	3
+2021-10-20	West Avl	5
+2021-10-20	East Avl	5
+2021-10-20	East Avl	5
+2021-10-20	East Avl	4
+2021-10-20	East Avl	5
+2021-10-20	East Avl	4
+2021-10-20	Blk Mtn	5
+2021-10-20	Blk Mtn	5
+2021-10-20	Blk Mtn	5
+2021-10-20	Blk Mtn	5
+2021-10-20	Blk Mtn	3
+2021-10-20	Blk Mtn	4
+2021-10-20	Blk Mtn	5
+2021-10-20	Blk Mtn	5
+2021-10-20	Lexington	5
+2021-10-20	Lexington	4
+2021-10-20	Lexington	5
+2021-10-20	Lexington	3
+2021-10-20	Lexington	5
+2021-10-20	Lexington	5
+2021-10-20	Lexington	4
+2021-10-20	Lexington	4
+2021-10-20	Lexington	5
+2021-10-20	Lexington	3
+2021-10-20	Lexington	2
+2021-10-20	Lexington	3
+2021-10-20	Lexington	5
+2021-10-20	Lexington	3
+2021-10-20	Lexington	2
+2021-10-20	Lexington	3
+2021-10-20	Lexington	3
+2021-10-20	Lexington	3
+2021-10-20	Lexington	3
+2021-10-20	Lexington	4
+2021-10-20	Lexington	5
+2021-10-20	Lexington	4
+2021-10-20	Lexington	5
+2021-10-20	Lexington	4
+2021-10-20	Lexington	5
+2021-10-20	Lexington	5
+2021-10-20	Lexington	5
+2021-10-20	Lexington	5
+2021-10-20	Lexington	2
+2021-10-20	Lexington	3
+2021-10-20	Lexington	3
+2021-10-20	Lexington	3
+2021-10-20	Lexington	4
+2021-10-20	Lexington	4
+2021-10-20	Lexington	3
+2021-10-19	West Avl	3
+2021-10-19	West Avl	3
+2021-10-19	West Avl	4
+2021-10-19	West Avl	3
+2021-10-19	West Avl	5
+2021-10-19	West Avl	5
+2021-10-19	West Avl	5
+2021-10-19	West Avl	3
+2021-10-19	West Avl	5
+2021-10-19	West Avl	3
+2021-10-19	West Avl	3
+2021-10-19	West Avl	2
+2021-10-19	West Avl	4
+2021-10-19	West Avl	5
+2021-10-19	West Avl	4
+2021-10-19	East Avl	5
+2021-10-19	East Avl	2
+2021-10-19	East Avl	5
+2021-10-19	East Avl	4
+2021-10-19	East Avl	2
+2021-10-19	East Avl	4
+2021-10-19	East Avl	5
+2021-10-19	East Avl	4
+2021-10-19	East Avl	5
+2021-10-19	Blk Mtn	2
+2021-10-19	Blk Mtn	5
+2021-10-19	Blk Mtn	5
+2021-10-19	Blk Mtn	4
+2021-10-19	Blk Mtn	5
+2021-10-19	Blk Mtn	4
+2021-10-19	Blk Mtn	4
+2021-10-19	Blk Mtn	4
+2021-10-19	Blk Mtn	4
+2021-10-19	Blk Mtn	4
+2021-10-19	Blk Mtn	5
+2021-10-19	Blk Mtn	4
+2021-10-19	Blk Mtn	4
+2021-10-19	Blk Mtn	3
+2021-10-19	Blk Mtn	5
+2021-10-19	Blk Mtn	2
+2021-10-19	Blk Mtn	5
+2021-10-19	Blk Mtn	3
+2021-10-19	Lexington	4
+2021-10-19	Lexington	5
+2021-10-19	Lexington	3
+2021-10-19	Lexington	4
+2021-10-19	Lexington	5
+2021-10-19	Lexington	4
+2021-10-19	Lexington	5
+2021-10-19	Lexington	4
+2021-10-19	Lexington	5
+2021-10-19	Lexington	5
+2021-10-19	Lexington	5
+2021-10-19	Lexington	5
+2021-10-19	Lexington	5
+2021-10-19	Lexington	5
+2021-10-19	Lexington	5
+2021-10-19	Lexington	4
+2021-10-19	Lexington	4
+2021-10-19	Lexington	5
+2021-10-19	Lexington	4
+2021-10-19	Lexington	4
+2021-10-19	Lexington	5
+2021-10-19	Lexington	3
+2021-10-19	Lexington	5
+2021-10-19	Lexington	5
+2021-10-19	Lexington	4
+2021-10-19	Lexington	5
+2021-10-19	Lexington	5
+2021-10-18	West Avl	3
+2021-10-18	West Avl	5
+2021-10-18	West Avl	4
+2021-10-18	West Avl	1
+2021-10-18	West Avl	3
+2021-10-18	West Avl	3
+2021-10-18	West Avl	2
+2021-10-18	West Avl	3
+2021-10-18	West Avl	5
+2021-10-18	West Avl	3
+2021-10-18	West Avl	4
+2021-10-18	West Avl	5
+2021-10-18	West Avl	1
+2021-10-18	West Avl	4
+2021-10-18	West Avl	4
+2021-10-18	East Avl	3
+2021-10-18	East Avl	5
+2021-10-18	East Avl	4
+2021-10-18	East Avl	4
+2021-10-18	East Avl	4
+2021-10-18	East Avl	4
+2021-10-18	Blk Mtn	5
+2021-10-18	Blk Mtn	2
+2021-10-18	Blk Mtn	3
+2021-10-18	Blk Mtn	3
+2021-10-18	Blk Mtn	5
+2021-10-18	Blk Mtn	3
+2021-10-18	Blk Mtn	4
+2021-10-18	Blk Mtn	4
+2021-10-18	Blk Mtn	4
+2021-10-18	Blk Mtn	5
+2021-10-18	Blk Mtn	3
+2021-10-18	Blk Mtn	4
+2021-10-18	Blk Mtn	4
+2021-10-18	Blk Mtn	2
+2021-10-18	Blk Mtn	4
+2021-10-18	Lexington	4
+2021-10-18	Lexington	4
+2021-10-18	Lexington	4
+2021-10-18	Lexington	3
+2021-10-18	Lexington	3
+2021-10-18	Lexington	5
+2021-10-18	Lexington	5
+2021-10-18	Lexington	3
+2021-10-18	Lexington	3
+2021-10-18	Lexington	2
+2021-10-18	Lexington	4
+2021-10-18	Lexington	3
+2021-10-18	Lexington	5
+2021-10-18	Lexington	3
+2021-10-18	Lexington	3
+2021-10-18	Lexington	5
+2021-10-18	Lexington	4
+2021-10-18	Lexington	4
+2021-10-18	Lexington	4
+2021-10-18	Lexington	2
+2021-10-18	Lexington	4
+2021-10-18	Lexington	3
+2021-10-18	Lexington	3
+2021-10-18	Lexington	5
+2021-10-18	Lexington	1
+2021-10-18	Lexington	5
+2021-10-18	Lexington	5
+2021-10-18	Lexington	5
+2021-10-18	Lexington	5
+2021-10-18	Lexington	4
+2021-10-18	Lexington	2
+2021-10-18	Lexington	4
+2021-10-18	Lexington	4
+2021-10-18	Lexington	3
+2021-10-18	Lexington	4
+2021-10-18	Lexington	4
+2021-10-18	Lexington	3
+2021-10-18	Lexington	5
+2021-10-18	Lexington	4
+2021-10-17	West Avl	3
+2021-10-17	West Avl	4
+2021-10-17	West Avl	3
+2021-10-17	West Avl	5
+2021-10-17	West Avl	4
+2021-10-17	West Avl	3
+2021-10-17	West Avl	4
+2021-10-17	West Avl	5
+2021-10-17	West Avl	4
+2021-10-17	West Avl	1
+2021-10-17	West Avl	5
+2021-10-17	West Avl	5
+2021-10-17	West Avl	4
+2021-10-17	East Avl	5
+2021-10-17	East Avl	2
+2021-10-17	East Avl	5
+2021-10-17	East Avl	4
+2021-10-17	East Avl	5
+2021-10-17	East Avl	2
+2021-10-17	East Avl	4
+2021-10-17	East Avl	2
+2021-10-17	East Avl	3
+2021-10-17	East Avl	5
+2021-10-17	Blk Mtn	3
+2021-10-17	Blk Mtn	5
+2021-10-17	Blk Mtn	2
+2021-10-17	Blk Mtn	4
+2021-10-17	Blk Mtn	4
+2021-10-17	Blk Mtn	4
+2021-10-17	Blk Mtn	5
+2021-10-17	Blk Mtn	3
+2021-10-17	Blk Mtn	5
+2021-10-17	Blk Mtn	5
+2021-10-17	Blk Mtn	4
+2021-10-17	Blk Mtn	5
+2021-10-17	Blk Mtn	4
+2021-10-17	Lexington	5
+2021-10-17	Lexington	4
+2021-10-17	Lexington	5
+2021-10-17	Lexington	3
+2021-10-17	Lexington	4
+2021-10-17	Lexington	4
+2021-10-17	Lexington	4
+2021-10-17	Lexington	5
+2021-10-17	Lexington	3
+2021-10-17	Lexington	5
+2021-10-17	Lexington	5
+2021-10-17	Lexington	4
+2021-10-17	Lexington	3
+2021-10-17	Lexington	4
+2021-10-17	Lexington	3
+2021-10-17	Lexington	4
+2021-10-17	Lexington	5
+2021-10-17	Lexington	5
+2021-10-17	Lexington	5
+2021-10-17	Lexington	3
+2021-10-17	Lexington	4
+2021-10-17	Lexington	2
+2021-10-17	Lexington	3
+2021-10-17	Lexington	4
+2021-10-17	Lexington	5
+2021-10-17	Lexington	5
+2021-10-17	Lexington	5
+2021-10-17	Lexington	2
+2021-10-17	Lexington	3
+2021-10-17	Lexington	4
+2021-10-17	Lexington	5
+2021-10-17	Lexington	5
+2021-10-16	West Avl	3
+2021-10-16	West Avl	5
+2021-10-16	West Avl	3
+2021-10-16	West Avl	1
+2021-10-16	West Avl	4
+2021-10-16	West Avl	4
+2021-10-16	West Avl	5
+2021-10-16	West Avl	2
+2021-10-16	West Avl	5
+2021-10-16	West Avl	3
+2021-10-16	West Avl	5
+2021-10-16	East Avl	5
+2021-10-16	East Avl	3
+2021-10-16	East Avl	4
+2021-10-16	East Avl	2
+2021-10-16	East Avl	3
+2021-10-16	East Avl	4
+2021-10-16	East Avl	3
+2021-10-16	East Avl	4
+2021-10-16	East Avl	3
+2021-10-16	East Avl	4
+2021-10-16	East Avl	2
+2021-10-16	East Avl	5
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	1
+2021-10-16	Blk Mtn	5
+2021-10-16	Blk Mtn	4
+2021-10-16	Blk Mtn	2
+2021-10-16	Blk Mtn	5
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	2
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	2
+2021-10-16	Blk Mtn	4
+2021-10-16	Blk Mtn	5
+2021-10-16	Blk Mtn	2
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	3
+2021-10-16	Blk Mtn	5
+2021-10-16	Lexington	5
+2021-10-16	Lexington	5
+2021-10-16	Lexington	5
+2021-10-16	Lexington	4
+2021-10-16	Lexington	3
+2021-10-16	Lexington	4
+2021-10-16	Lexington	5
+2021-10-16	Lexington	2
+2021-10-16	Lexington	4
+2021-10-16	Lexington	4
+2021-10-16	Lexington	3
+2021-10-16	Lexington	3
+2021-10-16	Lexington	3
+2021-10-16	Lexington	4
+2021-10-16	Lexington	2
+2021-10-16	Lexington	3
+2021-10-16	Lexington	3
+2021-10-16	Lexington	2
+2021-10-16	Lexington	4
+2021-10-16	Lexington	3
+2021-10-16	Lexington	3
+2021-10-16	Lexington	5
+2021-10-16	Lexington	4
+2021-10-16	Lexington	5
+2021-10-16	Lexington	3
+2021-10-16	Lexington	3
+2021-10-16	Lexington	5
+2021-10-16	Lexington	3
+2021-10-16	Lexington	5
+2021-10-16	Lexington	5
+2021-10-16	Lexington	2
+2021-10-16	Lexington	3
+2021-10-16	Lexington	5
+2021-10-16	Lexington	5
+2021-10-16	Lexington	3
+2021-10-16	Lexington	3
+2021-10-16	Lexington	4
+2021-10-15	West Avl	2
+2021-10-15	West Avl	4
+2021-10-15	West Avl	4
+2021-10-15	West Avl	4
+2021-10-15	West Avl	5
+2021-10-15	West Avl	5
+2021-10-15	West Avl	4
+2021-10-15	West Avl	1
+2021-10-15	West Avl	5
+2021-10-15	West Avl	3
+2021-10-15	West Avl	4
+2021-10-15	West Avl	4
+2021-10-15	West Avl	5
+2021-10-15	West Avl	5
+2021-10-15	West Avl	5
+2021-10-15	West Avl	5
+2021-10-15	East Avl	4
+2021-10-15	East Avl	5
+2021-10-15	East Avl	5
+2021-10-15	East Avl	5
+2021-10-15	East Avl	4
+2021-10-15	East Avl	4
+2021-10-15	East Avl	3
+2021-10-15	Blk Mtn	5
+2021-10-15	Blk Mtn	5
+2021-10-15	Blk Mtn	4
+2021-10-15	Blk Mtn	4
+2021-10-15	Blk Mtn	5
+2021-10-15	Blk Mtn	2
+2021-10-15	Blk Mtn	3
+2021-10-15	Blk Mtn	5
+2021-10-15	Blk Mtn	4
+2021-10-15	Blk Mtn	3
+2021-10-15	Blk Mtn	5
+2021-10-15	Blk Mtn	3
+2021-10-15	Blk Mtn	5
+2021-10-15	Blk Mtn	5
+2021-10-15	Blk Mtn	2
+2021-10-15	Blk Mtn	1
+2021-10-15	Lexington	4
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-15	Lexington	5
+2021-10-15	Lexington	3
+2021-10-15	Lexington	5
+2021-10-15	Lexington	5
+2021-10-15	Lexington	3
+2021-10-15	Lexington	5
+2021-10-15	Lexington	5
+2021-10-15	Lexington	5
+2021-10-15	Lexington	3
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-15	Lexington	5
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-15	Lexington	3
+2021-10-15	Lexington	5
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-15	Lexington	3
+2021-10-15	Lexington	4
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-15	Lexington	5
+2021-10-15	Lexington	5
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-15	Lexington	5
+2021-10-15	Lexington	4
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	4
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	4
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	4
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	West Avl	5
+2021-10-14	East Avl	5
+2021-10-14	East Avl	5
+2021-10-14	East Avl	5
+2021-10-14	East Avl	5
+2021-10-14	East Avl	5
+2021-10-14	East Avl	5
+2021-10-14	East Avl	5
+2021-10-14	Blk Mtn	3
+2021-10-14	Blk Mtn	2
+2021-10-14	Blk Mtn	2
+2021-10-14	Blk Mtn	2
+2021-10-14	Blk Mtn	4
+2021-10-14	Blk Mtn	3
+2021-10-14	Blk Mtn	4
+2021-10-14	Blk Mtn	4
+2021-10-14	Blk Mtn	5
+2021-10-14	Blk Mtn	4
+2021-10-14	Blk Mtn	4
+2021-10-14	Blk Mtn	5
+2021-10-14	Blk Mtn	4
+2021-10-14	Blk Mtn	2
+2021-10-14	Blk Mtn	5
+2021-10-14	Blk Mtn	4
+2021-10-14	Blk Mtn	4
+2021-10-14	Blk Mtn	3
+2021-10-14	Blk Mtn	2
+2021-10-14	Lexington	3
+2021-10-14	Lexington	2
+2021-10-14	Lexington	4
+2021-10-14	Lexington	4
+2021-10-14	Lexington	5
+2021-10-14	Lexington	1
+2021-10-14	Lexington	4
+2021-10-14	Lexington	4
+2021-10-14	Lexington	2
+2021-10-14	Lexington	3
+2021-10-14	Lexington	4
+2021-10-14	Lexington	4
+2021-10-14	Lexington	4
+2021-10-14	Lexington	4
+2021-10-14	Lexington	3
+2021-10-14	Lexington	4
+2021-10-14	Lexington	5
+2021-10-14	Lexington	4
+2021-10-14	Lexington	3
+2021-10-14	Lexington	3
+2021-10-14	Lexington	3
+2021-10-14	Lexington	3
+2021-10-14	Lexington	3
+2021-10-14	Lexington	3
+2021-10-14	Lexington	3
+2021-10-14	Lexington	2
+2021-10-14	Lexington	3
+2021-10-14	Lexington	2
+2021-10-14	Lexington	3
+2021-10-14	Lexington	4
+2021-10-14	Lexington	4
+2021-10-14	Lexington	3
+2021-10-14	Lexington	2
+2021-10-13	West Avl	3
+2021-10-13	West Avl	2
+2021-10-13	West Avl	1
+2021-10-13	West Avl	5
+2021-10-13	West Avl	4
+2021-10-13	West Avl	5
+2021-10-13	West Avl	3
+2021-10-13	West Avl	5
+2021-10-13	West Avl	5
+2021-10-13	West Avl	5
+2021-10-13	West Avl	5
+2021-10-13	West Avl	2
+2021-10-13	West Avl	2
+2021-10-13	West Avl	5
+2021-10-13	West Avl	5
+2021-10-13	East Avl	5
+2021-10-13	East Avl	4
+2021-10-13	East Avl	5
+2021-10-13	East Avl	5
+2021-10-13	East Avl	3
+2021-10-13	East Avl	5
+2021-10-13	East Avl	5
+2021-10-13	East Avl	5
+2021-10-13	East Avl	2
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	3
+2021-10-13	Blk Mtn	5
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	5
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	5
+2021-10-13	Blk Mtn	3
+2021-10-13	Blk Mtn	3
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	2
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	5
+2021-10-13	Blk Mtn	4
+2021-10-13	Blk Mtn	2
+2021-10-13	Blk Mtn	3
+2021-10-13	Blk Mtn	3
+2021-10-13	Blk Mtn	3
+2021-10-13	Lexington	5
+2021-10-13	Lexington	4
+2021-10-13	Lexington	5
+2021-10-13	Lexington	4
+2021-10-13	Lexington	2
+2021-10-13	Lexington	3
+2021-10-13	Lexington	3
+2021-10-13	Lexington	4
+2021-10-13	Lexington	1
+2021-10-13	Lexington	5
+2021-10-13	Lexington	3
+2021-10-13	Lexington	4
+2021-10-13	Lexington	5
+2021-10-13	Lexington	2
+2021-10-13	Lexington	3
+2021-10-13	Lexington	4
+2021-10-13	Lexington	4
+2021-10-13	Lexington	5
+2021-10-13	Lexington	4
+2021-10-13	Lexington	4
+2021-10-13	Lexington	3
+2021-10-13	Lexington	4
+2021-10-13	Lexington	3
+2021-10-13	Lexington	3
+2021-10-13	Lexington	2
+2021-10-13	Lexington	4
+2021-10-12	West Avl	5
+2021-10-12	West Avl	2
+2021-10-12	West Avl	4
+2021-10-12	West Avl	5
+2021-10-12	West Avl	3
+2021-10-12	West Avl	3
+2021-10-12	West Avl	4
+2021-10-12	West Avl	2
+2021-10-12	East Avl	4
+2021-10-12	East Avl	4
+2021-10-12	East Avl	3
+2021-10-12	East Avl	4
+2021-10-12	East Avl	2
+2021-10-12	East Avl	4
+2021-10-12	East Avl	4
+2021-10-12	East Avl	4
+2021-10-12	East Avl	5
+2021-10-12	East Avl	5
+2021-10-12	East Avl	5
+2021-10-12	East Avl	4
+2021-10-12	East Avl	5
+2021-10-12	East Avl	3
+2021-10-12	East Avl	4
+2021-10-12	East Avl	5
+2021-10-12	East Avl	2
+2021-10-12	Blk Mtn	5
+2021-10-12	Blk Mtn	4
+2021-10-12	Blk Mtn	3
+2021-10-12	Blk Mtn	5
+2021-10-12	Blk Mtn	5
+2021-10-12	Blk Mtn	3
+2021-10-12	Blk Mtn	4
+2021-10-12	Blk Mtn	4
+2021-10-12	Blk Mtn	4
+2021-10-12	Blk Mtn	5
+2021-10-12	Blk Mtn	3
+2021-10-12	Blk Mtn	3
+2021-10-12	Blk Mtn	5
+2021-10-12	Blk Mtn	5
+2021-10-12	Blk Mtn	5
+2021-10-12	Blk Mtn	5
+2021-10-12	Blk Mtn	3
+2021-10-12	Blk Mtn	3
+2021-10-12	Blk Mtn	5
+2021-10-12	Lexington	3
+2021-10-12	Lexington	4
+2021-10-12	Lexington	2
+2021-10-12	Lexington	3
+2021-10-12	Lexington	4
+2021-10-12	Lexington	3
+2021-10-12	Lexington	5
+2021-10-12	Lexington	4
+2021-10-12	Lexington	4
+2021-10-12	Lexington	5
+2021-10-12	Lexington	3
+2021-10-12	Lexington	3
+2021-10-12	Lexington	3
+2021-10-12	Lexington	4
+2021-10-12	Lexington	4
+2021-10-12	Lexington	4
+2021-10-12	Lexington	5
+2021-10-12	Lexington	3
+2021-10-12	Lexington	3
+2021-10-12	Lexington	4
+2021-10-12	Lexington	3
+2021-10-12	Lexington	5
+2021-10-12	Lexington	2
+2021-10-12	Lexington	5
+2021-10-12	Lexington	4
+2021-10-12	Lexington	3
+2021-10-12	Lexington	4
+2021-10-12	Lexington	3
+2021-10-12	Lexington	4
+2021-10-12	Lexington	4
+2021-10-12	Lexington	4
+2021-10-12	Lexington	5
+2021-10-12	Lexington	4
+2021-10-12	Lexington	2
+2021-10-12	Lexington	4
+2021-10-12	Lexington	5
+2021-10-11	West Avl	5
+2021-10-11	West Avl	3
+2021-10-11	West Avl	3
+2021-10-11	West Avl	4
+2021-10-11	West Avl	3
+2021-10-11	West Avl	3
+2021-10-11	West Avl	2
+2021-10-11	West Avl	5
+2021-10-11	West Avl	4
+2021-10-11	West Avl	3
+2021-10-11	East Avl	2
+2021-10-11	East Avl	4
+2021-10-11	East Avl	4
+2021-10-11	East Avl	5
+2021-10-11	East Avl	5
+2021-10-11	East Avl	3
+2021-10-11	East Avl	4
+2021-10-11	East Avl	5
+2021-10-11	East Avl	3
+2021-10-11	East Avl	5
+2021-10-11	Blk Mtn	4
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	3
+2021-10-11	Blk Mtn	3
+2021-10-11	Blk Mtn	3
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	4
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	3
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	5
+2021-10-11	Blk Mtn	5
+2021-10-11	Lexington	2
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	3
+2021-10-11	Lexington	4
+2021-10-11	Lexington	3
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	4
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	4
+2021-10-11	Lexington	3
+2021-10-11	Lexington	5
+2021-10-11	Lexington	4
+2021-10-11	Lexington	3
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	4
+2021-10-11	Lexington	5
+2021-10-11	Lexington	2
+2021-10-11	Lexington	5
+2021-10-11	Lexington	3
+2021-10-11	Lexington	4
+2021-10-11	Lexington	5
+2021-10-11	Lexington	2
+2021-10-11	Lexington	5
+2021-10-11	Lexington	4
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	4
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-11	Lexington	4
+2021-10-11	Lexington	5
+2021-10-11	Lexington	5
+2021-10-10	West Avl	4
+2021-10-10	West Avl	3
+2021-10-10	West Avl	5
+2021-10-10	West Avl	4
+2021-10-10	West Avl	3
+2021-10-10	West Avl	4
+2021-10-10	West Avl	5
+2021-10-10	West Avl	2
+2021-10-10	West Avl	3
+2021-10-10	West Avl	4
+2021-10-10	West Avl	3
+2021-10-10	West Avl	3
+2021-10-10	West Avl	4
+2021-10-10	West Avl	4
+2021-10-10	West Avl	5
+2021-10-10	East Avl	3
+2021-10-10	East Avl	4
+2021-10-10	East Avl	5
+2021-10-10	East Avl	4
+2021-10-10	East Avl	5
+2021-10-10	East Avl	2
+2021-10-10	East Avl	5
+2021-10-10	East Avl	3
+2021-10-10	East Avl	2
+2021-10-10	East Avl	4
+2021-10-10	East Avl	4
+2021-10-10	East Avl	4
+2021-10-10	East Avl	4
+2021-10-10	Blk Mtn	5
+2021-10-10	Blk Mtn	4
+2021-10-10	Blk Mtn	4
+2021-10-10	Blk Mtn	3
+2021-10-10	Blk Mtn	3
+2021-10-10	Blk Mtn	4
+2021-10-10	Blk Mtn	4
+2021-10-10	Blk Mtn	3
+2021-10-10	Blk Mtn	4
+2021-10-10	Blk Mtn	5
+2021-10-10	Blk Mtn	3
+2021-10-10	Blk Mtn	2
+2021-10-10	Blk Mtn	4
+2021-10-10	Blk Mtn	5
+2021-10-10	Blk Mtn	3
+2021-10-10	Lexington	4
+2021-10-10	Lexington	3
+2021-10-10	Lexington	4
+2021-10-10	Lexington	3
+2021-10-10	Lexington	4
+2021-10-10	Lexington	3
+2021-10-10	Lexington	5
+2021-10-10	Lexington	3
+2021-10-10	Lexington	4
+2021-10-10	Lexington	4
+2021-10-10	Lexington	2
+2021-10-10	Lexington	4
+2021-10-10	Lexington	5
+2021-10-10	Lexington	5
+2021-10-10	Lexington	3
+2021-10-10	Lexington	5
+2021-10-10	Lexington	2
+2021-10-10	Lexington	3
+2021-10-10	Lexington	4
+2021-10-10	Lexington	4
+2021-10-10	Lexington	2
+2021-10-10	Lexington	5
+2021-10-10	Lexington	5
+2021-10-10	Lexington	4
+2021-10-10	Lexington	4
+2021-10-10	Lexington	4
+2021-10-10	Lexington	4
+2021-10-10	Lexington	5
+2021-10-10	Lexington	4
+2021-10-10	Lexington	4
+2021-10-10	Lexington	3
+2021-10-10	Lexington	3
+2021-10-10	Lexington	3
+2021-10-10	Lexington	5
+2021-10-10	Lexington	5
+2021-10-10	Lexington	5
+2021-10-09	West Avl	4
+2021-10-09	West Avl	3
+2021-10-09	West Avl	5
+2021-10-09	West Avl	4
+2021-10-09	West Avl	4
+2021-10-09	West Avl	4
+2021-10-09	West Avl	5
+2021-10-09	West Avl	3
+2021-10-09	West Avl	4
+2021-10-09	West Avl	4
+2021-10-09	West Avl	2
+2021-10-09	West Avl	4
+2021-10-09	West Avl	3
+2021-10-09	West Avl	2
+2021-10-09	West Avl	5
+2021-10-09	East Avl	5
+2021-10-09	East Avl	4
+2021-10-09	East Avl	5
+2021-10-09	East Avl	5
+2021-10-09	East Avl	4
+2021-10-09	East Avl	3
+2021-10-09	East Avl	5
+2021-10-09	East Avl	4
+2021-10-09	East Avl	2
+2021-10-09	Blk Mtn	2
+2021-10-09	Blk Mtn	4
+2021-10-09	Blk Mtn	3
+2021-10-09	Blk Mtn	4
+2021-10-09	Blk Mtn	3
+2021-10-09	Blk Mtn	4
+2021-10-09	Blk Mtn	3
+2021-10-09	Blk Mtn	3
+2021-10-09	Blk Mtn	4
+2021-10-09	Blk Mtn	3
+2021-10-09	Blk Mtn	3
+2021-10-09	Blk Mtn	3
+2021-10-09	Blk Mtn	4
+2021-10-09	Blk Mtn	3
+2021-10-09	Blk Mtn	4
+2021-10-09	Blk Mtn	4
+2021-10-09	Lexington	5
+2021-10-09	Lexington	4
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	4
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	3
+2021-10-09	Lexington	4
+2021-10-09	Lexington	5
+2021-10-09	Lexington	4
+2021-10-09	Lexington	4
+2021-10-09	Lexington	3
+2021-10-09	Lexington	4
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	4
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	5
+2021-10-09	Lexington	4
+2021-10-09	Lexington	4
+2021-10-09	Lexington	5
+2021-10-08	West Avl	5
+2021-10-08	West Avl	5
+2021-10-08	West Avl	5
+2021-10-08	West Avl	5
+2021-10-08	West Avl	5
+2021-10-08	West Avl	4
+2021-10-08	West Avl	5
+2021-10-08	West Avl	5
+2021-10-08	West Avl	5
+2021-10-08	West Avl	3
+2021-10-08	West Avl	4
+2021-10-08	West Avl	4
+2021-10-08	West Avl	4
+2021-10-08	West Avl	5
+2021-10-08	West Avl	5
+2021-10-08	East Avl	4
+2021-10-08	East Avl	4
+2021-10-08	East Avl	5
+2021-10-08	East Avl	4
+2021-10-08	East Avl	3
+2021-10-08	East Avl	2
+2021-10-08	East Avl	3
+2021-10-08	East Avl	4
+2021-10-08	East Avl	3
+2021-10-08	East Avl	4
+2021-10-08	East Avl	2
+2021-10-08	Blk Mtn	5
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	5
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	3
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	2
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	4
+2021-10-08	Blk Mtn	5
+2021-10-08	Blk Mtn	5
+2021-10-08	Blk Mtn	5
+2021-10-08	Lexington	4
+2021-10-08	Lexington	3
+2021-10-08	Lexington	5
+2021-10-08	Lexington	4
+2021-10-08	Lexington	2
+2021-10-08	Lexington	5
+2021-10-08	Lexington	3
+2021-10-08	Lexington	4
+2021-10-08	Lexington	3
+2021-10-08	Lexington	2
+2021-10-08	Lexington	4
+2021-10-08	Lexington	3
+2021-10-08	Lexington	3
+2021-10-08	Lexington	4
+2021-10-08	Lexington	4
+2021-10-08	Lexington	4
+2021-10-08	Lexington	2
+2021-10-08	Lexington	2
+2021-10-08	Lexington	5
+2021-10-08	Lexington	5
+2021-10-08	Lexington	5
+2021-10-08	Lexington	5
+2021-10-08	Lexington	5
+2021-10-08	Lexington	5
+2021-10-08	Lexington	4
+2021-10-08	Lexington	3
+2021-10-08	Lexington	5
+2021-10-08	Lexington	4
+2021-10-08	Lexington	4
+2021-10-08	Lexington	5
+2021-10-08	Lexington	4
+2021-10-08	Lexington	4
+2021-10-08	Lexington	3
+2021-10-08	Lexington	3
+2021-10-07	West Avl	4
+2021-10-07	West Avl	5
+2021-10-07	West Avl	4
+2021-10-07	West Avl	5
+2021-10-07	West Avl	5
+2021-10-07	West Avl	4
+2021-10-07	West Avl	5
+2021-10-07	West Avl	2
+2021-10-07	West Avl	4
+2021-10-07	West Avl	4
+2021-10-07	West Avl	4
+2021-10-07	West Avl	5
+2021-10-07	West Avl	3
+2021-10-07	West Avl	2
+2021-10-07	West Avl	4
+2021-10-07	East Avl	3
+2021-10-07	East Avl	5
+2021-10-07	East Avl	3
+2021-10-07	East Avl	4
+2021-10-07	East Avl	2
+2021-10-07	East Avl	5
+2021-10-07	East Avl	4
+2021-10-07	Blk Mtn	4
+2021-10-07	Blk Mtn	4
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	4
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	3
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	4
+2021-10-07	Blk Mtn	5
+2021-10-07	Blk Mtn	4
+2021-10-07	Lexington	5
+2021-10-07	Lexington	4
+2021-10-07	Lexington	4
+2021-10-07	Lexington	4
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	3
+2021-10-07	Lexington	4
+2021-10-07	Lexington	3
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	4
+2021-10-07	Lexington	4
+2021-10-07	Lexington	4
+2021-10-07	Lexington	3
+2021-10-07	Lexington	4
+2021-10-07	Lexington	4
+2021-10-07	Lexington	5
+2021-10-07	Lexington	4
+2021-10-07	Lexington	3
+2021-10-07	Lexington	4
+2021-10-07	Lexington	3
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	4
+2021-10-07	Lexington	4
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	5
+2021-10-07	Lexington	3
+2021-10-07	Lexington	5
+2021-10-07	Lexington	3
+2021-10-07	Lexington	5
+2021-10-06	West Avl	3
+2021-10-06	West Avl	3
+2021-10-06	West Avl	5
+2021-10-06	West Avl	4
+2021-10-06	West Avl	5
+2021-10-06	West Avl	3
+2021-10-06	West Avl	3
+2021-10-06	West Avl	5
+2021-10-06	West Avl	5
+2021-10-06	West Avl	2
+2021-10-06	West Avl	3
+2021-10-06	East Avl	4
+2021-10-06	East Avl	5
+2021-10-06	East Avl	5
+2021-10-06	East Avl	4
+2021-10-06	East Avl	4
+2021-10-06	East Avl	2
+2021-10-06	East Avl	3
+2021-10-06	Blk Mtn	2
+2021-10-06	Blk Mtn	5
+2021-10-06	Blk Mtn	4
+2021-10-06	Blk Mtn	5
+2021-10-06	Blk Mtn	4
+2021-10-06	Blk Mtn	5
+2021-10-06	Blk Mtn	3
+2021-10-06	Blk Mtn	5
+2021-10-06	Blk Mtn	4
+2021-10-06	Blk Mtn	3
+2021-10-06	Blk Mtn	5
+2021-10-06	Lexington	5
+2021-10-06	Lexington	5
+2021-10-06	Lexington	5
+2021-10-06	Lexington	3
+2021-10-06	Lexington	5
+2021-10-06	Lexington	3
+2021-10-06	Lexington	5
+2021-10-06	Lexington	4
+2021-10-06	Lexington	4
+2021-10-06	Lexington	2
+2021-10-06	Lexington	5
+2021-10-06	Lexington	5
+2021-10-06	Lexington	4
+2021-10-06	Lexington	5
+2021-10-06	Lexington	3
+2021-10-06	Lexington	3
+2021-10-06	Lexington	3
+2021-10-06	Lexington	4
+2021-10-06	Lexington	4
+2021-10-06	Lexington	5
+2021-10-06	Lexington	5
+2021-10-06	Lexington	4
+2021-10-06	Lexington	4
+2021-10-06	Lexington	4
+2021-10-06	Lexington	5
+2021-10-06	Lexington	5
+2021-10-06	Lexington	5
+2021-10-06	Lexington	4
+2021-10-06	Lexington	4
+2021-10-06	Lexington	3
+2021-10-06	Lexington	4
+2021-10-06	Lexington	5
+2021-10-05	West Avl	5
+2021-10-05	West Avl	4
+2021-10-05	West Avl	5
+2021-10-05	West Avl	4
+2021-10-05	West Avl	4
+2021-10-05	West Avl	4
+2021-10-05	West Avl	3
+2021-10-05	West Avl	2
+2021-10-05	West Avl	4
+2021-10-05	West Avl	4
+2021-10-05	West Avl	5
+2021-10-05	West Avl	5
+2021-10-05	West Avl	2
+2021-10-05	East Avl	5
+2021-10-05	East Avl	5
+2021-10-05	East Avl	5
+2021-10-05	East Avl	4
+2021-10-05	East Avl	2
+2021-10-05	East Avl	5
+2021-10-05	East Avl	5
+2021-10-05	Blk Mtn	4
+2021-10-05	Blk Mtn	5
+2021-10-05	Blk Mtn	4
+2021-10-05	Blk Mtn	4
+2021-10-05	Blk Mtn	4
+2021-10-05	Blk Mtn	3
+2021-10-05	Blk Mtn	5
+2021-10-05	Blk Mtn	3
+2021-10-05	Blk Mtn	4
+2021-10-05	Blk Mtn	5
+2021-10-05	Blk Mtn	3
+2021-10-05	Blk Mtn	5
+2021-10-05	Blk Mtn	5
+2021-10-05	Blk Mtn	3
+2021-10-05	Blk Mtn	5
+2021-10-05	Blk Mtn	4
+2021-10-05	Blk Mtn	5
+2021-10-05	Blk Mtn	3
+2021-10-05	Blk Mtn	5
+2021-10-05	Blk Mtn	5
+2021-10-05	Lexington	5
+2021-10-05	Lexington	5
+2021-10-05	Lexington	2
+2021-10-05	Lexington	5
+2021-10-05	Lexington	2
+2021-10-05	Lexington	4
+2021-10-05	Lexington	5
+2021-10-05	Lexington	3
+2021-10-05	Lexington	4
+2021-10-05	Lexington	4
+2021-10-05	Lexington	4
+2021-10-05	Lexington	5
+2021-10-05	Lexington	4
+2021-10-05	Lexington	5
+2021-10-05	Lexington	5
+2021-10-05	Lexington	4
+2021-10-05	Lexington	4
+2021-10-05	Lexington	2
+2021-10-05	Lexington	1
+2021-10-05	Lexington	5
+2021-10-05	Lexington	4
+2021-10-05	Lexington	3
+2021-10-05	Lexington	2
+2021-10-05	Lexington	5
+2021-10-05	Lexington	1
+2021-10-05	Lexington	3
+2021-10-05	Lexington	5
+2021-10-05	Lexington	3
+2021-10-05	Lexington	4
+2021-10-05	Lexington	2
+2021-10-05	Lexington	3
+2021-10-05	Lexington	4
+2021-10-05	Lexington	3
+2021-10-05	Lexington	5
+2021-10-05	Lexington	5
+2021-10-05	Lexington	3
+2021-10-05	Lexington	3
+2021-10-05	Lexington	5
+2021-10-05	Lexington	5
+2021-10-05	Lexington	4
+2021-10-04	West Avl	4
+2021-10-04	West Avl	5
+2021-10-04	West Avl	5
+2021-10-04	West Avl	5
+2021-10-04	West Avl	3
+2021-10-04	West Avl	3
+2021-10-04	West Avl	4
+2021-10-04	West Avl	5
+2021-10-04	West Avl	5
+2021-10-04	West Avl	4
+2021-10-04	West Avl	3
+2021-10-04	East Avl	4
+2021-10-04	East Avl	4
+2021-10-04	East Avl	5
+2021-10-04	East Avl	3
+2021-10-04	East Avl	4
+2021-10-04	East Avl	5
+2021-10-04	Blk Mtn	5
+2021-10-04	Blk Mtn	5
+2021-10-04	Blk Mtn	3
+2021-10-04	Blk Mtn	3
+2021-10-04	Blk Mtn	2
+2021-10-04	Blk Mtn	5
+2021-10-04	Blk Mtn	4
+2021-10-04	Blk Mtn	3
+2021-10-04	Blk Mtn	5
+2021-10-04	Blk Mtn	5
+2021-10-04	Blk Mtn	5
+2021-10-04	Blk Mtn	3
+2021-10-04	Blk Mtn	4
+2021-10-04	Lexington	5
+2021-10-04	Lexington	3
+2021-10-04	Lexington	5
+2021-10-04	Lexington	4
+2021-10-04	Lexington	2
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	4
+2021-10-04	Lexington	5
+2021-10-04	Lexington	4
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	3
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	3
+2021-10-04	Lexington	5
+2021-10-04	Lexington	4
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	4
+2021-10-04	Lexington	4
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-04	Lexington	5
+2021-10-03	West Avl	5
+2021-10-03	West Avl	2
+2021-10-03	West Avl	4
+2021-10-03	West Avl	3
+2021-10-03	West Avl	3
+2021-10-03	West Avl	4
+2021-10-03	West Avl	3
+2021-10-03	West Avl	5
+2021-10-03	West Avl	3
+2021-10-03	West Avl	2
+2021-10-03	West Avl	4
+2021-10-03	West Avl	5
+2021-10-03	West Avl	4
+2021-10-03	West Avl	3
+2021-10-03	East Avl	3
+2021-10-03	East Avl	3
+2021-10-03	East Avl	4
+2021-10-03	East Avl	5
+2021-10-03	East Avl	5
+2021-10-03	East Avl	4
+2021-10-03	East Avl	4
+2021-10-03	East Avl	4
+2021-10-03	East Avl	4
+2021-10-03	Blk Mtn	5
+2021-10-03	Blk Mtn	4
+2021-10-03	Blk Mtn	5
+2021-10-03	Blk Mtn	5
+2021-10-03	Blk Mtn	5
+2021-10-03	Blk Mtn	3
+2021-10-03	Blk Mtn	2
+2021-10-03	Blk Mtn	3
+2021-10-03	Blk Mtn	5
+2021-10-03	Blk Mtn	5
+2021-10-03	Blk Mtn	5
+2021-10-03	Blk Mtn	4
+2021-10-03	Blk Mtn	4
+2021-10-03	Blk Mtn	3
+2021-10-03	Blk Mtn	4
+2021-10-03	Blk Mtn	5
+2021-10-03	Blk Mtn	3
+2021-10-03	Blk Mtn	4
+2021-10-03	Blk Mtn	3
+2021-10-03	Lexington	5
+2021-10-03	Lexington	3
+2021-10-03	Lexington	3
+2021-10-03	Lexington	5
+2021-10-03	Lexington	5
+2021-10-03	Lexington	5
+2021-10-03	Lexington	4
+2021-10-03	Lexington	5
+2021-10-03	Lexington	3
+2021-10-03	Lexington	3
+2021-10-03	Lexington	5
+2021-10-03	Lexington	5
+2021-10-03	Lexington	5
+2021-10-03	Lexington	5
+2021-10-03	Lexington	5
+2021-10-03	Lexington	4
+2021-10-03	Lexington	4
+2021-10-03	Lexington	5
+2021-10-03	Lexington	5
+2021-10-03	Lexington	4
+2021-10-03	Lexington	5
+2021-10-03	Lexington	2
+2021-10-03	Lexington	5
+2021-10-03	Lexington	3
+2021-10-03	Lexington	4
+2021-10-03	Lexington	3
+2021-10-03	Lexington	3
+2021-10-03	Lexington	3
+2021-10-03	Lexington	5
+2021-10-03	Lexington	3
+2021-10-03	Lexington	3
+2021-10-03	Lexington	4
+2021-10-03	Lexington	4
+2021-10-03	Lexington	5
+2021-10-03	Lexington	5
+2021-10-03	Lexington	4
+2021-10-03	Lexington	4
+2021-10-02	West Avl	4
+2021-10-02	West Avl	3
+2021-10-02	West Avl	5
+2021-10-02	West Avl	5
+2021-10-02	West Avl	4
+2021-10-02	West Avl	3
+2021-10-02	West Avl	4
+2021-10-02	West Avl	4
+2021-10-02	West Avl	4
+2021-10-02	East Avl	4
+2021-10-02	East Avl	3
+2021-10-02	East Avl	5
+2021-10-02	East Avl	5
+2021-10-02	East Avl	2
+2021-10-02	East Avl	5
+2021-10-02	East Avl	5
+2021-10-02	East Avl	5
+2021-10-02	East Avl	4
+2021-10-02	East Avl	2
+2021-10-02	East Avl	4
+2021-10-02	East Avl	5
+2021-10-02	Blk Mtn	5
+2021-10-02	Blk Mtn	5
+2021-10-02	Blk Mtn	3
+2021-10-02	Blk Mtn	4
+2021-10-02	Blk Mtn	5
+2021-10-02	Blk Mtn	5
+2021-10-02	Blk Mtn	3
+2021-10-02	Blk Mtn	5
+2021-10-02	Blk Mtn	5
+2021-10-02	Blk Mtn	4
+2021-10-02	Blk Mtn	5
+2021-10-02	Blk Mtn	5
+2021-10-02	Lexington	2
+2021-10-02	Lexington	2
+2021-10-02	Lexington	3
+2021-10-02	Lexington	4
+2021-10-02	Lexington	3
+2021-10-02	Lexington	4
+2021-10-02	Lexington	4
+2021-10-02	Lexington	3
+2021-10-02	Lexington	4
+2021-10-02	Lexington	3
+2021-10-02	Lexington	4
+2021-10-02	Lexington	4
+2021-10-02	Lexington	4
+2021-10-02	Lexington	4
+2021-10-02	Lexington	5
+2021-10-02	Lexington	5
+2021-10-02	Lexington	2
+2021-10-02	Lexington	4
+2021-10-02	Lexington	3
+2021-10-02	Lexington	5
+2021-10-02	Lexington	4
+2021-10-02	Lexington	5
+2021-10-02	Lexington	3
+2021-10-02	Lexington	2
+2021-10-02	Lexington	4
+2021-10-02	Lexington	5
+2021-10-02	Lexington	5
+2021-10-02	Lexington	4
+2021-10-02	Lexington	3
+2021-10-02	Lexington	4
+2021-10-02	Lexington	5
+2021-10-02	Lexington	4
+2021-10-02	Lexington	4
+2021-10-02	Lexington	3
+2021-10-02	Lexington	3
+2021-10-02	Lexington	4
+2021-10-02	Lexington	5
+2021-10-02	Lexington	5
+2021-10-02	Lexington	4
+2021-10-01	West Avl	5
+2021-10-01	West Avl	4
+2021-10-01	West Avl	5
+2021-10-01	West Avl	5
+2021-10-01	West Avl	4
+2021-10-01	West Avl	5
+2021-10-01	West Avl	4
+2021-10-01	West Avl	5
+2021-10-01	West Avl	5
+2021-10-01	West Avl	4
+2021-10-01	West Avl	4
+2021-10-01	West Avl	2
+2021-10-01	West Avl	4
+2021-10-01	West Avl	5
+2021-10-01	West Avl	5
+2021-10-01	West Avl	5
+2021-10-01	West Avl	4
+2021-10-01	West Avl	4
+2021-10-01	East Avl	5
+2021-10-01	East Avl	5
+2021-10-01	East Avl	5
+2021-10-01	East Avl	4
+2021-10-01	East Avl	3
+2021-10-01	East Avl	3
+2021-10-01	East Avl	5
+2021-10-01	East Avl	3
+2021-10-01	Blk Mtn	3
+2021-10-01	Blk Mtn	3
+2021-10-01	Blk Mtn	3
+2021-10-01	Blk Mtn	4
+2021-10-01	Blk Mtn	5
+2021-10-01	Blk Mtn	5
+2021-10-01	Blk Mtn	4
+2021-10-01	Blk Mtn	5
+2021-10-01	Blk Mtn	5
+2021-10-01	Blk Mtn	5
+2021-10-01	Blk Mtn	2
+2021-10-01	Blk Mtn	5
+2021-10-01	Blk Mtn	2
+2021-10-01	Blk Mtn	3
+2021-10-01	Blk Mtn	4
+2021-10-01	Blk Mtn	4
+2021-10-01	Blk Mtn	4
+2021-10-01	Blk Mtn	5
+2021-10-01	Lexington	3
+2021-10-01	Lexington	5
+2021-10-01	Lexington	4
+2021-10-01	Lexington	2
+2021-10-01	Lexington	5
+2021-10-01	Lexington	2
+2021-10-01	Lexington	5
+2021-10-01	Lexington	5
+2021-10-01	Lexington	4
+2021-10-01	Lexington	4
+2021-10-01	Lexington	4
+2021-10-01	Lexington	3
+2021-10-01	Lexington	4
+2021-10-01	Lexington	2
+2021-10-01	Lexington	5
+2021-10-01	Lexington	3
+2021-10-01	Lexington	5
+2021-10-01	Lexington	5
+2021-10-01	Lexington	4
+2021-10-01	Lexington	4
+2021-10-01	Lexington	3
+2021-10-01	Lexington	4
+2021-10-01	Lexington	4
+2021-10-01	Lexington	3
+2021-10-01	Lexington	3
+2021-10-01	Lexington	5
+2021-10-01	Lexington	3
+2021-10-01	Lexington	5
+2021-10-01	Lexington	2
+2021-10-01	Lexington	4
+2021-09-30	West Avl	4
+2021-09-30	West Avl	3
+2021-09-30	West Avl	5
+2021-09-30	West Avl	4
+2021-09-30	West Avl	5
+2021-09-30	West Avl	5
+2021-09-30	West Avl	5
+2021-09-30	West Avl	5
+2021-09-30	West Avl	3
+2021-09-30	West Avl	5
+2021-09-30	West Avl	4
+2021-09-30	West Avl	5
+2021-09-30	West Avl	2
+2021-09-30	East Avl	5
+2021-09-30	East Avl	5
+2021-09-30	East Avl	4
+2021-09-30	East Avl	5
+2021-09-30	East Avl	5
+2021-09-30	East Avl	5
+2021-09-30	Blk Mtn	3
+2021-09-30	Blk Mtn	3
+2021-09-30	Blk Mtn	3
+2021-09-30	Blk Mtn	4
+2021-09-30	Blk Mtn	3
+2021-09-30	Blk Mtn	3
+2021-09-30	Blk Mtn	4
+2021-09-30	Blk Mtn	5
+2021-09-30	Blk Mtn	4
+2021-09-30	Blk Mtn	5
+2021-09-30	Blk Mtn	4
+2021-09-30	Blk Mtn	4
+2021-09-30	Blk Mtn	5
+2021-09-30	Lexington	2
+2021-09-30	Lexington	2
+2021-09-30	Lexington	5
+2021-09-30	Lexington	5
+2021-09-30	Lexington	4
+2021-09-30	Lexington	3
+2021-09-30	Lexington	5
+2021-09-30	Lexington	4
+2021-09-30	Lexington	3
+2021-09-30	Lexington	3
+2021-09-30	Lexington	4
+2021-09-30	Lexington	4
+2021-09-30	Lexington	5
+2021-09-30	Lexington	4
+2021-09-30	Lexington	3
+2021-09-30	Lexington	4
+2021-09-30	Lexington	5
+2021-09-30	Lexington	3
+2021-09-30	Lexington	3
+2021-09-30	Lexington	5
+2021-09-30	Lexington	3
+2021-09-30	Lexington	5
+2021-09-30	Lexington	3
+2021-09-30	Lexington	4
+2021-09-29	West Avl	5
+2021-09-29	West Avl	4
+2021-09-29	West Avl	5
+2021-09-29	West Avl	4
+2021-09-29	West Avl	3
+2021-09-29	West Avl	2
+2021-09-29	West Avl	4
+2021-09-29	West Avl	2
+2021-09-29	West Avl	3
+2021-09-29	West Avl	3
+2021-09-29	West Avl	3
+2021-09-29	West Avl	5
+2021-09-29	West Avl	3
+2021-09-29	West Avl	2
+2021-09-29	West Avl	4
+2021-09-29	East Avl	5
+2021-09-29	East Avl	5
+2021-09-29	East Avl	4
+2021-09-29	East Avl	5
+2021-09-29	East Avl	5
+2021-09-29	East Avl	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	4
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	4
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	4
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	5
+2021-09-29	Blk Mtn	4
+2021-09-29	Lexington	3
+2021-09-29	Lexington	3
+2021-09-29	Lexington	4
+2021-09-29	Lexington	5
+2021-09-29	Lexington	4
+2021-09-29	Lexington	4
+2021-09-29	Lexington	4
+2021-09-29	Lexington	3
+2021-09-29	Lexington	4
+2021-09-29	Lexington	4
+2021-09-29	Lexington	5
+2021-09-29	Lexington	2
+2021-09-29	Lexington	3
+2021-09-29	Lexington	4
+2021-09-29	Lexington	3
+2021-09-29	Lexington	4
+2021-09-29	Lexington	4
+2021-09-29	Lexington	3
+2021-09-29	Lexington	5
+2021-09-29	Lexington	3
+2021-09-29	Lexington	3
+2021-09-29	Lexington	4
+2021-09-29	Lexington	5
+2021-09-29	Lexington	4
+2021-09-29	Lexington	5
+2021-09-29	Lexington	4
+2021-09-29	Lexington	4
+2021-09-29	Lexington	5
+2021-09-29	Lexington	3
+2021-09-29	Lexington	3
+2021-09-29	Lexington	2
+2021-09-29	Lexington	3
+2021-09-29	Lexington	4
+2021-09-29	Lexington	5
+2021-09-29	Lexington	4
+2021-09-29	Lexington	3
+2021-09-29	Lexington	4
+2021-09-29	Lexington	4
+2021-09-29	Lexington	5
+2021-09-29	Lexington	5
+2021-09-28	West Avl	4
+2021-09-28	West Avl	2
+2021-09-28	West Avl	5
+2021-09-28	West Avl	2
+2021-09-28	West Avl	4
+2021-09-28	West Avl	4
+2021-09-28	West Avl	4
+2021-09-28	West Avl	4
+2021-09-28	West Avl	2
+2021-09-28	West Avl	4
+2021-09-28	West Avl	4
+2021-09-28	East Avl	4
+2021-09-28	East Avl	4
+2021-09-28	East Avl	3
+2021-09-28	East Avl	4
+2021-09-28	East Avl	4
+2021-09-28	East Avl	5
+2021-09-28	East Avl	5
+2021-09-28	East Avl	5
+2021-09-28	East Avl	5
+2021-09-28	East Avl	5
+2021-09-28	East Avl	5
+2021-09-28	Blk Mtn	3
+2021-09-28	Blk Mtn	5
+2021-09-28	Blk Mtn	3
+2021-09-28	Blk Mtn	3
+2021-09-28	Blk Mtn	3
+2021-09-28	Blk Mtn	4
+2021-09-28	Blk Mtn	5
+2021-09-28	Blk Mtn	5
+2021-09-28	Blk Mtn	3
+2021-09-28	Blk Mtn	5
+2021-09-28	Blk Mtn	3
+2021-09-28	Blk Mtn	3
+2021-09-28	Blk Mtn	4
+2021-09-28	Blk Mtn	5
+2021-09-28	Lexington	2
+2021-09-28	Lexington	2
+2021-09-28	Lexington	5
+2021-09-28	Lexington	5
+2021-09-28	Lexington	5
+2021-09-28	Lexington	5
+2021-09-28	Lexington	4
+2021-09-28	Lexington	4
+2021-09-28	Lexington	4
+2021-09-28	Lexington	4
+2021-09-28	Lexington	4
+2021-09-28	Lexington	4
+2021-09-28	Lexington	3
+2021-09-28	Lexington	3
+2021-09-28	Lexington	2
+2021-09-28	Lexington	2
+2021-09-28	Lexington	5
+2021-09-28	Lexington	5
+2021-09-28	Lexington	5
+2021-09-28	Lexington	3
+2021-09-28	Lexington	4
+2021-09-28	Lexington	2
+2021-09-28	Lexington	4
+2021-09-28	Lexington	2
+2021-09-28	Lexington	3
+2021-09-28	Lexington	5
+2021-09-28	Lexington	4
+2021-09-27	West Avl	5
+2021-09-27	West Avl	4
+2021-09-27	West Avl	4
+2021-09-27	West Avl	4
+2021-09-27	West Avl	4
+2021-09-27	West Avl	4
+2021-09-27	West Avl	5
+2021-09-27	West Avl	5
+2021-09-27	West Avl	4
+2021-09-27	West Avl	2
+2021-09-27	East Avl	4
+2021-09-27	East Avl	4
+2021-09-27	East Avl	4
+2021-09-27	East Avl	4
+2021-09-27	East Avl	5
+2021-09-27	East Avl	5
+2021-09-27	East Avl	3
+2021-09-27	East Avl	4
+2021-09-27	East Avl	4
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	4
+2021-09-27	Blk Mtn	2
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	3
+2021-09-27	Blk Mtn	3
+2021-09-27	Blk Mtn	4
+2021-09-27	Blk Mtn	4
+2021-09-27	Blk Mtn	3
+2021-09-27	Blk Mtn	3
+2021-09-27	Blk Mtn	4
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	2
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	3
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	5
+2021-09-27	Blk Mtn	5
+2021-09-27	Lexington	4
+2021-09-27	Lexington	3
+2021-09-27	Lexington	5
+2021-09-27	Lexington	5
+2021-09-27	Lexington	4
+2021-09-27	Lexington	2
+2021-09-27	Lexington	5
+2021-09-27	Lexington	3
+2021-09-27	Lexington	4
+2021-09-27	Lexington	4
+2021-09-27	Lexington	3
+2021-09-27	Lexington	4
+2021-09-27	Lexington	5
+2021-09-27	Lexington	5
+2021-09-27	Lexington	2
+2021-09-27	Lexington	3
+2021-09-27	Lexington	4
+2021-09-27	Lexington	4
+2021-09-27	Lexington	3
+2021-09-27	Lexington	4
+2021-09-27	Lexington	3
+2021-09-27	Lexington	3
+2021-09-27	Lexington	3
+2021-09-27	Lexington	4
+2021-09-27	Lexington	5
+2021-09-27	Lexington	5
+2021-09-27	Lexington	5
+2021-09-27	Lexington	4
+2021-09-27	Lexington	3
+2021-09-27	Lexington	4
+2021-09-27	Lexington	5
+2021-09-27	Lexington	4
+2021-09-27	Lexington	4
+2021-09-27	Lexington	5
+2021-09-27	Lexington	3
+2021-09-27	Lexington	5
+2021-09-27	Lexington	1
+2021-09-27	Lexington	4
+2021-09-27	Lexington	4
+2021-09-26	West Avl	5
+2021-09-26	West Avl	3
+2021-09-26	West Avl	4
+2021-09-26	West Avl	3
+2021-09-26	West Avl	2
+2021-09-26	West Avl	3
+2021-09-26	West Avl	3
+2021-09-26	West Avl	2
+2021-09-26	West Avl	5
+2021-09-26	West Avl	4
+2021-09-26	West Avl	5
+2021-09-26	West Avl	5
+2021-09-26	West Avl	5
+2021-09-26	West Avl	4
+2021-09-26	West Avl	3
+2021-09-26	West Avl	4
+2021-09-26	West Avl	5
+2021-09-26	West Avl	4
+2021-09-26	West Avl	5
+2021-09-26	West Avl	3
+2021-09-26	West Avl	5
+2021-09-26	East Avl	4
+2021-09-26	East Avl	4
+2021-09-26	East Avl	2
+2021-09-26	East Avl	5
+2021-09-26	East Avl	3
+2021-09-26	East Avl	3
+2021-09-26	East Avl	3
+2021-09-26	East Avl	5
+2021-09-26	East Avl	3
+2021-09-26	East Avl	3
+2021-09-26	East Avl	4
+2021-09-26	Blk Mtn	3
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	2
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	3
+2021-09-26	Blk Mtn	3
+2021-09-26	Blk Mtn	5
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	5
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	5
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	4
+2021-09-26	Blk Mtn	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	4
+2021-09-26	Lexington	5
+2021-09-26	Lexington	4
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	3
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	3
+2021-09-26	Lexington	5
+2021-09-26	Lexington	2
+2021-09-26	Lexington	3
+2021-09-26	Lexington	4
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	4
+2021-09-26	Lexington	5
+2021-09-26	Lexington	4
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	4
+2021-09-26	Lexington	5
+2021-09-26	Lexington	4
+2021-09-26	Lexington	4
+2021-09-26	Lexington	4
+2021-09-26	Lexington	1
+2021-09-26	Lexington	3
+2021-09-26	Lexington	4
+2021-09-26	Lexington	5
+2021-09-26	Lexington	5
+2021-09-26	Lexington	4
+2021-09-26	Lexington	4
+2021-09-26	Lexington	3
+2021-09-25	West Avl	2
+2021-09-25	West Avl	3
+2021-09-25	West Avl	4
+2021-09-25	West Avl	4
+2021-09-25	West Avl	3
+2021-09-25	West Avl	5
+2021-09-25	West Avl	3
+2021-09-25	West Avl	5
+2021-09-25	West Avl	4
+2021-09-25	West Avl	5
+2021-09-25	East Avl	4
+2021-09-25	East Avl	4
+2021-09-25	East Avl	4
+2021-09-25	East Avl	5
+2021-09-25	East Avl	5
+2021-09-25	East Avl	3
+2021-09-25	East Avl	3
+2021-09-25	East Avl	3
+2021-09-25	East Avl	5
+2021-09-25	Blk Mtn	5
+2021-09-25	Blk Mtn	5
+2021-09-25	Blk Mtn	5
+2021-09-25	Blk Mtn	5
+2021-09-25	Blk Mtn	5
+2021-09-25	Blk Mtn	2
+2021-09-25	Blk Mtn	2
+2021-09-25	Blk Mtn	5
+2021-09-25	Blk Mtn	4
+2021-09-25	Blk Mtn	4
+2021-09-25	Blk Mtn	5
+2021-09-25	Blk Mtn	5
+2021-09-25	Blk Mtn	5
+2021-09-25	Lexington	5
+2021-09-25	Lexington	5
+2021-09-25	Lexington	5
+2021-09-25	Lexington	4
+2021-09-25	Lexington	3
+2021-09-25	Lexington	5
+2021-09-25	Lexington	3
+2021-09-25	Lexington	4
+2021-09-25	Lexington	4
+2021-09-25	Lexington	3
+2021-09-25	Lexington	4
+2021-09-25	Lexington	2
+2021-09-25	Lexington	3
+2021-09-25	Lexington	3
+2021-09-25	Lexington	5
+2021-09-25	Lexington	4
+2021-09-25	Lexington	4
+2021-09-25	Lexington	4
+2021-09-25	Lexington	4
+2021-09-25	Lexington	4
+2021-09-25	Lexington	5
+2021-09-25	Lexington	4
+2021-09-25	Lexington	5
+2021-09-25	Lexington	4
+2021-09-25	Lexington	4
+2021-09-25	Lexington	4
+2021-09-25	Lexington	5
+2021-09-25	Lexington	4
+2021-09-25	Lexington	4
+2021-09-25	Lexington	3
+2021-09-25	Lexington	3
+2021-09-24	West Avl	4
+2021-09-24	West Avl	4
+2021-09-24	West Avl	5
+2021-09-24	West Avl	4
+2021-09-24	West Avl	3
+2021-09-24	West Avl	2
+2021-09-24	West Avl	3
+2021-09-24	West Avl	1
+2021-09-24	West Avl	4
+2021-09-24	West Avl	3
+2021-09-24	West Avl	3
+2021-09-24	West Avl	3
+2021-09-24	West Avl	4
+2021-09-24	East Avl	5
+2021-09-24	East Avl	4
+2021-09-24	East Avl	5
+2021-09-24	East Avl	5
+2021-09-24	East Avl	5
+2021-09-24	Blk Mtn	3
+2021-09-24	Blk Mtn	3
+2021-09-24	Blk Mtn	3
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	5
+2021-09-24	Blk Mtn	5
+2021-09-24	Blk Mtn	5
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	3
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	3
+2021-09-24	Blk Mtn	3
+2021-09-24	Blk Mtn	5
+2021-09-24	Blk Mtn	5
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	5
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	2
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	5
+2021-09-24	Blk Mtn	5
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	3
+2021-09-24	Blk Mtn	4
+2021-09-24	Blk Mtn	3
+2021-09-24	Blk Mtn	2
+2021-09-24	Lexington	2
+2021-09-24	Lexington	4
+2021-09-24	Lexington	5
+2021-09-24	Lexington	2
+2021-09-24	Lexington	3
+2021-09-24	Lexington	5
+2021-09-24	Lexington	4
+2021-09-24	Lexington	5
+2021-09-24	Lexington	3
+2021-09-24	Lexington	3
+2021-09-24	Lexington	5
+2021-09-24	Lexington	4
+2021-09-24	Lexington	5
+2021-09-24	Lexington	5
+2021-09-24	Lexington	4
+2021-09-24	Lexington	3
+2021-09-24	Lexington	5
+2021-09-24	Lexington	4
+2021-09-24	Lexington	4
+2021-09-24	Lexington	3
+2021-09-24	Lexington	5
+2021-09-24	Lexington	4
+2021-09-24	Lexington	5
+2021-09-24	Lexington	3
+2021-09-24	Lexington	5
+2021-09-24	Lexington	4
+2021-09-24	Lexington	4
+2021-09-24	Lexington	4
+2021-09-24	Lexington	5
+2021-09-24	Lexington	3
+2021-09-24	Lexington	5
+2021-09-24	Lexington	5
+2021-09-24	Lexington	5
+2021-09-24	Lexington	4
+2021-09-24	Lexington	3
+2021-09-24	Lexington	3
+2021-09-24	Lexington	5
+2021-09-24	Lexington	3
+2021-09-24	Lexington	5
+2021-09-24	Lexington	4
+2021-09-23	West Avl	5
+2021-09-23	West Avl	5
+2021-09-23	West Avl	5
+2021-09-23	West Avl	5
+2021-09-23	West Avl	5
+2021-09-23	West Avl	5
+2021-09-23	West Avl	5
+2021-09-23	West Avl	4
+2021-09-23	West Avl	3
+2021-09-23	West Avl	5
+2021-09-23	West Avl	5
+2021-09-23	East Avl	4
+2021-09-23	East Avl	5
+2021-09-23	East Avl	5
+2021-09-23	East Avl	3
+2021-09-23	East Avl	3
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	4
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	4
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	4
+2021-09-23	Blk Mtn	3
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	5
+2021-09-23	Blk Mtn	4
+2021-09-23	Lexington	3
+2021-09-23	Lexington	5
+2021-09-23	Lexington	5
+2021-09-23	Lexington	4
+2021-09-23	Lexington	4
+2021-09-23	Lexington	3
+2021-09-23	Lexington	4
+2021-09-23	Lexington	5
+2021-09-23	Lexington	4
+2021-09-23	Lexington	5
+2021-09-23	Lexington	3
+2021-09-23	Lexington	4
+2021-09-23	Lexington	5
+2021-09-23	Lexington	4
+2021-09-23	Lexington	5
+2021-09-23	Lexington	3
+2021-09-23	Lexington	4
+2021-09-23	Lexington	5
+2021-09-23	Lexington	4
+2021-09-23	Lexington	5
+2021-09-23	Lexington	5
+2021-09-23	Lexington	5
+2021-09-23	Lexington	3
+2021-09-23	Lexington	5
+2021-09-23	Lexington	5
+2021-09-23	Lexington	4
+2021-09-23	Lexington	3
+2021-09-23	Lexington	4
+2021-09-23	Lexington	3
+2021-09-23	Lexington	5
+2021-09-23	Lexington	4
+2021-09-23	Lexington	5
+2021-09-23	Lexington	5
+2021-09-23	Lexington	4
+2021-09-23	Lexington	3
+2021-09-23	Lexington	3
+2021-09-23	Lexington	5
+2021-09-23	Lexington	4
+2021-09-23	Lexington	4
+2021-09-23	Lexington	4
+2021-09-23	Lexington	4
+2021-09-23	Lexington	5
+2021-09-23	Lexington	2
+2021-09-23	Lexington	5
+2021-09-22	West Avl	4
+2021-09-22	West Avl	4
+2021-09-22	West Avl	4
+2021-09-22	West Avl	5
+2021-09-22	West Avl	2
+2021-09-22	West Avl	4
+2021-09-22	West Avl	2
+2021-09-22	West Avl	4
+2021-09-22	West Avl	3
+2021-09-22	West Avl	3
+2021-09-22	West Avl	4
+2021-09-22	West Avl	3
+2021-09-22	West Avl	2
+2021-09-22	West Avl	3
+2021-09-22	West Avl	4
+2021-09-22	East Avl	5
+2021-09-22	East Avl	2
+2021-09-22	East Avl	5
+2021-09-22	East Avl	4
+2021-09-22	East Avl	4
+2021-09-22	East Avl	2
+2021-09-22	East Avl	5
+2021-09-22	East Avl	4
+2021-09-22	East Avl	5
+2021-09-22	Blk Mtn	4
+2021-09-22	Blk Mtn	3
+2021-09-22	Blk Mtn	5
+2021-09-22	Blk Mtn	2
+2021-09-22	Blk Mtn	4
+2021-09-22	Blk Mtn	3
+2021-09-22	Blk Mtn	3
+2021-09-22	Blk Mtn	4
+2021-09-22	Blk Mtn	5
+2021-09-22	Blk Mtn	4
+2021-09-22	Blk Mtn	4
+2021-09-22	Blk Mtn	2
+2021-09-22	Blk Mtn	2
+2021-09-22	Lexington	5
+2021-09-22	Lexington	5
+2021-09-22	Lexington	4
+2021-09-22	Lexington	3
+2021-09-22	Lexington	4
+2021-09-22	Lexington	4
+2021-09-22	Lexington	5
+2021-09-22	Lexington	4
+2021-09-22	Lexington	4
+2021-09-22	Lexington	5
+2021-09-22	Lexington	3
+2021-09-22	Lexington	5
+2021-09-22	Lexington	2
+2021-09-22	Lexington	3
+2021-09-22	Lexington	5
+2021-09-22	Lexington	2
+2021-09-22	Lexington	5
+2021-09-22	Lexington	4
+2021-09-22	Lexington	2
+2021-09-22	Lexington	3
+2021-09-22	Lexington	3
+2021-09-22	Lexington	4
+2021-09-22	Lexington	4
+2021-09-22	Lexington	3
+2021-09-22	Lexington	5
+2021-09-22	Lexington	5
+2021-09-21	West Avl	4
+2021-09-21	West Avl	4
+2021-09-21	West Avl	4
+2021-09-21	West Avl	5
+2021-09-21	West Avl	5
+2021-09-21	West Avl	5
+2021-09-21	West Avl	4
+2021-09-21	West Avl	5
+2021-09-21	West Avl	4
+2021-09-21	West Avl	5
+2021-09-21	West Avl	4
+2021-09-21	West Avl	5
+2021-09-21	West Avl	5
+2021-09-21	West Avl	3
+2021-09-21	East Avl	5
+2021-09-21	East Avl	2
+2021-09-21	East Avl	5
+2021-09-21	East Avl	3
+2021-09-21	East Avl	5
+2021-09-21	East Avl	4
+2021-09-21	East Avl	4
+2021-09-21	East Avl	5
+2021-09-21	East Avl	4
+2021-09-21	East Avl	4
+2021-09-21	East Avl	5
+2021-09-21	Blk Mtn	4
+2021-09-21	Blk Mtn	3
+2021-09-21	Blk Mtn	2
+2021-09-21	Blk Mtn	3
+2021-09-21	Blk Mtn	4
+2021-09-21	Blk Mtn	4
+2021-09-21	Blk Mtn	3
+2021-09-21	Blk Mtn	4
+2021-09-21	Blk Mtn	4
+2021-09-21	Blk Mtn	4
+2021-09-21	Blk Mtn	4
+2021-09-21	Blk Mtn	5
+2021-09-21	Blk Mtn	5
+2021-09-21	Lexington	5
+2021-09-21	Lexington	5
+2021-09-21	Lexington	4
+2021-09-21	Lexington	4
+2021-09-21	Lexington	4
+2021-09-21	Lexington	4
+2021-09-21	Lexington	3
+2021-09-21	Lexington	4
+2021-09-21	Lexington	3
+2021-09-21	Lexington	5
+2021-09-21	Lexington	4
+2021-09-21	Lexington	4
+2021-09-21	Lexington	3
+2021-09-21	Lexington	4
+2021-09-21	Lexington	3
+2021-09-21	Lexington	4
+2021-09-21	Lexington	1
+2021-09-21	Lexington	4
+2021-09-21	Lexington	3
+2021-09-21	Lexington	5
+2021-09-21	Lexington	5
+2021-09-21	Lexington	5
+2021-09-21	Lexington	4
+2021-09-21	Lexington	4
+2021-09-21	Lexington	4
+2021-09-21	Lexington	3
+2021-09-21	Lexington	5
+2021-09-20	West Avl	5
+2021-09-20	West Avl	4
+2021-09-20	West Avl	5
+2021-09-20	West Avl	4
+2021-09-20	West Avl	3
+2021-09-20	West Avl	5
+2021-09-20	West Avl	3
+2021-09-20	West Avl	5
+2021-09-20	West Avl	2
+2021-09-20	West Avl	4
+2021-09-20	East Avl	4
+2021-09-20	East Avl	5
+2021-09-20	East Avl	4
+2021-09-20	East Avl	3
+2021-09-20	East Avl	3
+2021-09-20	East Avl	4
+2021-09-20	East Avl	3
+2021-09-20	East Avl	5
+2021-09-20	East Avl	2
+2021-09-20	East Avl	5
+2021-09-20	East Avl	4
+2021-09-20	East Avl	4
+2021-09-20	East Avl	3
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	2
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	4
+2021-09-20	Blk Mtn	4
+2021-09-20	Blk Mtn	4
+2021-09-20	Blk Mtn	3
+2021-09-20	Blk Mtn	3
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	5
+2021-09-20	Blk Mtn	4
+2021-09-20	Blk Mtn	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	4
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	4
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	4
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-20	Lexington	5
+2021-09-19	West Avl	2
+2021-09-19	West Avl	4
+2021-09-19	West Avl	2
+2021-09-19	West Avl	2
+2021-09-19	West Avl	5
+2021-09-19	West Avl	2
+2021-09-19	West Avl	5
+2021-09-19	West Avl	3
+2021-09-19	West Avl	5
+2021-09-19	West Avl	4
+2021-09-19	East Avl	2
+2021-09-19	East Avl	3
+2021-09-19	East Avl	3
+2021-09-19	East Avl	5
+2021-09-19	East Avl	4
+2021-09-19	East Avl	5
+2021-09-19	East Avl	3
+2021-09-19	East Avl	5
+2021-09-19	East Avl	2
+2021-09-19	East Avl	4
+2021-09-19	East Avl	3
+2021-09-19	Blk Mtn	2
+2021-09-19	Blk Mtn	4
+2021-09-19	Blk Mtn	5
+2021-09-19	Blk Mtn	3
+2021-09-19	Blk Mtn	3
+2021-09-19	Blk Mtn	3
+2021-09-19	Blk Mtn	3
+2021-09-19	Blk Mtn	5
+2021-09-19	Blk Mtn	3
+2021-09-19	Blk Mtn	5
+2021-09-19	Blk Mtn	2
+2021-09-19	Blk Mtn	4
+2021-09-19	Blk Mtn	3
+2021-09-19	Blk Mtn	4
+2021-09-19	Blk Mtn	5
+2021-09-19	Blk Mtn	4
+2021-09-19	Blk Mtn	5
+2021-09-19	Blk Mtn	5
+2021-09-19	Blk Mtn	3
+2021-09-19	Lexington	2
+2021-09-19	Lexington	4
+2021-09-19	Lexington	4
+2021-09-19	Lexington	4
+2021-09-19	Lexington	4
+2021-09-19	Lexington	5
+2021-09-19	Lexington	1
+2021-09-19	Lexington	2
+2021-09-19	Lexington	4
+2021-09-19	Lexington	3
+2021-09-19	Lexington	4
+2021-09-19	Lexington	5
+2021-09-19	Lexington	3
+2021-09-19	Lexington	4
+2021-09-19	Lexington	3
+2021-09-19	Lexington	3
+2021-09-19	Lexington	5
+2021-09-19	Lexington	5
+2021-09-19	Lexington	4
+2021-09-19	Lexington	4
+2021-09-19	Lexington	5
+2021-09-19	Lexington	4
+2021-09-19	Lexington	4
+2021-09-19	Lexington	5
+2021-09-18	West Avl	3
+2021-09-18	West Avl	5
+2021-09-18	West Avl	4
+2021-09-18	West Avl	2
+2021-09-18	West Avl	5
+2021-09-18	West Avl	3
+2021-09-18	West Avl	2
+2021-09-18	West Avl	4
+2021-09-18	West Avl	5
+2021-09-18	West Avl	4
+2021-09-18	East Avl	4
+2021-09-18	East Avl	4
+2021-09-18	East Avl	3
+2021-09-18	East Avl	4
+2021-09-18	East Avl	4
+2021-09-18	East Avl	2
+2021-09-18	East Avl	3
+2021-09-18	East Avl	4
+2021-09-18	Blk Mtn	4
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	3
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	4
+2021-09-18	Blk Mtn	4
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	4
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	4
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	5
+2021-09-18	Blk Mtn	4
+2021-09-18	Blk Mtn	4
+2021-09-18	Lexington	2
+2021-09-18	Lexington	5
+2021-09-18	Lexington	4
+2021-09-18	Lexington	3
+2021-09-18	Lexington	5
+2021-09-18	Lexington	2
+2021-09-18	Lexington	5
+2021-09-18	Lexington	4
+2021-09-18	Lexington	5
+2021-09-18	Lexington	5
+2021-09-18	Lexington	1
+2021-09-18	Lexington	3
+2021-09-18	Lexington	5
+2021-09-18	Lexington	3
+2021-09-18	Lexington	3
+2021-09-18	Lexington	4
+2021-09-18	Lexington	4
+2021-09-18	Lexington	4
+2021-09-18	Lexington	4
+2021-09-18	Lexington	5
+2021-09-18	Lexington	2
+2021-09-18	Lexington	4
+2021-09-18	Lexington	2
+2021-09-18	Lexington	3
+2021-09-17	West Avl	3
+2021-09-17	West Avl	4
+2021-09-17	West Avl	3
+2021-09-17	West Avl	4
+2021-09-17	West Avl	4
+2021-09-17	West Avl	5
+2021-09-17	West Avl	4
+2021-09-17	West Avl	4
+2021-09-17	West Avl	3
+2021-09-17	West Avl	3
+2021-09-17	West Avl	3
+2021-09-17	West Avl	5
+2021-09-17	West Avl	4
+2021-09-17	West Avl	3
+2021-09-17	East Avl	4
+2021-09-17	East Avl	2
+2021-09-17	East Avl	4
+2021-09-17	East Avl	4
+2021-09-17	Blk Mtn	3
+2021-09-17	Blk Mtn	4
+2021-09-17	Blk Mtn	4
+2021-09-17	Blk Mtn	3
+2021-09-17	Blk Mtn	4
+2021-09-17	Blk Mtn	2
+2021-09-17	Blk Mtn	3
+2021-09-17	Blk Mtn	4
+2021-09-17	Blk Mtn	2
+2021-09-17	Blk Mtn	3
+2021-09-17	Blk Mtn	2
+2021-09-17	Blk Mtn	4
+2021-09-17	Blk Mtn	5
+2021-09-17	Blk Mtn	4
+2021-09-17	Blk Mtn	2
+2021-09-17	Blk Mtn	4
+2021-09-17	Blk Mtn	5
+2021-09-17	Blk Mtn	3
+2021-09-17	Blk Mtn	5
+2021-09-17	Blk Mtn	4
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	4
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	2
+2021-09-17	Lexington	5
+2021-09-17	Lexington	4
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	3
+2021-09-17	Lexington	5
+2021-09-17	Lexington	3
+2021-09-17	Lexington	4
+2021-09-17	Lexington	4
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-17	Lexington	4
+2021-09-17	Lexington	2
+2021-09-17	Lexington	4
+2021-09-17	Lexington	5
+2021-09-17	Lexington	5
+2021-09-16	West Avl	2
+2021-09-16	West Avl	4
+2021-09-16	West Avl	4
+2021-09-16	West Avl	5
+2021-09-16	West Avl	4
+2021-09-16	West Avl	5
+2021-09-16	West Avl	4
+2021-09-16	West Avl	2
+2021-09-16	West Avl	4
+2021-09-16	West Avl	4
+2021-09-16	West Avl	3
+2021-09-16	West Avl	2
+2021-09-16	West Avl	4
+2021-09-16	West Avl	4
+2021-09-16	West Avl	4
+2021-09-16	West Avl	4
+2021-09-16	East Avl	3
+2021-09-16	East Avl	3
+2021-09-16	East Avl	4
+2021-09-16	East Avl	4
+2021-09-16	East Avl	5
+2021-09-16	East Avl	4
+2021-09-16	East Avl	5
+2021-09-16	East Avl	5
+2021-09-16	East Avl	5
+2021-09-16	East Avl	5
+2021-09-16	East Avl	4
+2021-09-16	Blk Mtn	5
+2021-09-16	Blk Mtn	4
+2021-09-16	Blk Mtn	4
+2021-09-16	Blk Mtn	3
+2021-09-16	Blk Mtn	5
+2021-09-16	Blk Mtn	4
+2021-09-16	Blk Mtn	4
+2021-09-16	Blk Mtn	3
+2021-09-16	Blk Mtn	4
+2021-09-16	Blk Mtn	2
+2021-09-16	Blk Mtn	3
+2021-09-16	Blk Mtn	3
+2021-09-16	Blk Mtn	3
+2021-09-16	Lexington	3
+2021-09-16	Lexington	4
+2021-09-16	Lexington	1
+2021-09-16	Lexington	5
+2021-09-16	Lexington	4
+2021-09-16	Lexington	4
+2021-09-16	Lexington	5
+2021-09-16	Lexington	4
+2021-09-16	Lexington	4
+2021-09-16	Lexington	4
+2021-09-16	Lexington	5
+2021-09-16	Lexington	4
+2021-09-16	Lexington	2
+2021-09-16	Lexington	5
+2021-09-16	Lexington	3
+2021-09-16	Lexington	4
+2021-09-16	Lexington	5
+2021-09-16	Lexington	4
+2021-09-16	Lexington	4
+2021-09-16	Lexington	4
+2021-09-16	Lexington	4
+2021-09-16	Lexington	5
+2021-09-16	Lexington	2
+2021-09-16	Lexington	2
+2021-09-16	Lexington	3
+2021-09-16	Lexington	3
+2021-09-16	Lexington	5
+2021-09-16	Lexington	4
+2021-09-16	Lexington	4
+2021-09-16	Lexington	3
+2021-09-15	West Avl	5
+2021-09-15	West Avl	5
+2021-09-15	West Avl	5
+2021-09-15	West Avl	5
+2021-09-15	West Avl	5
+2021-09-15	West Avl	5
+2021-09-15	West Avl	5
+2021-09-15	West Avl	4
+2021-09-15	West Avl	4
+2021-09-15	East Avl	4
+2021-09-15	East Avl	5
+2021-09-15	East Avl	3
+2021-09-15	East Avl	4
+2021-09-15	East Avl	4
+2021-09-15	Blk Mtn	5
+2021-09-15	Blk Mtn	5
+2021-09-15	Blk Mtn	3
+2021-09-15	Blk Mtn	4
+2021-09-15	Blk Mtn	5
+2021-09-15	Blk Mtn	1
+2021-09-15	Blk Mtn	5
+2021-09-15	Blk Mtn	5
+2021-09-15	Blk Mtn	4
+2021-09-15	Blk Mtn	5
+2021-09-15	Blk Mtn	1
+2021-09-15	Blk Mtn	4
+2021-09-15	Blk Mtn	4
+2021-09-15	Blk Mtn	3
+2021-09-15	Lexington	4
+2021-09-15	Lexington	1
+2021-09-15	Lexington	5
+2021-09-15	Lexington	4
+2021-09-15	Lexington	4
+2021-09-15	Lexington	5
+2021-09-15	Lexington	4
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	4
+2021-09-15	Lexington	3
+2021-09-15	Lexington	5
+2021-09-15	Lexington	2
+2021-09-15	Lexington	5
+2021-09-15	Lexington	4
+2021-09-15	Lexington	5
+2021-09-15	Lexington	4
+2021-09-15	Lexington	4
+2021-09-15	Lexington	3
+2021-09-15	Lexington	4
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	3
+2021-09-15	Lexington	5
+2021-09-15	Lexington	4
+2021-09-15	Lexington	4
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	4
+2021-09-15	Lexington	4
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-15	Lexington	5
+2021-09-14	West Avl	3
+2021-09-14	West Avl	3
+2021-09-14	West Avl	3
+2021-09-14	West Avl	5
+2021-09-14	East Avl	5
+2021-09-14	East Avl	3
+2021-09-14	East Avl	3
+2021-09-14	East Avl	4
+2021-09-14	East Avl	4
+2021-09-14	East Avl	4
+2021-09-14	East Avl	5
+2021-09-14	East Avl	4
+2021-09-14	East Avl	3
+2021-09-14	Blk Mtn	5
+2021-09-14	Blk Mtn	5
+2021-09-14	Blk Mtn	4
+2021-09-14	Blk Mtn	4
+2021-09-14	Blk Mtn	3
+2021-09-14	Blk Mtn	4
+2021-09-14	Blk Mtn	1
+2021-09-14	Blk Mtn	4
+2021-09-14	Blk Mtn	2
+2021-09-14	Blk Mtn	3
+2021-09-14	Blk Mtn	4
+2021-09-14	Blk Mtn	5
+2021-09-14	Blk Mtn	5
+2021-09-14	Blk Mtn	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	4
+2021-09-14	Lexington	4
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	3
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	4
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-14	Lexington	4
+2021-09-14	Lexington	4
+2021-09-14	Lexington	4
+2021-09-14	Lexington	5
+2021-09-14	Lexington	5
+2021-09-13	West Avl	5
+2021-09-13	West Avl	3
+2021-09-13	West Avl	4
+2021-09-13	West Avl	3
+2021-09-13	West Avl	4
+2021-09-13	West Avl	5
+2021-09-13	West Avl	5
+2021-09-13	West Avl	4
+2021-09-13	West Avl	5
+2021-09-13	West Avl	5
+2021-09-13	West Avl	3
+2021-09-13	West Avl	3
+2021-09-13	East Avl	3
+2021-09-13	East Avl	4
+2021-09-13	East Avl	5
+2021-09-13	East Avl	4
+2021-09-13	East Avl	5
+2021-09-13	East Avl	1
+2021-09-13	East Avl	5
+2021-09-13	East Avl	3
+2021-09-13	East Avl	5
+2021-09-13	East Avl	4
+2021-09-13	East Avl	5
+2021-09-13	East Avl	4
+2021-09-13	Blk Mtn	4
+2021-09-13	Blk Mtn	3
+2021-09-13	Blk Mtn	3
+2021-09-13	Blk Mtn	2
+2021-09-13	Blk Mtn	2
+2021-09-13	Blk Mtn	4
+2021-09-13	Blk Mtn	4
+2021-09-13	Blk Mtn	2
+2021-09-13	Blk Mtn	2
+2021-09-13	Blk Mtn	4
+2021-09-13	Blk Mtn	4
+2021-09-13	Blk Mtn	2
+2021-09-13	Lexington	4
+2021-09-13	Lexington	5
+2021-09-13	Lexington	4
+2021-09-13	Lexington	3
+2021-09-13	Lexington	3
+2021-09-13	Lexington	4
+2021-09-13	Lexington	3
+2021-09-13	Lexington	3
+2021-09-13	Lexington	5
+2021-09-13	Lexington	3
+2021-09-13	Lexington	4
+2021-09-13	Lexington	5
+2021-09-13	Lexington	4
+2021-09-13	Lexington	3
+2021-09-13	Lexington	5
+2021-09-13	Lexington	3
+2021-09-13	Lexington	5
+2021-09-13	Lexington	4
+2021-09-13	Lexington	4
+2021-09-13	Lexington	4
+2021-09-13	Lexington	4
+2021-09-13	Lexington	4
+2021-09-13	Lexington	4
+2021-09-13	Lexington	1
+2021-09-13	Lexington	5
+2021-09-13	Lexington	3
+2021-09-13	Lexington	1
+2021-09-13	Lexington	4
+2021-09-13	Lexington	5
+2021-09-13	Lexington	4
+2021-09-13	Lexington	4
+2021-09-13	Lexington	5
+2021-09-13	Lexington	3
+2021-09-13	Lexington	3
+2021-09-13	Lexington	4
+2021-09-13	Lexington	4
+2021-09-13	Lexington	2
+2021-09-13	Lexington	5
+2021-09-12	West Avl	3
+2021-09-12	West Avl	4
+2021-09-12	West Avl	4
+2021-09-12	West Avl	4
+2021-09-12	West Avl	2
+2021-09-12	East Avl	4
+2021-09-12	East Avl	5
+2021-09-12	East Avl	3
+2021-09-12	East Avl	4
+2021-09-12	East Avl	4
+2021-09-12	East Avl	4
+2021-09-12	East Avl	5
+2021-09-12	East Avl	5
+2021-09-12	East Avl	2
+2021-09-12	East Avl	5
+2021-09-12	Blk Mtn	3
+2021-09-12	Blk Mtn	4
+2021-09-12	Blk Mtn	4
+2021-09-12	Blk Mtn	2
+2021-09-12	Blk Mtn	3
+2021-09-12	Blk Mtn	5
+2021-09-12	Blk Mtn	5
+2021-09-12	Blk Mtn	4
+2021-09-12	Blk Mtn	3
+2021-09-12	Blk Mtn	4
+2021-09-12	Blk Mtn	5
+2021-09-12	Blk Mtn	5
+2021-09-12	Blk Mtn	2
+2021-09-12	Lexington	4
+2021-09-12	Lexington	3
+2021-09-12	Lexington	3
+2021-09-12	Lexington	4
+2021-09-12	Lexington	5
+2021-09-12	Lexington	4
+2021-09-12	Lexington	5
+2021-09-12	Lexington	4
+2021-09-12	Lexington	3
+2021-09-12	Lexington	3
+2021-09-12	Lexington	4
+2021-09-12	Lexington	4
+2021-09-12	Lexington	5
+2021-09-12	Lexington	5
+2021-09-12	Lexington	5
+2021-09-12	Lexington	4
+2021-09-12	Lexington	5
+2021-09-12	Lexington	3
+2021-09-12	Lexington	5
+2021-09-12	Lexington	4
+2021-09-12	Lexington	4
+2021-09-12	Lexington	4
+2021-09-12	Lexington	5
+2021-09-12	Lexington	3
+2021-09-12	Lexington	3
+2021-09-12	Lexington	3
+2021-09-12	Lexington	3
+2021-09-12	Lexington	4
+2021-09-12	Lexington	4
+2021-09-12	Lexington	3
+2021-09-12	Lexington	4
+2021-09-12	Lexington	4
+2021-09-12	Lexington	4
+2021-09-12	Lexington	3
+2021-09-12	Lexington	5
+2021-09-12	Lexington	4
+2021-09-12	Lexington	3
+2021-09-12	Lexington	2
+2021-09-12	Lexington	4
+2021-09-12	Lexington	3
+2021-09-12	Lexington	5
+2021-09-12	Lexington	4
+2021-09-12	Lexington	4
+2021-09-12	Lexington	2
+2021-09-12	Lexington	3
+2021-09-12	Lexington	5
+2021-09-11	West Avl	4
+2021-09-11	West Avl	4
+2021-09-11	West Avl	1
+2021-09-11	West Avl	4
+2021-09-11	West Avl	4
+2021-09-11	West Avl	5
+2021-09-11	West Avl	4
+2021-09-11	West Avl	5
+2021-09-11	West Avl	5
+2021-09-11	West Avl	5
+2021-09-11	West Avl	4
+2021-09-11	West Avl	5
+2021-09-11	West Avl	5
+2021-09-11	West Avl	4
+2021-09-11	West Avl	3
+2021-09-11	West Avl	5
+2021-09-11	West Avl	4
+2021-09-11	West Avl	2
+2021-09-11	West Avl	3
+2021-09-11	East Avl	3
+2021-09-11	East Avl	5
+2021-09-11	East Avl	5
+2021-09-11	East Avl	5
+2021-09-11	East Avl	4
+2021-09-11	East Avl	5
+2021-09-11	East Avl	5
+2021-09-11	East Avl	5
+2021-09-11	East Avl	3
+2021-09-11	East Avl	5
+2021-09-11	Blk Mtn	5
+2021-09-11	Blk Mtn	3
+2021-09-11	Blk Mtn	3
+2021-09-11	Blk Mtn	4
+2021-09-11	Blk Mtn	4
+2021-09-11	Blk Mtn	5
+2021-09-11	Blk Mtn	4
+2021-09-11	Blk Mtn	4
+2021-09-11	Blk Mtn	5
+2021-09-11	Blk Mtn	5
+2021-09-11	Blk Mtn	2
+2021-09-11	Blk Mtn	3
+2021-09-11	Blk Mtn	5
+2021-09-11	Blk Mtn	2
+2021-09-11	Blk Mtn	5
+2021-09-11	Blk Mtn	2
+2021-09-11	Blk Mtn	2
+2021-09-11	Blk Mtn	2
+2021-09-11	Blk Mtn	2
+2021-09-11	Lexington	5
+2021-09-11	Lexington	5
+2021-09-11	Lexington	4
+2021-09-11	Lexington	2
+2021-09-11	Lexington	4
+2021-09-11	Lexington	5
+2021-09-11	Lexington	5
+2021-09-11	Lexington	4
+2021-09-11	Lexington	5
+2021-09-11	Lexington	4
+2021-09-11	Lexington	5
+2021-09-11	Lexington	5
+2021-09-11	Lexington	4
+2021-09-11	Lexington	5
+2021-09-11	Lexington	5
+2021-09-11	Lexington	5
+2021-09-11	Lexington	3
+2021-09-11	Lexington	4
+2021-09-11	Lexington	5
+2021-09-11	Lexington	4
+2021-09-11	Lexington	4
+2021-09-11	Lexington	5
+2021-09-11	Lexington	4
+2021-09-11	Lexington	5
+2021-09-11	Lexington	3
+2021-09-11	Lexington	5
+2021-09-11	Lexington	3
+2021-09-11	Lexington	5
+2021-09-11	Lexington	5
+2021-09-11	Lexington	5
+2021-09-11	Lexington	4
+2021-09-11	Lexington	4
+2021-09-11	Lexington	4
+2021-09-11	Lexington	5
+2021-09-11	Lexington	5
+2021-09-11	Lexington	4
+2021-09-11	Lexington	4
+2021-09-10	West Avl	5
+2021-09-10	West Avl	3
+2021-09-10	West Avl	5
+2021-09-10	West Avl	5
+2021-09-10	West Avl	2
+2021-09-10	West Avl	5
+2021-09-10	West Avl	4
+2021-09-10	West Avl	3
+2021-09-10	West Avl	5
+2021-09-10	West Avl	5
+2021-09-10	West Avl	4
+2021-09-10	East Avl	5
+2021-09-10	East Avl	5
+2021-09-10	East Avl	3
+2021-09-10	East Avl	3
+2021-09-10	East Avl	2
+2021-09-10	Blk Mtn	5
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	5
+2021-09-10	Blk Mtn	3
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	5
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	3
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	5
+2021-09-10	Blk Mtn	3
+2021-09-10	Blk Mtn	5
+2021-09-10	Blk Mtn	5
+2021-09-10	Blk Mtn	4
+2021-09-10	Blk Mtn	5
+2021-09-10	Blk Mtn	4
+2021-09-10	Lexington	5
+2021-09-10	Lexington	4
+2021-09-10	Lexington	1
+2021-09-10	Lexington	3
+2021-09-10	Lexington	3
+2021-09-10	Lexington	3
+2021-09-10	Lexington	2
+2021-09-10	Lexington	1
+2021-09-10	Lexington	5
+2021-09-10	Lexington	3
+2021-09-10	Lexington	3
+2021-09-10	Lexington	2
+2021-09-10	Lexington	3
+2021-09-10	Lexington	4
+2021-09-10	Lexington	3
+2021-09-10	Lexington	4
+2021-09-10	Lexington	4
+2021-09-10	Lexington	2
+2021-09-10	Lexington	4
+2021-09-10	Lexington	4
+2021-09-10	Lexington	3
+2021-09-10	Lexington	3
+2021-09-10	Lexington	3
+2021-09-10	Lexington	4
+2021-09-10	Lexington	5
+2021-09-10	Lexington	5
+2021-09-09	West Avl	3
+2021-09-09	West Avl	1
+2021-09-09	West Avl	4
+2021-09-09	West Avl	3
+2021-09-09	West Avl	4
+2021-09-09	West Avl	3
+2021-09-09	West Avl	4
+2021-09-09	West Avl	3
+2021-09-09	West Avl	2
+2021-09-09	West Avl	5
+2021-09-09	East Avl	4
+2021-09-09	East Avl	5
+2021-09-09	East Avl	3
+2021-09-09	East Avl	3
+2021-09-09	East Avl	2
+2021-09-09	East Avl	5
+2021-09-09	East Avl	4
+2021-09-09	East Avl	3
+2021-09-09	Blk Mtn	4
+2021-09-09	Blk Mtn	4
+2021-09-09	Blk Mtn	2
+2021-09-09	Blk Mtn	2
+2021-09-09	Blk Mtn	5
+2021-09-09	Blk Mtn	4
+2021-09-09	Blk Mtn	4
+2021-09-09	Blk Mtn	4
+2021-09-09	Blk Mtn	4
+2021-09-09	Blk Mtn	5
+2021-09-09	Blk Mtn	4
+2021-09-09	Blk Mtn	2
+2021-09-09	Blk Mtn	3
+2021-09-09	Lexington	4
+2021-09-09	Lexington	5
+2021-09-09	Lexington	5
+2021-09-09	Lexington	4
+2021-09-09	Lexington	5
+2021-09-09	Lexington	5
+2021-09-09	Lexington	2
+2021-09-09	Lexington	4
+2021-09-09	Lexington	3
+2021-09-09	Lexington	5
+2021-09-09	Lexington	4
+2021-09-09	Lexington	3
+2021-09-09	Lexington	5
+2021-09-09	Lexington	5
+2021-09-09	Lexington	2
+2021-09-09	Lexington	4
+2021-09-09	Lexington	3
+2021-09-09	Lexington	4
+2021-09-09	Lexington	4
+2021-09-09	Lexington	3
+2021-09-09	Lexington	5
+2021-09-09	Lexington	5
+2021-09-09	Lexington	2
+2021-09-09	Lexington	5
+2021-09-09	Lexington	4
+2021-09-09	Lexington	4
+2021-09-09	Lexington	3
+2021-09-09	Lexington	5
+2021-09-09	Lexington	4
+2021-09-08	West Avl	4
+2021-09-08	West Avl	3
+2021-09-08	West Avl	4
+2021-09-08	West Avl	4
+2021-09-08	West Avl	5
+2021-09-08	West Avl	4
+2021-09-08	West Avl	4
+2021-09-08	West Avl	3
+2021-09-08	West Avl	5
+2021-09-08	West Avl	1
+2021-09-08	East Avl	3
+2021-09-08	East Avl	3
+2021-09-08	East Avl	5
+2021-09-08	East Avl	3
+2021-09-08	East Avl	5
+2021-09-08	East Avl	5
+2021-09-08	East Avl	3
+2021-09-08	East Avl	4
+2021-09-08	East Avl	3
+2021-09-08	East Avl	3
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	3
+2021-09-08	Blk Mtn	3
+2021-09-08	Blk Mtn	5
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	5
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	5
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	3
+2021-09-08	Blk Mtn	3
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	3
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	2
+2021-09-08	Blk Mtn	4
+2021-09-08	Blk Mtn	3
+2021-09-08	Lexington	4
+2021-09-08	Lexington	5
+2021-09-08	Lexington	4
+2021-09-08	Lexington	3
+2021-09-08	Lexington	3
+2021-09-08	Lexington	3
+2021-09-08	Lexington	4
+2021-09-08	Lexington	3
+2021-09-08	Lexington	4
+2021-09-08	Lexington	3
+2021-09-08	Lexington	4
+2021-09-08	Lexington	3
+2021-09-08	Lexington	2
+2021-09-08	Lexington	4
+2021-09-08	Lexington	3
+2021-09-08	Lexington	5
+2021-09-08	Lexington	4
+2021-09-08	Lexington	5
+2021-09-08	Lexington	4
+2021-09-08	Lexington	5
+2021-09-08	Lexington	5
+2021-09-08	Lexington	2
+2021-09-08	Lexington	4
+2021-09-08	Lexington	4
+2021-09-08	Lexington	5
+2021-09-08	Lexington	3
+2021-09-08	Lexington	3
+2021-09-08	Lexington	4
+2021-09-08	Lexington	3
+2021-09-08	Lexington	5
+2021-09-08	Lexington	3
+2021-09-08	Lexington	5
+2021-09-08	Lexington	3
+2021-09-08	Lexington	4
+2021-09-08	Lexington	2
+2021-09-07	West Avl	5
+2021-09-07	West Avl	4
+2021-09-07	West Avl	5
+2021-09-07	West Avl	4
+2021-09-07	West Avl	5
+2021-09-07	West Avl	5
+2021-09-07	West Avl	4
+2021-09-07	West Avl	5
+2021-09-07	West Avl	5
+2021-09-07	West Avl	3
+2021-09-07	West Avl	4
+2021-09-07	West Avl	3
+2021-09-07	East Avl	3
+2021-09-07	East Avl	4
+2021-09-07	East Avl	4
+2021-09-07	East Avl	5
+2021-09-07	East Avl	5
+2021-09-07	East Avl	5
+2021-09-07	East Avl	5
+2021-09-07	East Avl	3
+2021-09-07	East Avl	3
+2021-09-07	East Avl	5
+2021-09-07	East Avl	5
+2021-09-07	East Avl	5
+2021-09-07	East Avl	4
+2021-09-07	Blk Mtn	4
+2021-09-07	Blk Mtn	5
+2021-09-07	Blk Mtn	3
+2021-09-07	Blk Mtn	5
+2021-09-07	Blk Mtn	2
+2021-09-07	Blk Mtn	4
+2021-09-07	Blk Mtn	5
+2021-09-07	Blk Mtn	4
+2021-09-07	Blk Mtn	3
+2021-09-07	Blk Mtn	4
+2021-09-07	Blk Mtn	4
+2021-09-07	Blk Mtn	3
+2021-09-07	Lexington	5
+2021-09-07	Lexington	3
+2021-09-07	Lexington	5
+2021-09-07	Lexington	4
+2021-09-07	Lexington	5
+2021-09-07	Lexington	3
+2021-09-07	Lexington	4
+2021-09-07	Lexington	5
+2021-09-07	Lexington	2
+2021-09-07	Lexington	5
+2021-09-07	Lexington	4
+2021-09-07	Lexington	3
+2021-09-07	Lexington	4
+2021-09-07	Lexington	3
+2021-09-07	Lexington	5
+2021-09-07	Lexington	4
+2021-09-07	Lexington	5
+2021-09-07	Lexington	3
+2021-09-07	Lexington	5
+2021-09-07	Lexington	4
+2021-09-07	Lexington	5
+2021-09-07	Lexington	5
+2021-09-07	Lexington	3
+2021-09-07	Lexington	5
+2021-09-07	Lexington	5
+2021-09-06	West Avl	5
+2021-09-06	West Avl	2
+2021-09-06	West Avl	4
+2021-09-06	West Avl	4
+2021-09-06	West Avl	3
+2021-09-06	West Avl	4
+2021-09-06	West Avl	5
+2021-09-06	West Avl	2
+2021-09-06	West Avl	3
+2021-09-06	West Avl	3
+2021-09-06	West Avl	4
+2021-09-06	West Avl	3
+2021-09-06	West Avl	3
+2021-09-06	West Avl	3
+2021-09-06	West Avl	5
+2021-09-06	West Avl	5
+2021-09-06	West Avl	3
+2021-09-06	West Avl	3
+2021-09-06	West Avl	5
+2021-09-06	West Avl	4
+2021-09-06	East Avl	3
+2021-09-06	East Avl	4
+2021-09-06	East Avl	4
+2021-09-06	East Avl	4
+2021-09-06	East Avl	4
+2021-09-06	East Avl	4
+2021-09-06	Blk Mtn	4
+2021-09-06	Blk Mtn	5
+2021-09-06	Blk Mtn	3
+2021-09-06	Blk Mtn	5
+2021-09-06	Blk Mtn	3
+2021-09-06	Blk Mtn	5
+2021-09-06	Blk Mtn	2
+2021-09-06	Blk Mtn	5
+2021-09-06	Blk Mtn	2
+2021-09-06	Blk Mtn	4
+2021-09-06	Blk Mtn	3
+2021-09-06	Lexington	4
+2021-09-06	Lexington	4
+2021-09-06	Lexington	4
+2021-09-06	Lexington	3
+2021-09-06	Lexington	2
+2021-09-06	Lexington	5
+2021-09-06	Lexington	3
+2021-09-06	Lexington	5
+2021-09-06	Lexington	4
+2021-09-06	Lexington	5
+2021-09-06	Lexington	5
+2021-09-06	Lexington	3
+2021-09-06	Lexington	3
+2021-09-06	Lexington	4
+2021-09-06	Lexington	3
+2021-09-06	Lexington	5
+2021-09-06	Lexington	3
+2021-09-06	Lexington	3
+2021-09-06	Lexington	5
+2021-09-06	Lexington	5
+2021-09-06	Lexington	3
+2021-09-06	Lexington	3
+2021-09-06	Lexington	4
+2021-09-06	Lexington	4
+2021-09-06	Lexington	5
+2021-09-06	Lexington	5
+2021-09-06	Lexington	4
+2021-09-06	Lexington	3
+2021-09-06	Lexington	4
+2021-09-06	Lexington	4
+2021-09-06	Lexington	4
+2021-09-06	Lexington	3
+2021-09-06	Lexington	2
+2021-09-05	West Avl	4
+2021-09-05	West Avl	2
+2021-09-05	West Avl	3
+2021-09-05	West Avl	3
+2021-09-05	West Avl	5
+2021-09-05	West Avl	5
+2021-09-05	West Avl	3
+2021-09-05	West Avl	2
+2021-09-05	West Avl	3
+2021-09-05	West Avl	3
+2021-09-05	West Avl	5
+2021-09-05	West Avl	2
+2021-09-05	West Avl	2
+2021-09-05	West Avl	4
+2021-09-05	East Avl	5
+2021-09-05	East Avl	5
+2021-09-05	East Avl	4
+2021-09-05	East Avl	5
+2021-09-05	East Avl	4
+2021-09-05	Blk Mtn	5
+2021-09-05	Blk Mtn	5
+2021-09-05	Blk Mtn	4
+2021-09-05	Blk Mtn	4
+2021-09-05	Blk Mtn	5
+2021-09-05	Blk Mtn	2
+2021-09-05	Blk Mtn	4
+2021-09-05	Blk Mtn	3
+2021-09-05	Blk Mtn	5
+2021-09-05	Blk Mtn	4
+2021-09-05	Blk Mtn	1
+2021-09-05	Blk Mtn	5
+2021-09-05	Lexington	4
+2021-09-05	Lexington	2
+2021-09-05	Lexington	4
+2021-09-05	Lexington	3
+2021-09-05	Lexington	5
+2021-09-05	Lexington	4
+2021-09-05	Lexington	4
+2021-09-05	Lexington	2
+2021-09-05	Lexington	3
+2021-09-05	Lexington	2
+2021-09-05	Lexington	2
+2021-09-05	Lexington	5
+2021-09-05	Lexington	3
+2021-09-05	Lexington	5
+2021-09-05	Lexington	5
+2021-09-05	Lexington	3
+2021-09-05	Lexington	4
+2021-09-05	Lexington	2
+2021-09-05	Lexington	5
+2021-09-05	Lexington	5
+2021-09-05	Lexington	4
+2021-09-05	Lexington	2
+2021-09-05	Lexington	3
+2021-09-05	Lexington	4
+2021-09-05	Lexington	5
+2021-09-05	Lexington	4
+2021-09-05	Lexington	5
+2021-09-05	Lexington	5
+2021-09-05	Lexington	5
+2021-09-05	Lexington	4
+2021-09-05	Lexington	2
+2021-09-04	West Avl	5
+2021-09-04	West Avl	5
+2021-09-04	West Avl	5
+2021-09-04	West Avl	5
+2021-09-04	West Avl	3
+2021-09-04	West Avl	5
+2021-09-04	West Avl	5
+2021-09-04	West Avl	5
+2021-09-04	West Avl	5
+2021-09-04	West Avl	5
+2021-09-04	West Avl	4
+2021-09-04	West Avl	5
+2021-09-04	West Avl	4
+2021-09-04	West Avl	5
+2021-09-04	West Avl	3
+2021-09-04	West Avl	5
+2021-09-04	East Avl	4
+2021-09-04	East Avl	4
+2021-09-04	East Avl	3
+2021-09-04	East Avl	4
+2021-09-04	East Avl	4
+2021-09-04	East Avl	5
+2021-09-04	East Avl	4
+2021-09-04	East Avl	3
+2021-09-04	East Avl	4
+2021-09-04	East Avl	3
+2021-09-04	East Avl	5
+2021-09-04	East Avl	4
+2021-09-04	Blk Mtn	2
+2021-09-04	Blk Mtn	4
+2021-09-04	Blk Mtn	5
+2021-09-04	Blk Mtn	5
+2021-09-04	Blk Mtn	5
+2021-09-04	Blk Mtn	1
+2021-09-04	Blk Mtn	2
+2021-09-04	Blk Mtn	4
+2021-09-04	Blk Mtn	3
+2021-09-04	Blk Mtn	3
+2021-09-04	Blk Mtn	4
+2021-09-04	Blk Mtn	4
+2021-09-04	Blk Mtn	3
+2021-09-04	Blk Mtn	4
+2021-09-04	Blk Mtn	5
+2021-09-04	Blk Mtn	4
+2021-09-04	Lexington	5
+2021-09-04	Lexington	3
+2021-09-04	Lexington	3
+2021-09-04	Lexington	5
+2021-09-04	Lexington	3
+2021-09-04	Lexington	5
+2021-09-04	Lexington	4
+2021-09-04	Lexington	2
+2021-09-04	Lexington	3
+2021-09-04	Lexington	5
+2021-09-04	Lexington	5
+2021-09-04	Lexington	5
+2021-09-04	Lexington	5
+2021-09-04	Lexington	4
+2021-09-04	Lexington	5
+2021-09-04	Lexington	3
+2021-09-04	Lexington	5
+2021-09-04	Lexington	4
+2021-09-04	Lexington	2
+2021-09-04	Lexington	3
+2021-09-04	Lexington	5
+2021-09-04	Lexington	4
+2021-09-04	Lexington	4
+2021-09-04	Lexington	4
+2021-09-04	Lexington	3
+2021-09-04	Lexington	3
+2021-09-04	Lexington	5
+2021-09-04	Lexington	4
+2021-09-04	Lexington	4
+2021-09-04	Lexington	5
+2021-09-04	Lexington	5
+2021-09-04	Lexington	3
+2021-09-04	Lexington	1
+2021-09-04	Lexington	4
+2021-09-04	Lexington	4
+2021-09-03	West Avl	4
+2021-09-03	West Avl	4
+2021-09-03	West Avl	2
+2021-09-03	West Avl	4
+2021-09-03	West Avl	3
+2021-09-03	West Avl	4
+2021-09-03	West Avl	5
+2021-09-03	West Avl	2
+2021-09-03	West Avl	5
+2021-09-03	West Avl	4
+2021-09-03	East Avl	5
+2021-09-03	East Avl	4
+2021-09-03	East Avl	5
+2021-09-03	East Avl	4
+2021-09-03	East Avl	4
+2021-09-03	East Avl	5
+2021-09-03	East Avl	5
+2021-09-03	East Avl	5
+2021-09-03	East Avl	4
+2021-09-03	East Avl	5
+2021-09-03	Blk Mtn	3
+2021-09-03	Blk Mtn	4
+2021-09-03	Blk Mtn	3
+2021-09-03	Blk Mtn	3
+2021-09-03	Blk Mtn	3
+2021-09-03	Blk Mtn	3
+2021-09-03	Blk Mtn	3
+2021-09-03	Blk Mtn	4
+2021-09-03	Blk Mtn	3
+2021-09-03	Blk Mtn	5
+2021-09-03	Blk Mtn	4
+2021-09-03	Blk Mtn	4
+2021-09-03	Blk Mtn	4
+2021-09-03	Lexington	4
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	4
+2021-09-03	Lexington	4
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	4
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	4
+2021-09-03	Lexington	5
+2021-09-03	Lexington	4
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-03	Lexington	5
+2021-09-02	West Avl	5
+2021-09-02	West Avl	5
+2021-09-02	West Avl	5
+2021-09-02	West Avl	5
+2021-09-02	West Avl	3
+2021-09-02	West Avl	5
+2021-09-02	West Avl	4
+2021-09-02	West Avl	5
+2021-09-02	West Avl	5
+2021-09-02	West Avl	3
+2021-09-02	West Avl	5
+2021-09-02	East Avl	4
+2021-09-02	East Avl	3
+2021-09-02	East Avl	2
+2021-09-02	East Avl	5
+2021-09-02	East Avl	2
+2021-09-02	East Avl	2
+2021-09-02	East Avl	3
+2021-09-02	East Avl	5
+2021-09-02	Blk Mtn	5
+2021-09-02	Blk Mtn	4
+2021-09-02	Blk Mtn	5
+2021-09-02	Blk Mtn	4
+2021-09-02	Blk Mtn	4
+2021-09-02	Blk Mtn	4
+2021-09-02	Blk Mtn	5
+2021-09-02	Blk Mtn	5
+2021-09-02	Blk Mtn	3
+2021-09-02	Blk Mtn	1
+2021-09-02	Blk Mtn	4
+2021-09-02	Blk Mtn	3
+2021-09-02	Blk Mtn	5
+2021-09-02	Lexington	3
+2021-09-02	Lexington	2
+2021-09-02	Lexington	3
+2021-09-02	Lexington	4
+2021-09-02	Lexington	4
+2021-09-02	Lexington	4
+2021-09-02	Lexington	3
+2021-09-02	Lexington	5
+2021-09-02	Lexington	2
+2021-09-02	Lexington	5
+2021-09-02	Lexington	4
+2021-09-02	Lexington	4
+2021-09-02	Lexington	4
+2021-09-02	Lexington	5
+2021-09-02	Lexington	4
+2021-09-02	Lexington	3
+2021-09-02	Lexington	5
+2021-09-02	Lexington	5
+2021-09-02	Lexington	5
+2021-09-02	Lexington	4
+2021-09-02	Lexington	4
+2021-09-02	Lexington	4
+2021-09-02	Lexington	3
+2021-09-02	Lexington	5
+2021-09-02	Lexington	4
+2021-09-02	Lexington	4
+2021-09-02	Lexington	4
+2021-09-02	Lexington	5
+2021-09-02	Lexington	5
+2021-09-02	Lexington	3
+2021-09-02	Lexington	5
+2021-09-02	Lexington	5
+2021-09-02	Lexington	5
+2021-09-02	Lexington	3
+2021-09-02	Lexington	5
+2021-09-02	Lexington	5
+2021-09-02	Lexington	4
+2021-09-02	Lexington	3
+2021-09-02	Lexington	2
+2021-09-01	West Avl	3
+2021-09-01	West Avl	2
+2021-09-01	West Avl	4
+2021-09-01	West Avl	2
+2021-09-01	West Avl	4
+2021-09-01	West Avl	5
+2021-09-01	West Avl	4
+2021-09-01	East Avl	2
+2021-09-01	East Avl	5
+2021-09-01	East Avl	5
+2021-09-01	East Avl	3
+2021-09-01	East Avl	4
+2021-09-01	East Avl	4
+2021-09-01	East Avl	3
+2021-09-01	East Avl	4
+2021-09-01	East Avl	4
+2021-09-01	East Avl	5
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	3
+2021-09-01	Blk Mtn	4
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	4
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	5
+2021-09-01	Blk Mtn	3
+2021-09-01	Lexington	5
+2021-09-01	Lexington	4
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	3
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	4
+2021-09-01	Lexington	3
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	3
+2021-09-01	Lexington	4
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	3
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	4
+2021-09-01	Lexington	4
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	4
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	4
+2021-09-01	Lexington	4
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	4
+2021-09-01	Lexington	2
+2021-09-01	Lexington	4
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	4
+2021-09-01	Lexington	4
+2021-09-01	Lexington	5
+2021-09-01	Lexington	5
+2021-09-01	Lexington	4
+2021-09-01	Lexington	4
+2021-09-01	Lexington	5
+2021-08-31	West Avl	4
+2021-08-31	West Avl	2
+2021-08-31	West Avl	3
+2021-08-31	West Avl	3
+2021-08-31	West Avl	4
+2021-08-31	West Avl	4
+2021-08-31	West Avl	4
+2021-08-31	West Avl	2
+2021-08-31	West Avl	5
+2021-08-31	West Avl	3
+2021-08-31	West Avl	5
+2021-08-31	West Avl	5
+2021-08-31	East Avl	5
+2021-08-31	East Avl	3
+2021-08-31	East Avl	4
+2021-08-31	Blk Mtn	5
+2021-08-31	Blk Mtn	5
+2021-08-31	Blk Mtn	3
+2021-08-31	Blk Mtn	3
+2021-08-31	Blk Mtn	4
+2021-08-31	Blk Mtn	4
+2021-08-31	Blk Mtn	2
+2021-08-31	Blk Mtn	5
+2021-08-31	Blk Mtn	5
+2021-08-31	Blk Mtn	3
+2021-08-31	Blk Mtn	2
+2021-08-31	Lexington	5
+2021-08-31	Lexington	5
+2021-08-31	Lexington	3
+2021-08-31	Lexington	3
+2021-08-31	Lexington	5
+2021-08-31	Lexington	5
+2021-08-31	Lexington	5
+2021-08-31	Lexington	3
+2021-08-31	Lexington	4
+2021-08-31	Lexington	3
+2021-08-31	Lexington	4
+2021-08-31	Lexington	3
+2021-08-31	Lexington	5
+2021-08-31	Lexington	5
+2021-08-31	Lexington	3
+2021-08-31	Lexington	3
+2021-08-31	Lexington	3
+2021-08-31	Lexington	4
+2021-08-31	Lexington	5
+2021-08-31	Lexington	4
+2021-08-31	Lexington	4
+2021-08-31	Lexington	5
+2021-08-31	Lexington	3
+2021-08-31	Lexington	3
+2021-08-31	Lexington	4
+2021-08-31	Lexington	5
+2021-08-31	Lexington	3
+2021-08-31	Lexington	4
+2021-08-31	Lexington	5
+2021-08-31	Lexington	2
+2021-08-31	Lexington	2
+2021-08-31	Lexington	4
+2021-08-31	Lexington	4
+2021-08-31	Lexington	1
+2021-08-31	Lexington	5
+2021-08-31	Lexington	4
+2021-08-31	Lexington	3
+2021-08-31	Lexington	3
+2021-08-31	Lexington	5
+2021-08-31	Lexington	4
+2021-08-31	Lexington	2
+2021-08-31	Lexington	4
+2021-08-31	Lexington	5
+2021-08-30	West Avl	3
+2021-08-30	West Avl	5
+2021-08-30	West Avl	3
+2021-08-30	West Avl	4
+2021-08-30	West Avl	5
+2021-08-30	West Avl	2
+2021-08-30	West Avl	2
+2021-08-30	West Avl	4
+2021-08-30	West Avl	5
+2021-08-30	West Avl	4
+2021-08-30	West Avl	3
+2021-08-30	East Avl	5
+2021-08-30	East Avl	3
+2021-08-30	East Avl	5
+2021-08-30	East Avl	5
+2021-08-30	East Avl	5
+2021-08-30	East Avl	2
+2021-08-30	Blk Mtn	4
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	4
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Blk Mtn	5
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-30	Lexington	3
+2021-08-30	Lexington	5
+2021-08-30	Lexington	2
+2021-08-30	Lexington	5
+2021-08-30	Lexington	2
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-30	Lexington	5
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-30	Lexington	4
+2021-08-30	Lexington	4
+2021-08-30	Lexington	3
+2021-08-30	Lexington	3
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-30	Lexington	3
+2021-08-30	Lexington	2
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-30	Lexington	4
+2021-08-30	Lexington	4
+2021-08-30	Lexington	5
+2021-08-30	Lexington	3
+2021-08-30	Lexington	5
+2021-08-30	Lexington	5
+2021-08-30	Lexington	3
+2021-08-30	Lexington	5
+2021-08-30	Lexington	5
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-30	Lexington	4
+2021-08-30	Lexington	5
+2021-08-30	Lexington	5
+2021-08-30	Lexington	5
+2021-08-30	Lexington	5
+2021-08-30	Lexington	4
+2021-08-29	West Avl	5
+2021-08-29	West Avl	3
+2021-08-29	West Avl	3
+2021-08-29	West Avl	5
+2021-08-29	West Avl	5
+2021-08-29	West Avl	5
+2021-08-29	West Avl	5
+2021-08-29	West Avl	5
+2021-08-29	West Avl	3
+2021-08-29	West Avl	4
+2021-08-29	East Avl	5
+2021-08-29	East Avl	5
+2021-08-29	East Avl	3
+2021-08-29	Blk Mtn	4
+2021-08-29	Blk Mtn	3
+2021-08-29	Blk Mtn	4
+2021-08-29	Blk Mtn	5
+2021-08-29	Blk Mtn	3
+2021-08-29	Blk Mtn	5
+2021-08-29	Blk Mtn	3
+2021-08-29	Blk Mtn	3
+2021-08-29	Blk Mtn	3
+2021-08-29	Blk Mtn	4
+2021-08-29	Blk Mtn	4
+2021-08-29	Blk Mtn	4
+2021-08-29	Blk Mtn	4
+2021-08-29	Blk Mtn	4
+2021-08-29	Blk Mtn	3
+2021-08-29	Blk Mtn	2
+2021-08-29	Blk Mtn	4
+2021-08-29	Lexington	5
+2021-08-29	Lexington	5
+2021-08-29	Lexington	5
+2021-08-29	Lexington	4
+2021-08-29	Lexington	4
+2021-08-29	Lexington	4
+2021-08-29	Lexington	4
+2021-08-29	Lexington	3
+2021-08-29	Lexington	5
+2021-08-29	Lexington	3
+2021-08-29	Lexington	4
+2021-08-29	Lexington	5
+2021-08-29	Lexington	4
+2021-08-29	Lexington	5
+2021-08-29	Lexington	5
+2021-08-29	Lexington	5
+2021-08-29	Lexington	5
+2021-08-29	Lexington	5
+2021-08-29	Lexington	3
+2021-08-29	Lexington	5
+2021-08-29	Lexington	4
+2021-08-29	Lexington	5
+2021-08-29	Lexington	4
+2021-08-29	Lexington	3
+2021-08-29	Lexington	4
+2021-08-29	Lexington	5
+2021-08-29	Lexington	5
+2021-08-29	Lexington	5
+2021-08-29	Lexington	4
+2021-08-29	Lexington	5
+2021-08-28	West Avl	3
+2021-08-28	West Avl	4
+2021-08-28	West Avl	3
+2021-08-28	West Avl	3
+2021-08-28	West Avl	4
+2021-08-28	West Avl	4
+2021-08-28	West Avl	3
+2021-08-28	West Avl	3
+2021-08-28	West Avl	3
+2021-08-28	West Avl	1
+2021-08-28	West Avl	4
+2021-08-28	West Avl	3
+2021-08-28	East Avl	4
+2021-08-28	East Avl	2
+2021-08-28	East Avl	4
+2021-08-28	East Avl	4
+2021-08-28	Blk Mtn	5
+2021-08-28	Blk Mtn	2
+2021-08-28	Blk Mtn	3
+2021-08-28	Blk Mtn	4
+2021-08-28	Blk Mtn	3
+2021-08-28	Blk Mtn	5
+2021-08-28	Blk Mtn	4
+2021-08-28	Blk Mtn	3
+2021-08-28	Blk Mtn	3
+2021-08-28	Blk Mtn	3
+2021-08-28	Blk Mtn	4
+2021-08-28	Blk Mtn	4
+2021-08-28	Blk Mtn	3
+2021-08-28	Blk Mtn	5
+2021-08-28	Blk Mtn	4
+2021-08-28	Blk Mtn	3
+2021-08-28	Blk Mtn	4
+2021-08-28	Lexington	3
+2021-08-28	Lexington	3
+2021-08-28	Lexington	5
+2021-08-28	Lexington	5
+2021-08-28	Lexington	5
+2021-08-28	Lexington	4
+2021-08-28	Lexington	4
+2021-08-28	Lexington	5
+2021-08-28	Lexington	5
+2021-08-28	Lexington	5
+2021-08-28	Lexington	5
+2021-08-28	Lexington	4
+2021-08-28	Lexington	3
+2021-08-28	Lexington	5
+2021-08-28	Lexington	4
+2021-08-28	Lexington	3
+2021-08-28	Lexington	5
+2021-08-28	Lexington	4
+2021-08-28	Lexington	3
+2021-08-28	Lexington	4
+2021-08-28	Lexington	4
+2021-08-28	Lexington	5
+2021-08-28	Lexington	3
+2021-08-28	Lexington	5
+2021-08-28	Lexington	5
+2021-08-28	Lexington	2
+2021-08-28	Lexington	4
+2021-08-28	Lexington	5
+2021-08-28	Lexington	5
+2021-08-28	Lexington	3
+2021-08-28	Lexington	2
+2021-08-27	West Avl	3
+2021-08-27	West Avl	3
+2021-08-27	West Avl	4
+2021-08-27	West Avl	4
+2021-08-27	West Avl	4
+2021-08-27	West Avl	4
+2021-08-27	West Avl	5
+2021-08-27	West Avl	1
+2021-08-27	West Avl	3
+2021-08-27	West Avl	3
+2021-08-27	West Avl	4
+2021-08-27	West Avl	2
+2021-08-27	West Avl	4
+2021-08-27	West Avl	3
+2021-08-27	West Avl	2
+2021-08-27	East Avl	5
+2021-08-27	East Avl	5
+2021-08-27	East Avl	5
+2021-08-27	East Avl	3
+2021-08-27	East Avl	5
+2021-08-27	East Avl	4
+2021-08-27	East Avl	3
+2021-08-27	East Avl	4
+2021-08-27	East Avl	5
+2021-08-27	East Avl	3
+2021-08-27	East Avl	5
+2021-08-27	Blk Mtn	4
+2021-08-27	Blk Mtn	5
+2021-08-27	Blk Mtn	3
+2021-08-27	Blk Mtn	4
+2021-08-27	Blk Mtn	2
+2021-08-27	Blk Mtn	4
+2021-08-27	Blk Mtn	4
+2021-08-27	Blk Mtn	5
+2021-08-27	Blk Mtn	5
+2021-08-27	Blk Mtn	5
+2021-08-27	Blk Mtn	4
+2021-08-27	Blk Mtn	4
+2021-08-27	Lexington	3
+2021-08-27	Lexington	4
+2021-08-27	Lexington	3
+2021-08-27	Lexington	5
+2021-08-27	Lexington	2
+2021-08-27	Lexington	5
+2021-08-27	Lexington	1
+2021-08-27	Lexington	5
+2021-08-27	Lexington	4
+2021-08-27	Lexington	2
+2021-08-27	Lexington	3
+2021-08-27	Lexington	5
+2021-08-27	Lexington	3
+2021-08-27	Lexington	1
+2021-08-27	Lexington	2
+2021-08-27	Lexington	4
+2021-08-27	Lexington	5
+2021-08-27	Lexington	5
+2021-08-27	Lexington	3
+2021-08-27	Lexington	4
+2021-08-27	Lexington	3
+2021-08-27	Lexington	5
+2021-08-27	Lexington	4
+2021-08-27	Lexington	5
+2021-08-27	Lexington	2
+2021-08-27	Lexington	2
+2021-08-27	Lexington	5
+2021-08-27	Lexington	3
+2021-08-27	Lexington	3
+2021-08-27	Lexington	3
+2021-08-27	Lexington	4
+2021-08-27	Lexington	2
+2021-08-27	Lexington	4
+2021-08-27	Lexington	3
+2021-08-26	West Avl	4
+2021-08-26	West Avl	4
+2021-08-26	West Avl	3
+2021-08-26	West Avl	3
+2021-08-26	West Avl	4
+2021-08-26	West Avl	4
+2021-08-26	West Avl	4
+2021-08-26	West Avl	3
+2021-08-26	West Avl	5
+2021-08-26	West Avl	3
+2021-08-26	West Avl	4
+2021-08-26	West Avl	4
+2021-08-26	West Avl	4
+2021-08-26	West Avl	5
+2021-08-26	East Avl	4
+2021-08-26	East Avl	5
+2021-08-26	East Avl	4
+2021-08-26	East Avl	4
+2021-08-26	East Avl	4
+2021-08-26	East Avl	4
+2021-08-26	East Avl	2
+2021-08-26	East Avl	4
+2021-08-26	East Avl	4
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	3
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Blk Mtn	5
+2021-08-26	Lexington	3
+2021-08-26	Lexington	3
+2021-08-26	Lexington	3
+2021-08-26	Lexington	3
+2021-08-26	Lexington	4
+2021-08-26	Lexington	5
+2021-08-26	Lexington	2
+2021-08-26	Lexington	3
+2021-08-26	Lexington	5
+2021-08-26	Lexington	5
+2021-08-26	Lexington	5
+2021-08-26	Lexington	5
+2021-08-26	Lexington	5
+2021-08-26	Lexington	4
+2021-08-26	Lexington	3
+2021-08-26	Lexington	3
+2021-08-26	Lexington	4
+2021-08-26	Lexington	4
+2021-08-26	Lexington	5
+2021-08-26	Lexington	4
+2021-08-26	Lexington	2
+2021-08-26	Lexington	5
+2021-08-26	Lexington	5
+2021-08-26	Lexington	4
+2021-08-26	Lexington	3
+2021-08-26	Lexington	3
+2021-08-26	Lexington	3
+2021-08-26	Lexington	4
+2021-08-26	Lexington	5
+2021-08-25	West Avl	3
+2021-08-25	West Avl	2
+2021-08-25	West Avl	4
+2021-08-25	West Avl	5
+2021-08-25	West Avl	2
+2021-08-25	West Avl	4
+2021-08-25	West Avl	4
+2021-08-25	West Avl	5
+2021-08-25	West Avl	2
+2021-08-25	East Avl	4
+2021-08-25	East Avl	5
+2021-08-25	East Avl	3
+2021-08-25	East Avl	5
+2021-08-25	East Avl	5
+2021-08-25	East Avl	5
+2021-08-25	East Avl	3
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	3
+2021-08-25	Blk Mtn	4
+2021-08-25	Blk Mtn	3
+2021-08-25	Blk Mtn	4
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	3
+2021-08-25	Blk Mtn	4
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	5
+2021-08-25	Blk Mtn	3
+2021-08-25	Blk Mtn	3
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	4
+2021-08-25	Lexington	4
+2021-08-25	Lexington	4
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	4
+2021-08-25	Lexington	4
+2021-08-25	Lexington	5
+2021-08-25	Lexington	3
+2021-08-25	Lexington	5
+2021-08-25	Lexington	4
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	3
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	4
+2021-08-25	Lexington	4
+2021-08-25	Lexington	3
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	4
+2021-08-25	Lexington	4
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	5
+2021-08-25	Lexington	4
+2021-08-25	Lexington	4
+2021-08-24	West Avl	5
+2021-08-24	West Avl	4
+2021-08-24	West Avl	3
+2021-08-24	West Avl	3
+2021-08-24	West Avl	5
+2021-08-24	West Avl	2
+2021-08-24	West Avl	5
+2021-08-24	West Avl	4
+2021-08-24	West Avl	3
+2021-08-24	West Avl	4
+2021-08-24	West Avl	5
+2021-08-24	West Avl	2
+2021-08-24	West Avl	3
+2021-08-24	West Avl	4
+2021-08-24	East Avl	5
+2021-08-24	East Avl	5
+2021-08-24	East Avl	4
+2021-08-24	East Avl	5
+2021-08-24	East Avl	4
+2021-08-24	East Avl	4
+2021-08-24	East Avl	5
+2021-08-24	East Avl	5
+2021-08-24	Blk Mtn	4
+2021-08-24	Blk Mtn	4
+2021-08-24	Blk Mtn	4
+2021-08-24	Blk Mtn	5
+2021-08-24	Blk Mtn	4
+2021-08-24	Blk Mtn	3
+2021-08-24	Blk Mtn	5
+2021-08-24	Blk Mtn	4
+2021-08-24	Blk Mtn	3
+2021-08-24	Blk Mtn	4
+2021-08-24	Blk Mtn	2
+2021-08-24	Blk Mtn	5
+2021-08-24	Lexington	5
+2021-08-24	Lexington	5
+2021-08-24	Lexington	2
+2021-08-24	Lexington	3
+2021-08-24	Lexington	4
+2021-08-24	Lexington	5
+2021-08-24	Lexington	4
+2021-08-24	Lexington	5
+2021-08-24	Lexington	2
+2021-08-24	Lexington	2
+2021-08-24	Lexington	4
+2021-08-24	Lexington	5
+2021-08-24	Lexington	4
+2021-08-24	Lexington	5
+2021-08-24	Lexington	2
+2021-08-24	Lexington	4
+2021-08-24	Lexington	5
+2021-08-24	Lexington	5
+2021-08-24	Lexington	4
+2021-08-24	Lexington	4
+2021-08-24	Lexington	3
+2021-08-24	Lexington	4
+2021-08-24	Lexington	3
+2021-08-24	Lexington	3
+2021-08-24	Lexington	5
+2021-08-24	Lexington	3
+2021-08-24	Lexington	4
+2021-08-24	Lexington	2
+2021-08-24	Lexington	3
+2021-08-24	Lexington	4
+2021-08-24	Lexington	5
+2021-08-24	Lexington	4
+2021-08-24	Lexington	5
+2021-08-24	Lexington	5
+2021-08-24	Lexington	4
+2021-08-24	Lexington	4
+2021-08-24	Lexington	3
+2021-08-23	West Avl	3
+2021-08-23	West Avl	4
+2021-08-23	West Avl	3
+2021-08-23	West Avl	2
+2021-08-23	West Avl	5
+2021-08-23	West Avl	4
+2021-08-23	West Avl	3
+2021-08-23	West Avl	3
+2021-08-23	West Avl	3
+2021-08-23	West Avl	3
+2021-08-23	West Avl	3
+2021-08-23	West Avl	5
+2021-08-23	West Avl	5
+2021-08-23	West Avl	4
+2021-08-23	East Avl	5
+2021-08-23	East Avl	2
+2021-08-23	East Avl	3
+2021-08-23	East Avl	5
+2021-08-23	East Avl	2
+2021-08-23	East Avl	3
+2021-08-23	East Avl	4
+2021-08-23	East Avl	3
+2021-08-23	East Avl	2
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	2
+2021-08-23	Blk Mtn	4
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	5
+2021-08-23	Blk Mtn	4
+2021-08-23	Blk Mtn	4
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	5
+2021-08-23	Blk Mtn	5
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	2
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	4
+2021-08-23	Blk Mtn	5
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	5
+2021-08-23	Blk Mtn	3
+2021-08-23	Blk Mtn	5
+2021-08-23	Lexington	3
+2021-08-23	Lexington	5
+2021-08-23	Lexington	3
+2021-08-23	Lexington	3
+2021-08-23	Lexington	3
+2021-08-23	Lexington	3
+2021-08-23	Lexington	3
+2021-08-23	Lexington	4
+2021-08-23	Lexington	4
+2021-08-23	Lexington	3
+2021-08-23	Lexington	3
+2021-08-23	Lexington	5
+2021-08-23	Lexington	5
+2021-08-23	Lexington	5
+2021-08-23	Lexington	3
+2021-08-23	Lexington	2
+2021-08-23	Lexington	3
+2021-08-23	Lexington	5
+2021-08-23	Lexington	5
+2021-08-23	Lexington	4
+2021-08-23	Lexington	4
+2021-08-23	Lexington	4
+2021-08-23	Lexington	4
+2021-08-23	Lexington	2
+2021-08-23	Lexington	4
+2021-08-23	Lexington	4
+2021-08-23	Lexington	3
+2021-08-23	Lexington	2
+2021-08-22	West Avl	4
+2021-08-22	West Avl	3
+2021-08-22	West Avl	4
+2021-08-22	West Avl	3
+2021-08-22	West Avl	3
+2021-08-22	West Avl	3
+2021-08-22	West Avl	3
+2021-08-22	West Avl	2
+2021-08-22	West Avl	5
+2021-08-22	West Avl	1
+2021-08-22	West Avl	4
+2021-08-22	West Avl	4
+2021-08-22	West Avl	2
+2021-08-22	West Avl	5
+2021-08-22	West Avl	4
+2021-08-22	West Avl	4
+2021-08-22	West Avl	3
+2021-08-22	West Avl	3
+2021-08-22	East Avl	5
+2021-08-22	East Avl	5
+2021-08-22	East Avl	4
+2021-08-22	East Avl	5
+2021-08-22	East Avl	3
+2021-08-22	East Avl	4
+2021-08-22	East Avl	4
+2021-08-22	East Avl	5
+2021-08-22	Blk Mtn	1
+2021-08-22	Blk Mtn	3
+2021-08-22	Blk Mtn	3
+2021-08-22	Blk Mtn	4
+2021-08-22	Blk Mtn	4
+2021-08-22	Blk Mtn	5
+2021-08-22	Blk Mtn	5
+2021-08-22	Blk Mtn	5
+2021-08-22	Blk Mtn	5
+2021-08-22	Lexington	5
+2021-08-22	Lexington	3
+2021-08-22	Lexington	5
+2021-08-22	Lexington	4
+2021-08-22	Lexington	5
+2021-08-22	Lexington	3
+2021-08-22	Lexington	5
+2021-08-22	Lexington	4
+2021-08-22	Lexington	1
+2021-08-22	Lexington	4
+2021-08-22	Lexington	4
+2021-08-22	Lexington	2
+2021-08-22	Lexington	4
+2021-08-22	Lexington	3
+2021-08-22	Lexington	3
+2021-08-22	Lexington	2
+2021-08-22	Lexington	2
+2021-08-22	Lexington	5
+2021-08-22	Lexington	4
+2021-08-22	Lexington	2
+2021-08-22	Lexington	3
+2021-08-22	Lexington	5
+2021-08-22	Lexington	4
+2021-08-22	Lexington	4
+2021-08-22	Lexington	5
+2021-08-22	Lexington	5
+2021-08-22	Lexington	5
+2021-08-22	Lexington	3
+2021-08-22	Lexington	4
+2021-08-22	Lexington	4
+2021-08-22	Lexington	4
+2021-08-22	Lexington	3
+2021-08-22	Lexington	4
+2021-08-21	West Avl	4
+2021-08-21	West Avl	5
+2021-08-21	West Avl	4
+2021-08-21	West Avl	5
+2021-08-21	West Avl	3
+2021-08-21	West Avl	4
+2021-08-21	West Avl	3
+2021-08-21	West Avl	5
+2021-08-21	West Avl	5
+2021-08-21	West Avl	4
+2021-08-21	West Avl	4
+2021-08-21	West Avl	4
+2021-08-21	East Avl	5
+2021-08-21	East Avl	4
+2021-08-21	East Avl	5
+2021-08-21	East Avl	3
+2021-08-21	East Avl	4
+2021-08-21	East Avl	5
+2021-08-21	East Avl	4
+2021-08-21	East Avl	3
+2021-08-21	East Avl	5
+2021-08-21	East Avl	5
+2021-08-21	East Avl	4
+2021-08-21	Blk Mtn	4
+2021-08-21	Blk Mtn	5
+2021-08-21	Blk Mtn	5
+2021-08-21	Blk Mtn	4
+2021-08-21	Blk Mtn	3
+2021-08-21	Blk Mtn	4
+2021-08-21	Blk Mtn	4
+2021-08-21	Blk Mtn	5
+2021-08-21	Blk Mtn	2
+2021-08-21	Blk Mtn	2
+2021-08-21	Blk Mtn	3
+2021-08-21	Blk Mtn	3
+2021-08-21	Blk Mtn	3
+2021-08-21	Blk Mtn	5
+2021-08-21	Blk Mtn	4
+2021-08-21	Lexington	3
+2021-08-21	Lexington	5
+2021-08-21	Lexington	5
+2021-08-21	Lexington	5
+2021-08-21	Lexington	3
+2021-08-21	Lexington	4
+2021-08-21	Lexington	5
+2021-08-21	Lexington	5
+2021-08-21	Lexington	3
+2021-08-21	Lexington	5
+2021-08-21	Lexington	5
+2021-08-21	Lexington	4
+2021-08-21	Lexington	5
+2021-08-21	Lexington	3
+2021-08-21	Lexington	5
+2021-08-21	Lexington	5
+2021-08-21	Lexington	5
+2021-08-21	Lexington	3
+2021-08-21	Lexington	4
+2021-08-21	Lexington	4
+2021-08-21	Lexington	3
+2021-08-21	Lexington	5
+2021-08-21	Lexington	3
+2021-08-21	Lexington	4
+2021-08-21	Lexington	4
+2021-08-21	Lexington	4
+2021-08-20	West Avl	3
+2021-08-20	West Avl	4
+2021-08-20	West Avl	5
+2021-08-20	West Avl	5
+2021-08-20	West Avl	5
+2021-08-20	West Avl	5
+2021-08-20	West Avl	4
+2021-08-20	West Avl	4
+2021-08-20	West Avl	4
+2021-08-20	West Avl	5
+2021-08-20	West Avl	5
+2021-08-20	West Avl	5
+2021-08-20	West Avl	4
+2021-08-20	East Avl	3
+2021-08-20	East Avl	4
+2021-08-20	East Avl	4
+2021-08-20	East Avl	5
+2021-08-20	East Avl	3
+2021-08-20	East Avl	3
+2021-08-20	East Avl	5
+2021-08-20	East Avl	5
+2021-08-20	East Avl	5
+2021-08-20	Blk Mtn	5
+2021-08-20	Blk Mtn	5
+2021-08-20	Blk Mtn	2
+2021-08-20	Blk Mtn	2
+2021-08-20	Blk Mtn	2
+2021-08-20	Blk Mtn	3
+2021-08-20	Blk Mtn	4
+2021-08-20	Blk Mtn	4
+2021-08-20	Blk Mtn	4
+2021-08-20	Blk Mtn	5
+2021-08-20	Blk Mtn	2
+2021-08-20	Blk Mtn	5
+2021-08-20	Blk Mtn	3
+2021-08-20	Blk Mtn	3
+2021-08-20	Lexington	5
+2021-08-20	Lexington	3
+2021-08-20	Lexington	4
+2021-08-20	Lexington	4
+2021-08-20	Lexington	3
+2021-08-20	Lexington	4
+2021-08-20	Lexington	5
+2021-08-20	Lexington	4
+2021-08-20	Lexington	1
+2021-08-20	Lexington	4
+2021-08-20	Lexington	1
+2021-08-20	Lexington	5
+2021-08-20	Lexington	5
+2021-08-20	Lexington	5
+2021-08-20	Lexington	2
+2021-08-20	Lexington	5
+2021-08-20	Lexington	2
+2021-08-20	Lexington	4
+2021-08-20	Lexington	1
+2021-08-20	Lexington	5
+2021-08-20	Lexington	4
+2021-08-20	Lexington	2
+2021-08-20	Lexington	5
+2021-08-20	Lexington	3
+2021-08-20	Lexington	5
+2021-08-20	Lexington	5
+2021-08-20	Lexington	5
+2021-08-20	Lexington	5
+2021-08-20	Lexington	3
+2021-08-20	Lexington	4
+2021-08-19	West Avl	4
+2021-08-19	West Avl	4
+2021-08-19	West Avl	5
+2021-08-19	West Avl	4
+2021-08-19	West Avl	5
+2021-08-19	West Avl	4
+2021-08-19	West Avl	5
+2021-08-19	West Avl	5
+2021-08-19	West Avl	4
+2021-08-19	West Avl	4
+2021-08-19	West Avl	3
+2021-08-19	East Avl	4
+2021-08-19	East Avl	5
+2021-08-19	East Avl	4
+2021-08-19	East Avl	3
+2021-08-19	East Avl	4
+2021-08-19	East Avl	5
+2021-08-19	East Avl	3
+2021-08-19	East Avl	3
+2021-08-19	East Avl	4
+2021-08-19	East Avl	4
+2021-08-19	East Avl	5
+2021-08-19	East Avl	2
+2021-08-19	East Avl	4
+2021-08-19	East Avl	4
+2021-08-19	East Avl	2
+2021-08-19	Blk Mtn	4
+2021-08-19	Blk Mtn	5
+2021-08-19	Blk Mtn	3
+2021-08-19	Blk Mtn	5
+2021-08-19	Blk Mtn	3
+2021-08-19	Blk Mtn	5
+2021-08-19	Blk Mtn	5
+2021-08-19	Blk Mtn	3
+2021-08-19	Blk Mtn	2
+2021-08-19	Blk Mtn	4
+2021-08-19	Blk Mtn	3
+2021-08-19	Blk Mtn	4
+2021-08-19	Blk Mtn	3
+2021-08-19	Blk Mtn	3
+2021-08-19	Lexington	4
+2021-08-19	Lexington	2
+2021-08-19	Lexington	5
+2021-08-19	Lexington	3
+2021-08-19	Lexington	4
+2021-08-19	Lexington	4
+2021-08-19	Lexington	3
+2021-08-19	Lexington	4
+2021-08-19	Lexington	2
+2021-08-19	Lexington	3
+2021-08-19	Lexington	3
+2021-08-19	Lexington	3
+2021-08-19	Lexington	3
+2021-08-19	Lexington	5
+2021-08-19	Lexington	4
+2021-08-19	Lexington	5
+2021-08-19	Lexington	3
+2021-08-19	Lexington	5
+2021-08-19	Lexington	3
+2021-08-19	Lexington	3
+2021-08-19	Lexington	3
+2021-08-19	Lexington	4
+2021-08-19	Lexington	4
+2021-08-19	Lexington	2
+2021-08-19	Lexington	5
+2021-08-19	Lexington	4
+2021-08-19	Lexington	2
+2021-08-19	Lexington	3
+2021-08-19	Lexington	4
+2021-08-19	Lexington	4
+2021-08-19	Lexington	3
+2021-08-18	West Avl	4
+2021-08-18	West Avl	5
+2021-08-18	West Avl	5
+2021-08-18	West Avl	4
+2021-08-18	West Avl	5
+2021-08-18	West Avl	4
+2021-08-18	West Avl	5
+2021-08-18	West Avl	4
+2021-08-18	West Avl	5
+2021-08-18	West Avl	5
+2021-08-18	East Avl	4
+2021-08-18	East Avl	4
+2021-08-18	East Avl	3
+2021-08-18	East Avl	4
+2021-08-18	East Avl	5
+2021-08-18	East Avl	3
+2021-08-18	East Avl	4
+2021-08-18	Blk Mtn	4
+2021-08-18	Blk Mtn	3
+2021-08-18	Blk Mtn	5
+2021-08-18	Blk Mtn	4
+2021-08-18	Blk Mtn	2
+2021-08-18	Blk Mtn	5
+2021-08-18	Blk Mtn	4
+2021-08-18	Blk Mtn	4
+2021-08-18	Blk Mtn	3
+2021-08-18	Blk Mtn	3
+2021-08-18	Blk Mtn	3
+2021-08-18	Blk Mtn	4
+2021-08-18	Blk Mtn	3
+2021-08-18	Blk Mtn	2
+2021-08-18	Blk Mtn	2
+2021-08-18	Blk Mtn	3
+2021-08-18	Blk Mtn	4
+2021-08-18	Lexington	4
+2021-08-18	Lexington	3
+2021-08-18	Lexington	5
+2021-08-18	Lexington	2
+2021-08-18	Lexington	5
+2021-08-18	Lexington	4
+2021-08-18	Lexington	3
+2021-08-18	Lexington	4
+2021-08-18	Lexington	4
+2021-08-18	Lexington	5
+2021-08-18	Lexington	2
+2021-08-18	Lexington	4
+2021-08-18	Lexington	3
+2021-08-18	Lexington	3
+2021-08-18	Lexington	5
+2021-08-18	Lexington	5
+2021-08-18	Lexington	4
+2021-08-18	Lexington	3
+2021-08-18	Lexington	3
+2021-08-18	Lexington	4
+2021-08-18	Lexington	4
+2021-08-18	Lexington	5
+2021-08-18	Lexington	5
+2021-08-18	Lexington	4
+2021-08-18	Lexington	4
+2021-08-18	Lexington	3
+2021-08-18	Lexington	3
+2021-08-18	Lexington	5
+2021-08-18	Lexington	4
+2021-08-18	Lexington	3
+2021-08-18	Lexington	5
+2021-08-18	Lexington	4
+2021-08-18	Lexington	3
+2021-08-18	Lexington	4
+2021-08-18	Lexington	5
+2021-08-18	Lexington	5
+2021-08-18	Lexington	2
+2021-08-18	Lexington	3
+2021-08-17	West Avl	4
+2021-08-17	West Avl	4
+2021-08-17	West Avl	5
+2021-08-17	West Avl	5
+2021-08-17	West Avl	5
+2021-08-17	West Avl	3
+2021-08-17	West Avl	4
+2021-08-17	West Avl	4
+2021-08-17	West Avl	3
+2021-08-17	West Avl	3
+2021-08-17	West Avl	4
+2021-08-17	West Avl	3
+2021-08-17	West Avl	4
+2021-08-17	East Avl	5
+2021-08-17	East Avl	5
+2021-08-17	East Avl	5
+2021-08-17	East Avl	4
+2021-08-17	East Avl	3
+2021-08-17	East Avl	3
+2021-08-17	East Avl	4
+2021-08-17	Blk Mtn	5
+2021-08-17	Blk Mtn	4
+2021-08-17	Blk Mtn	3
+2021-08-17	Blk Mtn	2
+2021-08-17	Blk Mtn	2
+2021-08-17	Blk Mtn	3
+2021-08-17	Blk Mtn	4
+2021-08-17	Blk Mtn	3
+2021-08-17	Blk Mtn	4
+2021-08-17	Blk Mtn	3
+2021-08-17	Blk Mtn	4
+2021-08-17	Blk Mtn	4
+2021-08-17	Blk Mtn	4
+2021-08-17	Blk Mtn	3
+2021-08-17	Blk Mtn	5
+2021-08-17	Blk Mtn	5
+2021-08-17	Blk Mtn	5
+2021-08-17	Blk Mtn	2
+2021-08-17	Blk Mtn	5
+2021-08-17	Blk Mtn	4
+2021-08-17	Blk Mtn	3
+2021-08-17	Blk Mtn	3
+2021-08-17	Blk Mtn	4
+2021-08-17	Blk Mtn	2
+2021-08-17	Blk Mtn	5
+2021-08-17	Lexington	4
+2021-08-17	Lexington	4
+2021-08-17	Lexington	3
+2021-08-17	Lexington	3
+2021-08-17	Lexington	3
+2021-08-17	Lexington	4
+2021-08-17	Lexington	4
+2021-08-17	Lexington	2
+2021-08-17	Lexington	4
+2021-08-17	Lexington	3
+2021-08-17	Lexington	4
+2021-08-17	Lexington	3
+2021-08-17	Lexington	5
+2021-08-17	Lexington	5
+2021-08-17	Lexington	5
+2021-08-17	Lexington	2
+2021-08-17	Lexington	4
+2021-08-17	Lexington	3
+2021-08-17	Lexington	5
+2021-08-17	Lexington	3
+2021-08-17	Lexington	4
+2021-08-17	Lexington	4
+2021-08-17	Lexington	3
+2021-08-17	Lexington	5
+2021-08-17	Lexington	5
+2021-08-17	Lexington	3
+2021-08-17	Lexington	5
+2021-08-17	Lexington	4
+2021-08-17	Lexington	4
+2021-08-17	Lexington	4
+2021-08-17	Lexington	5
+2021-08-17	Lexington	4
+2021-08-16	West Avl	4
+2021-08-16	West Avl	5
+2021-08-16	West Avl	3
+2021-08-16	West Avl	5
+2021-08-16	West Avl	4
+2021-08-16	East Avl	5
+2021-08-16	East Avl	3
+2021-08-16	East Avl	5
+2021-08-16	East Avl	5
+2021-08-16	East Avl	5
+2021-08-16	East Avl	5
+2021-08-16	East Avl	4
+2021-08-16	East Avl	5
+2021-08-16	East Avl	5
+2021-08-16	Blk Mtn	5
+2021-08-16	Blk Mtn	5
+2021-08-16	Blk Mtn	5
+2021-08-16	Blk Mtn	3
+2021-08-16	Blk Mtn	5
+2021-08-16	Blk Mtn	3
+2021-08-16	Blk Mtn	5
+2021-08-16	Blk Mtn	3
+2021-08-16	Blk Mtn	3
+2021-08-16	Blk Mtn	4
+2021-08-16	Blk Mtn	2
+2021-08-16	Lexington	5
+2021-08-16	Lexington	2
+2021-08-16	Lexington	5
+2021-08-16	Lexington	4
+2021-08-16	Lexington	4
+2021-08-16	Lexington	3
+2021-08-16	Lexington	5
+2021-08-16	Lexington	4
+2021-08-16	Lexington	5
+2021-08-16	Lexington	5
+2021-08-16	Lexington	3
+2021-08-16	Lexington	3
+2021-08-16	Lexington	5
+2021-08-16	Lexington	3
+2021-08-16	Lexington	4
+2021-08-16	Lexington	5
+2021-08-16	Lexington	2
+2021-08-16	Lexington	3
+2021-08-16	Lexington	5
+2021-08-16	Lexington	4
+2021-08-16	Lexington	5
+2021-08-16	Lexington	3
+2021-08-16	Lexington	5
+2021-08-16	Lexington	5
+2021-08-16	Lexington	5
+2021-08-16	Lexington	3
+2021-08-16	Lexington	4
+2021-08-16	Lexington	3
+2021-08-16	Lexington	3
+2021-08-16	Lexington	5
+2021-08-16	Lexington	2
+2021-08-16	Lexington	3
+2021-08-16	Lexington	3
+2021-08-16	Lexington	5
+2021-08-16	Lexington	4
+2021-08-16	Lexington	2
+2021-08-16	Lexington	5
+2021-08-15	West Avl	5
+2021-08-15	West Avl	4
+2021-08-15	West Avl	2
+2021-08-15	West Avl	4
+2021-08-15	West Avl	4
+2021-08-15	West Avl	5
+2021-08-15	West Avl	4
+2021-08-15	West Avl	5
+2021-08-15	West Avl	5
+2021-08-15	West Avl	5
+2021-08-15	West Avl	5
+2021-08-15	West Avl	5
+2021-08-15	East Avl	5
+2021-08-15	East Avl	4
+2021-08-15	East Avl	5
+2021-08-15	East Avl	4
+2021-08-15	East Avl	5
+2021-08-15	East Avl	5
+2021-08-15	East Avl	5
+2021-08-15	East Avl	3
+2021-08-15	East Avl	4
+2021-08-15	East Avl	5
+2021-08-15	East Avl	2
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	3
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	2
+2021-08-15	Blk Mtn	3
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	3
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	5
+2021-08-15	Blk Mtn	4
+2021-08-15	Blk Mtn	4
+2021-08-15	Lexington	5
+2021-08-15	Lexington	2
+2021-08-15	Lexington	5
+2021-08-15	Lexington	5
+2021-08-15	Lexington	4
+2021-08-15	Lexington	3
+2021-08-15	Lexington	5
+2021-08-15	Lexington	4
+2021-08-15	Lexington	4
+2021-08-15	Lexington	4
+2021-08-15	Lexington	5
+2021-08-15	Lexington	3
+2021-08-15	Lexington	5
+2021-08-15	Lexington	4
+2021-08-15	Lexington	5
+2021-08-15	Lexington	4
+2021-08-15	Lexington	4
+2021-08-15	Lexington	5
+2021-08-15	Lexington	5
+2021-08-15	Lexington	4
+2021-08-15	Lexington	5
+2021-08-15	Lexington	4
+2021-08-15	Lexington	5
+2021-08-15	Lexington	5
+2021-08-15	Lexington	4
+2021-08-15	Lexington	4
+2021-08-15	Lexington	2
+2021-08-15	Lexington	3
+2021-08-15	Lexington	3
+2021-08-15	Lexington	5
+2021-08-15	Lexington	4
+2021-08-15	Lexington	3
+2021-08-15	Lexington	3
+2021-08-15	Lexington	3
+2021-08-15	Lexington	3
+2021-08-14	West Avl	5
+2021-08-14	West Avl	2
+2021-08-14	West Avl	5
+2021-08-14	West Avl	2
+2021-08-14	West Avl	3
+2021-08-14	West Avl	2
+2021-08-14	West Avl	4
+2021-08-14	West Avl	4
+2021-08-14	West Avl	3
+2021-08-14	West Avl	5
+2021-08-14	West Avl	4
+2021-08-14	West Avl	3
+2021-08-14	East Avl	5
+2021-08-14	East Avl	5
+2021-08-14	East Avl	3
+2021-08-14	East Avl	4
+2021-08-14	East Avl	5
+2021-08-14	East Avl	4
+2021-08-14	East Avl	4
+2021-08-14	East Avl	5
+2021-08-14	East Avl	4
+2021-08-14	East Avl	5
+2021-08-14	East Avl	5
+2021-08-14	East Avl	4
+2021-08-14	Blk Mtn	5
+2021-08-14	Blk Mtn	5
+2021-08-14	Blk Mtn	4
+2021-08-14	Blk Mtn	5
+2021-08-14	Blk Mtn	3
+2021-08-14	Blk Mtn	3
+2021-08-14	Blk Mtn	2
+2021-08-14	Blk Mtn	4
+2021-08-14	Blk Mtn	1
+2021-08-14	Blk Mtn	4
+2021-08-14	Blk Mtn	5
+2021-08-14	Blk Mtn	5
+2021-08-14	Blk Mtn	3
+2021-08-14	Blk Mtn	5
+2021-08-14	Blk Mtn	3
+2021-08-14	Blk Mtn	5
+2021-08-14	Blk Mtn	5
+2021-08-14	Lexington	3
+2021-08-14	Lexington	5
+2021-08-14	Lexington	4
+2021-08-14	Lexington	4
+2021-08-14	Lexington	5
+2021-08-14	Lexington	4
+2021-08-14	Lexington	5
+2021-08-14	Lexington	3
+2021-08-14	Lexington	2
+2021-08-14	Lexington	5
+2021-08-14	Lexington	5
+2021-08-14	Lexington	4
+2021-08-14	Lexington	3
+2021-08-14	Lexington	2
+2021-08-14	Lexington	3
+2021-08-14	Lexington	3
+2021-08-14	Lexington	2
+2021-08-14	Lexington	5
+2021-08-14	Lexington	3
+2021-08-14	Lexington	4
+2021-08-14	Lexington	2
+2021-08-14	Lexington	3
+2021-08-14	Lexington	5
+2021-08-14	Lexington	5
+2021-08-14	Lexington	3
+2021-08-14	Lexington	5
+2021-08-14	Lexington	5
+2021-08-14	Lexington	4
+2021-08-14	Lexington	3
+2021-08-14	Lexington	4
+2021-08-14	Lexington	4
+2021-08-13	West Avl	5
+2021-08-13	West Avl	5
+2021-08-13	West Avl	5
+2021-08-13	West Avl	5
+2021-08-13	West Avl	5
+2021-08-13	West Avl	2
+2021-08-13	West Avl	5
+2021-08-13	West Avl	3
+2021-08-13	West Avl	5
+2021-08-13	West Avl	5
+2021-08-13	East Avl	5
+2021-08-13	East Avl	5
+2021-08-13	East Avl	5
+2021-08-13	East Avl	5
+2021-08-13	East Avl	5
+2021-08-13	East Avl	4
+2021-08-13	East Avl	5
+2021-08-13	East Avl	4
+2021-08-13	East Avl	4
+2021-08-13	East Avl	4
+2021-08-13	East Avl	3
+2021-08-13	East Avl	5
+2021-08-13	East Avl	5
+2021-08-13	East Avl	5
+2021-08-13	Blk Mtn	3
+2021-08-13	Blk Mtn	5
+2021-08-13	Blk Mtn	1
+2021-08-13	Blk Mtn	4
+2021-08-13	Blk Mtn	3
+2021-08-13	Blk Mtn	2
+2021-08-13	Blk Mtn	5
+2021-08-13	Blk Mtn	5
+2021-08-13	Blk Mtn	3
+2021-08-13	Blk Mtn	3
+2021-08-13	Blk Mtn	4
+2021-08-13	Blk Mtn	4
+2021-08-13	Blk Mtn	4
+2021-08-13	Blk Mtn	5
+2021-08-13	Blk Mtn	4
+2021-08-13	Blk Mtn	1
+2021-08-13	Blk Mtn	3
+2021-08-13	Lexington	5
+2021-08-13	Lexington	4
+2021-08-13	Lexington	3
+2021-08-13	Lexington	4
+2021-08-13	Lexington	4
+2021-08-13	Lexington	3
+2021-08-13	Lexington	5
+2021-08-13	Lexington	4
+2021-08-13	Lexington	4
+2021-08-13	Lexington	5
+2021-08-13	Lexington	4
+2021-08-13	Lexington	4
+2021-08-13	Lexington	5
+2021-08-13	Lexington	4
+2021-08-13	Lexington	3
+2021-08-13	Lexington	5
+2021-08-13	Lexington	3
+2021-08-13	Lexington	3
+2021-08-13	Lexington	5
+2021-08-13	Lexington	4
+2021-08-13	Lexington	3
+2021-08-13	Lexington	3
+2021-08-13	Lexington	4
+2021-08-13	Lexington	5
+2021-08-13	Lexington	4
+2021-08-13	Lexington	2
+2021-08-13	Lexington	5
+2021-08-13	Lexington	5
+2021-08-13	Lexington	4
+2021-08-13	Lexington	1
+2021-08-13	Lexington	3
+2021-08-13	Lexington	4
+2021-08-13	Lexington	5
+2021-08-13	Lexington	3
+2021-08-13	Lexington	4
+2021-08-13	Lexington	3
+2021-08-13	Lexington	5
+2021-08-13	Lexington	2
+2021-08-13	Lexington	3

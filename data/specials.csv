@@ -1,0 +1,173 @@
+date	store_name	coffee_name	price
+2021-11-10	West Avl	spankin	3.5
+2021-11-10	East Avl	rumble	2.75
+2021-11-10	Blk Mtn	rumble	2.5
+2021-11-09	East Avl	rumble	2.0
+2021-11-08	West Avl	fling	2.5
+2021-11-08	East Avl	iron fist	2.0
+2021-11-08	Blk Mtn	joyful smile	2.55
+2021-11-08	Lexington	iron fist	3.55
+2021-11-07	Blk Mtn	rumble	3.95
+2021-11-07	Lexington	rumble	2.75
+2021-11-05	West Avl	spankin	2.5
+2021-11-05	Blk Mtn	zzzzzzpao	4.25
+2021-11-04	East Avl	iron fist	2.5
+2021-11-04	Blk Mtn	joyful smile	2.95
+2021-11-03	East Avl	expedition	3.5
+2021-11-01	West Avl	zzzzzzpao	3.25
+2021-10-31	East Avl	sunrise	1.55
+2021-10-31	Blk Mtn	spankin	4.95
+2021-10-31	Lexington	rumble	2.55
+2021-10-30	West Avl	zzzzzzpao	4.55
+2021-10-29	West Avl	joyful smile	3.5
+2021-10-29	Blk Mtn	blingbling	3.75
+2021-10-29	Lexington	rumble	2.95
+2021-10-28	West Avl	zzzzzzpao	4.5
+2021-10-28	Blk Mtn	sunrise	1.55
+2021-10-28	Lexington	fling	3.55
+2021-10-26	East Avl	sunrise	1.25
+2021-10-26	Blk Mtn	fling	3.95
+2021-10-26	Lexington	rumble	2.25
+2021-10-25	West Avl	blingbling	2.25
+2021-10-25	Blk Mtn	sunrise	2.5
+2021-10-24	East Avl	expedition	3.95
+2021-10-24	Blk Mtn	sunrise	2.75
+2021-10-24	Lexington	joyful smile	2.25
+2021-10-23	East Avl	volcano	3.0
+2021-10-23	Blk Mtn	spankin	2.5
+2021-10-23	Lexington	sunrise	2.0
+2021-10-22	Blk Mtn	spankin	2.75
+2021-10-21	West Avl	rumble	2.95
+2021-10-21	East Avl	joyful smile	2.0
+2021-10-21	Blk Mtn	spankin	2.0
+2021-10-21	Lexington	iron fist	2.55
+2021-10-20	East Avl	spankin	2.95
+2021-10-20	Blk Mtn	expedition	2.5
+2021-10-19	East Avl	fling	3.0
+2021-10-19	Lexington	zzzzzzpao	3.5
+2021-10-17	Lexington	fling	2.5
+2021-10-15	West Avl	bliss	3.5
+2021-10-15	Blk Mtn	zzzzzzpao	4.5
+2021-10-15	Lexington	volcano	3.55
+2021-10-14	West Avl	iron fist	2.0
+2021-10-14	East Avl	iron fist	2.25
+2021-10-13	West Avl	zzzzzzpao	3.75
+2021-10-13	East Avl	sunrise	2.25
+2021-10-12	West Avl	blingbling	3.95
+2021-10-12	Blk Mtn	rumble	2.0
+2021-10-11	Blk Mtn	sunrise	2.0
+2021-10-11	Lexington	expedition	3.25
+2021-10-09	Lexington	sunrise	1.75
+2021-10-08	West Avl	fling	2.5
+2021-10-08	East Avl	bliss	3.55
+2021-10-08	Lexington	joyful smile	2.75
+2021-10-07	West Avl	joyful smile	2.0
+2021-10-07	Blk Mtn	expedition	3.25
+2021-10-07	Lexington	bliss	3.25
+2021-10-06	East Avl	volcano	3.55
+2021-10-06	Blk Mtn	zzzzzzpao	4.75
+2021-10-06	Lexington	sunrise	2.75
+2021-10-05	West Avl	expedition	4.5
+2021-10-05	East Avl	expedition	3.75
+2021-10-05	Blk Mtn	iron fist	3.95
+2021-10-04	Lexington	blingbling	2.5
+2021-10-03	West Avl	bliss	2.95
+2021-10-03	Lexington	spankin	3.75
+2021-10-02	Blk Mtn	volcano	2.75
+2021-10-01	West Avl	volcano	4.55
+2021-10-01	East Avl	fling	2.55
+2021-10-01	Blk Mtn	rumble	3.95
+2021-09-30	West Avl	expedition	3.25
+2021-09-30	East Avl	rumble	2.0
+2021-09-29	West Avl	blingbling	4.5
+2021-09-29	East Avl	iron fist	2.5
+2021-09-29	Blk Mtn	blingbling	2.0
+2021-09-29	Lexington	bliss	3.75
+2021-09-28	East Avl	sunrise	1.5
+2021-09-28	Lexington	joyful smile	3.5
+2021-09-27	West Avl	blingbling	3.75
+2021-09-27	Blk Mtn	spankin	2.95
+2021-09-26	Blk Mtn	rumble	3.55
+2021-09-26	Lexington	blingbling	2.55
+2021-09-25	East Avl	fling	3.0
+2021-09-25	Blk Mtn	volcano	3.5
+2021-09-24	East Avl	zzzzzzpao	3.0
+2021-09-24	Blk Mtn	zzzzzzpao	4.5
+2021-09-24	Lexington	blingbling	3.25
+2021-09-23	West Avl	expedition	2.75
+2021-09-23	Blk Mtn	fling	2.25
+2021-09-23	Lexington	blingbling	3.5
+2021-09-21	Blk Mtn	expedition	4.5
+2021-09-20	West Avl	rumble	2.75
+2021-09-20	Blk Mtn	bliss	2.0
+2021-09-20	Lexington	sunrise	1.0
+2021-09-18	Blk Mtn	rumble	2.25
+2021-09-17	West Avl	sunrise	2.95
+2021-09-17	Lexington	expedition	3.25
+2021-09-15	West Avl	spankin	2.5
+2021-09-15	Blk Mtn	joyful smile	2.0
+2021-09-15	Lexington	iron fist	3.95
+2021-09-14	East Avl	rumble	2.95
+2021-09-14	Blk Mtn	zzzzzzpao	4.25
+2021-09-14	Lexington	volcano	2.55
+2021-09-13	West Avl	volcano	3.55
+2021-09-13	East Avl	spankin	2.95
+2021-09-12	West Avl	rumble	2.95
+2021-09-11	West Avl	bliss	2.95
+2021-09-11	East Avl	bliss	2.5
+2021-09-11	Blk Mtn	blingbling	3.25
+2021-09-11	Lexington	fling	2.75
+2021-09-10	East Avl	volcano	3.95
+2021-09-10	Blk Mtn	expedition	4.5
+2021-09-09	West Avl	joyful smile	2.0
+2021-09-08	West Avl	bliss	3.5
+2021-09-07	West Avl	volcano	2.55
+2021-09-07	East Avl	blingbling	3.25
+2021-09-07	Lexington	zzzzzzpao	4.95
+2021-09-05	East Avl	iron fist	2.55
+2021-09-05	Blk Mtn	spankin	3.25
+2021-09-04	West Avl	iron fist	2.25
+2021-09-03	East Avl	sunrise	2.0
+2021-09-03	Lexington	fling	2.0
+2021-09-02	West Avl	zzzzzzpao	3.0
+2021-09-02	Lexington	spankin	4.55
+2021-09-01	Blk Mtn	zzzzzzpao	3.5
+2021-09-01	Lexington	blingbling	2.75
+2021-08-30	East Avl	volcano	3.25
+2021-08-30	Blk Mtn	iron fist	2.75
+2021-08-30	Lexington	rumble	2.5
+2021-08-29	West Avl	volcano	3.75
+2021-08-29	East Avl	zzzzzzpao	3.5
+2021-08-29	Lexington	bliss	2.5
+2021-08-28	East Avl	sunrise	2.95
+2021-08-28	Lexington	blingbling	3.0
+2021-08-27	West Avl	joyful smile	2.75
+2021-08-26	East Avl	spankin	4.75
+2021-08-26	Blk Mtn	zzzzzzpao	2.0
+2021-08-25	East Avl	blingbling	2.55
+2021-08-25	Blk Mtn	zzzzzzpao	3.5
+2021-08-25	Lexington	expedition	4.5
+2021-08-24	East Avl	iron fist	2.55
+2021-08-22	West Avl	rumble	3.95
+2021-08-22	East Avl	joyful smile	2.5
+2021-08-21	West Avl	blingbling	3.0
+2021-08-21	East Avl	iron fist	3.55
+2021-08-21	Lexington	blingbling	3.0
+2021-08-20	West Avl	volcano	3.0
+2021-08-20	East Avl	sunrise	2.5
+2021-08-19	East Avl	rumble	3.75
+2021-08-19	Blk Mtn	bliss	2.5
+2021-08-18	West Avl	expedition	2.5
+2021-08-18	Lexington	bliss	3.5
+2021-08-17	West Avl	blingbling	4.25
+2021-08-17	East Avl	joyful smile	2.55
+2021-08-16	West Avl	iron fist	2.55
+2021-08-16	East Avl	iron fist	2.25
+2021-08-16	Blk Mtn	iron fist	3.95
+2021-08-15	West Avl	sunrise	1.75
+2021-08-15	East Avl	iron fist	2.95
+2021-08-15	Blk Mtn	rumble	2.5
+2021-08-14	East Avl	volcano	3.55
+2021-08-14	Blk Mtn	fling	3.55
+2021-08-13	West Avl	blingbling	2.0
+2021-08-13	East Avl	fling	2.0

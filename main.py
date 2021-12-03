@@ -1,16 +1,6 @@
 import csv
 import sqlite3
-
-def open_csv (file):
-    fv = open(f"data/{file}", "r")
-    dialect = csv.Sniffer().sniff(fv.read(10000))
-    fv.seek(0)
-    d = csv.DictReader(fv, dialect=dialect)
-    return d
-
-def print_csv (file):
-    for line in open_csv(f'{file}'):
-        print(line)
+import cafe_data
 
 def create_tables ():
     with sqlite3.connect('data/cafe.sqlite3') as s3:
@@ -44,11 +34,20 @@ def create_tables ():
                	)
                """)
 
+def drop_tables():
+   with sqlite3.connect('data/cafe.sqlite3') as s3:
+       s3.execute("DROP TABLE if exists coffees")
+       s3.execute("DROP TABLE if exists specials")
+       s3.execute("DROP TABLE if exists ratings")
+       s3.execute("DROP TABLE if exists stores")
+
 
 if __name__ == "__main__":
-    open_csv('coffees.csv')
-    open_csv('ratings.csv')
-    open_csv('specials.csv')
-    open_csv('stores.csv')
+    cafe_data.open_csv('coffees.csv')
+    cafe_data.open_csv('ratings.csv')
+    cafe_data.open_csv('specials.csv')
+    cafe_data.open_csv('stores.csv')
 
 create_tables()
+
+cafe_data.load_cafe_data()
